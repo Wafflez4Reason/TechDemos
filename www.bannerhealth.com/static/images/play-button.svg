@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 57.1 (101010) - https://sketch.com -->
+    <title>2A1538B7-3A56-4C0D-8F51-F258D618AA1A</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="UI-Assets-for-Dev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BH-Blog---UI-Components---Icon-sets" transform="translate(-392.000000, -535.000000)">
+            <g id="icon" transform="translate(392.000000, 535.000000)">
+                <circle id="Oval-8" stroke="#CFD1D3" stroke-width="0.8" cx="20" cy="20" r="19.6"></circle>
+                <path d="M25.3096486,19.2905409 L16.6043876,14.0747866 C16.246882,13.8613305 15.8,14.1304708 15.8,14.5573831 L15.8,24.9981724 C15.8,25.4250847 16.246882,25.6942251 16.6043876,25.4807689 L25.3096486,20.2650146 C25.6671542,20.042185 25.6671542,19.5039971 25.3096486,19.2905409 Z" id="icon-color" fill="#007EB4"></path>
+            </g>
+        </g>
+    </g>
+</svg>

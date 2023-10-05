@@ -1,0 +1,1844 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 9]><html lang="en" class="ie9 no-js"><![endif]-->
+<!--[if !IE]><!-->
+<html lang="es">
+<!--<![endif]-->
+
+
+
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <title>Nuestras Ubicaciones | Banner Health</title>
+      <link rel="canonical" href="https://www.bannerhealth.com/es/locations" />
+      <link rel="alternate" href="https://www.bannerhealth.com/es/locations" hreflang="es" />
+      <link rel="alternate" href="https://www.bannerhealth.com/locations" hreflang="en-us" />
+      <link rel="alternate" href="https://www.bannerhealth.com/locations" hreflang="x-default" />
+    <meta id="description" name="description" content="Las ubicaciones en las que opera Banner Health detalladas por tipo de cl&#237;nica, ciudad, estado, servicios prestados y visibles en un mapa. Consulte la ubicaci&#243;n m&#225;s cercana a usted.">
+
+
+  <script type="text/javascript">
+    var googleApiKey = 'AIzaSyCdz3YdjJSYyFX0WifpC46yWisc2iuPik0';
+
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.js?features=Symbol%2CObject.getOwnPropertySymbols%2CSymbol.asyncIterator%2CSymbol.for%2CSymbol.hasInstance%2CSymbol.isConcatSpreadable%2CSymbol.iterator%2CSymbol.keyFor%2CSymbol.match%2CSymbol.replace%2CSymbol.prototype.description%2CSymbol.search%2CSymbol.species%2CSymbol.split%2CSymbol.toPrimitive%2CSymbol.toStringTag%2CSymbol.unscopables"></script>
+  <!-- kyrial sans pro semibold -->
+  <link rel="stylesheet" href="https://use.typekit.net/upo4sld.css">
+  <link rel="stylesheet" href="https://use.typekit.net/ewu8ezp.css">
+  <link rel="stylesheet" href="https://use.typekit.net/svc0cnr.css">
+  <!-- /kyrial sans pro semibold -->
+  <link href="/static/BH/styles/bh.css" rel="stylesheet" />
+  
+  <script>
+ var forceMediaDownload = true;
+</script>
+
+<script src='//cdn.appdynamics.com/adrum/adrum-4.5.0.773.js'></script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P6NQWFD');</script>
+<!-- End Google Tag Manager -->
+<script>
+window.dataLayer =  window.dataLayer || [];
+var gtm_getcarenow = {
+'event' : 'Get Care Now Button',
+'category' : 'Button Interaction',
+'action' : 'Click',
+'label' : ''
+} 
+</script>
+<script src="https://bannerhealth.usablenet.com/pt/start" type="text/javascript" async></script><script>
+document.addEventListener('WebComponentsReady', function() {
+var  locationTabArr = {
+	'event': 'Detail or Map View',
+	'category': 'Locations',
+	'action':'Select',
+	'label':'Detail View',
+	'Location Name' : '',
+	'Location Type' : ''
+};
+});
+</script>
+
+  
+<meta name="VIcurrentDateTime" content="638320752604874927" />
+<script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
+
+
+</head>
+<body class="header-static  ">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P6NQWFD"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+  
+
+
+<section class="bh-app-mobile-download mb-4">
+  <div class="site-search-results-doctors-cards">
+    <div class="site-search-results-doctors-card card-alignment">
+      <div class="close-button-alignment">&#10006;</div>
+      <div class="site-search-results-doctors-left-side">
+        <div class="navbar-brand branding">
+          <!-- Horizontal Logo -->
+          <a class="header-logo" href="">
+            <img src="/-/media/images/project/bh/logos/banner-heart.ashx" alt="" />
+          </a>
+        </div>
+      </div>
+      <div class="site-search-results-doctors-middle-side">
+        <div class="mobile-app-doctor-name">
+          Banner Health
+        </div>
+        <div class="site-search-results-doctors-info">Acerca de</div>
+        <div class="mobile-app-status">
+          Instalado
+        </div>
+      </div>
+      <div class="site-search-results-doctors-right-corner-side">
+        <a href="" class="app-open-button">Abierto</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+<header>
+
+	
+
+
+
+
+	<!-- Top Nav -->
+	<nav class="navbar navbar-utility">
+		<div class="container navbar-container">
+			<div class="utility-container">
+				<!-- Set My Location -->
+				
+
+<!--SetMyLocation Component will go on this placeholder-->
+<button class="btn btn-link font-weight-normal" data-toggle="modal" data-target="#geoLocationModal" data-haslocation=false>
+    <i class="fas fa-map-marker-alt"></i>
+    Configurar su ubicaci&#243;n
+</button>
+				<a class="language-toggle os-language" href="javascript:SetLanguage(); ">English</a>
+
+  <script type="text/javascript">
+
+
+    function SetLanguage() {
+      var urlParam = window.location.search;
+      if (typeof urlParam === 'undefined') {
+        urlParam = '';
+      }
+      //Create the model
+      var model = {
+        "language": "en",
+        "url": "/locations",
+        "sitename": "bh"
+      };
+	 // console.log(model);
+      //call the SetLanguage action method
+      $.ajax({
+        url: '/api/sitecore/Language/SetLanguage',
+        data: model,
+        type: "POST",
+        cache: false,
+        success: function (data) {
+          console.log('success:redirect url' + data);
+          //Redirect to new url
+          window.location.href = data + urlParam;
+        },
+        failure: function (result) {
+          console.log('failure');
+          console(result.responseText);
+        },
+        error: function (result) {
+          console.log('error');
+          console.log(result.responseText);
+        }
+      })
+
+    }
+
+  </script>
+
+				<a href="https://www.assistive.bannerhealth.com//es/locations" class="UsableNetAssistive language-toggle" onclick="return enableUsableNetAssistive()"  target="_self"> Habilitar accesibilidad</a>
+
+
+
+				<!-- START Set My Location Placeholder Content -->
+			</div>
+			<!-- <button class="btn btn-link"> -->
+			<!-- <i class="fa fa-map-marker"></i> -->
+			<!-- Set My Location -->
+			<!-- </button> -->
+			<!-- START Set My Location Placeholder Content -->
+			<div class="utility-container">
+				<ul class="nav justify-content-end utility-menu">
+					<!-- Nav Links -->
+					
+
+		<li class="nav-item">
+			<a class="nav-link" href="/es/careers" target="">
+				Oportunidades de empleo
+			</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="/es/calendar" target="">
+				Clases&#160;+&#160;eventos
+			</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="/es/staying-well" target="">
+				Salud&#160;+&#160;bienestar
+			</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="/es/patients" target="">
+				Recursos para pacientes
+			</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="/es/patients/billing" target="">
+				Facturaci&#243;n
+			</a>
+		</li>
+
+				</ul>
+
+				<!-- Login and Search -->
+				
+				<!-- START Login and Search Placeholder Content -->
+				<ul class="nav justify-content-end utility-menu">
+					<li class="nav-item utility-menu-button">
+						<a class="nav-link nav-link-search" href="#" title="Search" data-toggle="modal" data-target="#searchModal">
+							<i class="fa fa-search"></i>
+						</a>
+					</li>
+					
+<!--Desktop-->
+    <li class="nav-item">
+        <a class="nav-link bh-primary-button" href="https://account.bannerhealth.com/sign-in" title="Sign in">
+            <img src="/-/media/images/project/bh/icons/bh-ic-patient.ashx" alt="Patient icon" />
+            Iniciar sesi&#243;n en la Patient Account
+        </a>
+    </li>
+
+<!--Mobile View-->
+
+				</ul>
+				<!-- END Login and Search Placeholder Content -->
+			</div>
+		</div>
+	</nav>
+
+
+	<!-- Main Nav -->
+	<nav class="navbar navbar-collapse navbar-main">
+		<div class="container navbar-container">
+			<div class="navbar-brand branding">
+				<!-- Horizontal Logo -->
+				
+
+ 
+  <a class="header-logo" href="/es" title="Go to home page">
+    <img src="/-/media/images/project/bh/logos/global-logo-v2.ashx" alt="global-logo-v2" DisableWebEdit="True" />
+
+  </a>
+
+
+			</div>
+			<div class="utility-container">
+				<ul class="nav justify-content-end utility-menu">
+					<!-- Nav Links -->
+					
+
+		<li class="nav-item">
+			<a class="nav-link" href="/es/physician-directory" target="">
+				Encuentre un m&#233;dico
+			</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="/es/locations" target="">
+				Encuentre un Consultorio m&#233;dico
+			</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="/es/services" target="">
+				Condiciones y servicios
+			</a>
+		</li>
+
+				</ul>
+				<ul class="nav justify-content-end utility-menu tablet">
+					<li class="nav-item">
+						<span class="navbar-text menu-item">
+							<!-- Get Care Now Button -->
+							<a href="JavaScript:;" class="cta-button-hero" data-gtm-getcarenow data-toggle="modal" data-target="#gcnModal">
+								Obtenga atenci&#243;n ahora
+							</a>
+						</span>
+					</li>
+				</ul>
+				<ul class="nav justify-content-end utility-menu mobile">
+					<li class="nav-item">
+						<button class="header-search" type="button" aria-label="search button" data-toggle="modal" data-target="#searchModal">
+							<i class="fa fa-search"></i>
+						</button>
+					</li>
+					<li class="nav-item">
+						<button id="global-menu-open" type="button" data-toggle="collapse" data-target="#mobile-menu" aria-label="menu open button">
+							<i class="fa fa-bars"></i>
+						</button>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+
+	<!-- Mobile Menu -->
+	<div class="collapse navbar-collapse mobile-menu" id="mobile-menu">
+		<!-- Button Toolbar -->
+		<div class="btn-toolbar mobile-toolbar" role="toolbar" aria-label="Toolbar">
+			<div class="btn-group" role="group">
+				<button type="button" data-toggle="modal" data-target="#geoLocationModal">
+					<i class="fa fa-map-marker" aria-hidden="true"></i>
+				</button>
+			</div>
+			<div class="btn-group" role="group">
+				<button aria-label="search" type="button" data-toggle="modal" data-target="#searchModal">
+					<i class="fa fa-search"></i>
+				</button>
+			</div>
+
+			<div class="btn-group" role="group">
+				<button id="global-menu-close" type="button" aria-label="menu close button" data-toggle="collapse" data-target="#mobile-menu">
+					<i class="fa fa-times"></i>
+				</button>
+			</div>
+		</div>
+
+		<!--Sign In Button-->
+		
+<!--Desktop-->
+
+<!--Mobile View-->
+    <div class="cta-full">
+        <a class="nav-link bh-primary-button-mobile" href="https://account.bannerhealth.com/sign-in" title="Sign in">
+            <img src="/-/media/images/project/bh/icons/bh-ic-patient.ashx" alt="Patient icon" />
+            Iniciar sesi&#243;n en la Patient Account
+        </a>
+    </div>
+
+
+		<div class="cta-hero">
+			<!-- Get Care Now Button -->
+			<a href="JavaScript:;" class="cta-button-hero" data-gtm-getcarenow data-toggle="modal" data-target="#gcnModal">
+				Obtenga atenci&#243;n ahora
+			</a>
+		</div>
+		<ul class="nav justify-content-center flex-column mobile-main-menu">
+			<!-- Nav Links -->
+			
+
+		<li class="nav-item">
+			<a class="nav-link" href="/es/physician-directory" target="">
+				Encuentre un m&#233;dico
+			</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="/es/locations" target="">
+				Encuentre un Consultorio m&#233;dico
+			</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="/es/services" target="">
+				Condiciones y servicios
+			</a>
+		</li>
+
+		</ul>
+		<ul class="nav justify-content-center flex-column mobile-utility-menu">
+			<!-- Nav Links -->
+			
+
+		<li class="nav-item">
+			<a class="nav-link" href="/es/careers" target="">
+				Oportunidades de empleo
+			</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="/es/calendar" target="">
+				Clases&#160;+&#160;eventos
+			</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="/es/staying-well" target="">
+				Salud&#160;+&#160;bienestar
+			</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="/es/patients" target="">
+				Recursos para pacientes
+			</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="/es/patients/billing" target="">
+				Facturaci&#243;n
+			</a>
+		</li>
+<a class="language-toggle os-language" href="javascript:SetLanguage(); ">English</a>
+
+  <script type="text/javascript">
+
+
+    function SetLanguage() {
+      var urlParam = window.location.search;
+      if (typeof urlParam === 'undefined') {
+        urlParam = '';
+      }
+      //Create the model
+      var model = {
+        "language": "en",
+        "url": "/locations",
+        "sitename": "bh"
+      };
+	 // console.log(model);
+      //call the SetLanguage action method
+      $.ajax({
+        url: '/api/sitecore/Language/SetLanguage',
+        data: model,
+        type: "POST",
+        cache: false,
+        success: function (data) {
+          console.log('success:redirect url' + data);
+          //Redirect to new url
+          window.location.href = data + urlParam;
+        },
+        failure: function (result) {
+          console.log('failure');
+          console(result.responseText);
+        },
+        error: function (result) {
+          console.log('error');
+          console.log(result.responseText);
+        }
+      })
+
+    }
+
+  </script>
+
+			<li class="nav-item pt-2"><a href="https://www.assistive.bannerhealth.com//es/locations" class="UsableNetAssistive language-toggle" onclick="return enableUsableNetAssistive()"  target="_self"> Habilitar accesibilidad</a>
+
+
+</li>
+		</ul>
+	</div>
+</header>
+
+  <div data-js="scrolling-affixed-container">
+    
+
+<div class="  pr-2 pr-sm-0 pl-4 pl-sm-0   pr-sm-2 pr-lg-0 pl-sm-4 pl-lg-0  pb-lg-3 pr-lg-2 pl-lg-4   ">
+	<div class="layout-container">
+		<div class="row">
+			<div class="col-md-9 ">
+				
+
+
+
+  <nav class="bh-breadcrumb d-none d-md-block d-md-block" aria-label="breadcrumb">
+    <div class="row">
+      <div class="col-12">
+        <ol class="breadcrumb mb-0 p-0">
+            <li class="breadcrumb-item"><a href="/es"><span class="fal fa-home"></span></a></li>
+
+                <li class="breadcrumb-item active" aria-current="page"><span class="fal fa-angle-right"></span>Ubicaci&#243;n</li>
+        </ol>
+      </div>
+    </div>
+  </nav>
+  <script>
+    $(document).ready(function () {
+      var bread = {
+        "@context": "https://www.schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": []
+      }
+      var exist = false;
+      $('.breadcrumb li').each(function (index) {
+        if (index === 0) return;
+        var item = {}
+        if (index != $('.breadcrumb li').length - 1) {
+          var href = $(this).find("a").attr('href');
+          if (href) item["@id"] = window.location.protocol + "//" + window.location.host + href
+          else item["@id"] = window.location.protocol + "//" + window.location.host + window.location.pathname
+
+          item["name"] = $.trim($(this).text());
+        }
+
+        bread.itemListElement.push({
+          "@type": "ListItem",
+          "position": index,
+          "name": $.trim($(this).text()),
+          "item": item["@id"]
+        })
+
+        exist = true;
+
+      });
+      console.log(bread.itemListElement);
+      if (exist) {
+        var jsonStrb = JSON.stringify(bread);
+        var s2 = document.createElement("script");
+        s2.type = "application/ld+json";
+        s2.id = "BreadcrumbJson";
+        $("body").append(s2);
+        $('#BreadcrumbJson').append(jsonStrb);
+      }
+    })
+  </script>
+
+			</div>
+			<div class="col-md-3 ">
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+<div class="  pr-2 pr-sm-0    pr-sm-2 pr-lg-0    pr-lg-2    " data-js="placeholder-event">
+	<div class="layout-container">
+		<div class="row">
+			<div class="col-sm-12">
+				
+
+<div class="   pr-2 pr-sm-0    pr-sm-2 pr-lg-0   pb-lg-3   ">
+	<div class="container-fluid ">
+		<h1>Ubicaciones</h1>
+	</div>
+</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="  pr-2 pr-sm-0 pl-4 pl-sm-0   pr-sm-2 pr-lg-0 pl-sm-4 pl-lg-0   pr-lg-2 pl-lg-4  ">
+	<div class="layout-container">
+		<div class="row">
+			<div class="col-md-8 ">
+				
+
+
+<!-- Desktop View-->
+<div uatid="Location Search Results" class="search-location-results bh-tabs">
+
+	<!-- Tabs -->
+	<ul class="nav nav-tabs" role="tablist">
+		<li class="nav-item">
+			<a class="nav-link active" href="#location-detail-view" data-toggle="tab" role="tab" data-tab-location  aria-controls="location-detail-view" aria-selected="false">
+				Vista de detalles
+			</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="#location-map-view" data-toggle="tab" role="tab" data-tab-location aria-controls="location-map-view" aria-selected="false">Vista del mapa</a>
+		</li>
+	</ul>
+	<div class="tab-content" id="nav-tabContent">
+		<div uatid="Location Search Results" class="tab-pane fade active show" id="location-detail-view" role="tabpanel" aria-labelledby="">
+			
+
+
+  <div class="search-location-result row">
+    <div class="col-md-5 text-center">
+      <img src="/-/media/images/project/bh/location-images/fort-collins/banner-fort-collins-medical-center.ashx?h=318&amp;w=478&amp;hash=BDE80A7F01238B9983E82C49C7AF47BE" class="location-result-img" alt="banner-fort-collins-medical-center" />
+
+
+    </div>
+
+
+    <div class="col-md-7 location-details">
+      <div class="h3 location-title">
+        <a class="location-title" href="/es/locations/fort-collins/banner-fort-collins-medical-center">
+          Banner Fort Collins Medical Center
+        </a>
+
+      </div>
+              <div class="location-address">
+          <div>4700 Lady Moon Dr <br /> Fort Collins &#044; CO 80528</div>
+
+        </div>
+              <div class="location-distance">
+          <div>Distancia : 8.22 &#032;Mile(s)</div>
+        </div>
+      <div class="location-link">
+        <a href="http://maps.google.com?q=4700 Lady Moon Dr  Fort Collins 80528">
+
+          <i class="fal fa-map-marker-alt"></i>Mapas y Direcciones
+        </a>
+      </div>
+      <div class="location-link">
+        <a href="/es/locations/fort-collins/banner-fort-collins-medical-center">
+
+          <i class="fal fa-info-circle"></i>Leer más
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="search-location-result row">
+    <div class="col-md-5 text-center">
+      <img src="/-/media/images/project/bh/location-images/loveland/mckee-medical-center.ashx?h=318&amp;w=478&amp;hash=6FADE9E50CF245ADA64E623566CC7049" class="location-result-img" alt="mckee-medical-center" />
+
+
+    </div>
+
+
+    <div class="col-md-7 location-details">
+      <div class="h3 location-title">
+        <a class="location-title" href="/es/locations/loveland/mckee-medical-center">
+          McKee Medical Center Banner McKee
+        </a>
+
+      </div>
+              <div class="location-address">
+          <div>2000 Boise Ave <br /> Loveland &#044; CO 80538</div>
+
+        </div>
+              <div class="location-distance">
+          <div>Distancia : 12.95 &#032;Mile(s)</div>
+        </div>
+      <div class="location-link">
+        <a href="http://maps.google.com?q=2000 Boise Ave  Loveland 80538">
+
+          <i class="fal fa-map-marker-alt"></i>Mapas y Direcciones
+        </a>
+      </div>
+      <div class="location-link">
+        <a href="/es/locations/loveland/mckee-medical-center">
+
+          <i class="fal fa-info-circle"></i>Leer más
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="search-location-result row">
+    <div class="col-md-5 text-center">
+      <img src="/-/media/images/project/bh/location-images/greeley/north-colorado-medical-center.ashx?h=318&amp;w=478&amp;hash=49DC5D4D9B5ED2E67A1D72C65F4EA68E" class="location-result-img" alt="north-colorado-medical-center" />
+
+
+    </div>
+
+
+    <div class="col-md-7 location-details">
+      <div class="h3 location-title">
+        <a class="location-title" href="/es/locations/greeley/north-colorado-medical-center">
+          North Colorado Medical Center Banner del Norte de Colorado
+        </a>
+
+      </div>
+              <div class="location-address">
+          <div>1801 16th St. <br /> Greeley &#044; CO 80631</div>
+
+        </div>
+              <div class="location-distance">
+          <div>Distancia : 25.47 &#032;Mile(s)</div>
+        </div>
+      <div class="location-link">
+        <a href="http://maps.google.com?q=1801 16th St.  Greeley 80631">
+
+          <i class="fal fa-map-marker-alt"></i>Mapas y Direcciones
+        </a>
+      </div>
+      <div class="location-link">
+        <a href="/es/locations/greeley/north-colorado-medical-center">
+
+          <i class="fal fa-info-circle"></i>Leer más
+        </a>
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+
+
+		</div>
+		<div uatid="Location Search Results" class="tab-pane fade" id="location-map-view" role="tabpanel" aria-labelledby="">
+			
+
+		<div data-js="map_canvas_tab" data-map-config='{"styleConfig":{"width":"100%","height":"300px"},"markerList":[{&quot;Latitude&quot;:&quot;40.52139&quot;,&quot;Longitude&quot;:&quot;-105.0085323&quot;,&quot;Locations&quot;:[{&quot;Name&quot;:&quot;Banner Fort Collins Medical Center&quot;,&quot;Address&quot;:&quot;4700 Lady Moon Dr&lt;br/&gt;Fort Collins, CO 80528&quot;,&quot;PhoneNumber&quot;:&quot;(970) 821-4000&quot;,&quot;Maps&quot;:&quot;/es/locations/fort-collins/banner-fort-collins-medical-center&quot;,&quot;Distance&quot;:&quot;8.22&quot;,&quot;IsBannerLocation&quot;:&quot;true&quot;,&quot;IsInfoWindow&quot;:&quot;true&quot;,&quot;ClockwiseID&quot;:null,&quot;ClockwiseButtonText&quot;:null}]},{&quot;Latitude&quot;:&quot;40.4132365&quot;,&quot;Longitude&quot;:&quot;-105.0513281&quot;,&quot;Locations&quot;:[{&quot;Name&quot;:&quot;McKee Medical Center Banner McKee&quot;,&quot;Address&quot;:&quot;2000 Boise Ave&lt;br/&gt;Loveland, CO 80538&quot;,&quot;PhoneNumber&quot;:&quot;(970) 820-4640&quot;,&quot;Maps&quot;:&quot;/es/locations/loveland/mckee-medical-center&quot;,&quot;Distance&quot;:&quot;12.95&quot;,&quot;IsBannerLocation&quot;:&quot;true&quot;,&quot;IsInfoWindow&quot;:&quot;true&quot;,&quot;ClockwiseID&quot;:null,&quot;ClockwiseButtonText&quot;:null}]},{&quot;Latitude&quot;:&quot;40.4146785&quot;,&quot;Longitude&quot;:&quot;-104.7101695&quot;,&quot;Locations&quot;:[{&quot;Name&quot;:&quot;North Colorado Medical Center Banner del Norte de Colorado&quot;,&quot;Address&quot;:&quot;1801 16th St.&lt;br/&gt;Greeley, CO 80631&quot;,&quot;PhoneNumber&quot;:&quot;(970) 810-4121&quot;,&quot;Maps&quot;:&quot;/es/locations/greeley/north-colorado-medical-center&quot;,&quot;Distance&quot;:&quot;25.47&quot;,&quot;IsBannerLocation&quot;:&quot;true&quot;,&quot;IsInfoWindow&quot;:&quot;true&quot;,&quot;ClockwiseID&quot;:null,&quot;ClockwiseButtonText&quot;:null}]}]}'>
+
+		</div>
+
+		</div>
+	</div>
+
+
+
+	<!-- Mobile View-->
+	<div class="d-block d-sm-none">
+		<div class="accordion " id="accordionExample">
+
+			<div class="card rounded-0 border-0">
+				<div class="card-header border-0 p-0" id="headingThreeB">
+					<a class="accordion-header component-accordion-trigger collapsed" data-toggle="collapse" data-tab-location data-target="#collapseThreeB" aria-expanded="false" aria-controls="collapseThreeB">
+						<span class="accordion-text">Vista de detalles</span>
+						<span class="accordion-icon" aria-label="accordion icon"></span>
+					</a>
+				</div>
+				<div id="collapseThreeB" class="collapse" aria-labelledby="headingThreeB" data-parent="#accordionExample">
+					<div class="card-body">
+						
+
+
+  <div class="search-location-result row">
+    <div class="col-md-5 text-center">
+      <img src="/-/media/images/project/bh/location-images/fort-collins/banner-fort-collins-medical-center.ashx?h=318&amp;w=478&amp;hash=BDE80A7F01238B9983E82C49C7AF47BE" class="location-result-img" alt="banner-fort-collins-medical-center" />
+
+
+    </div>
+
+
+    <div class="col-md-7 location-details">
+      <div class="h3 location-title">
+        <a class="location-title" href="/es/locations/fort-collins/banner-fort-collins-medical-center">
+          Banner Fort Collins Medical Center
+        </a>
+
+      </div>
+              <div class="location-address">
+          <div>4700 Lady Moon Dr <br /> Fort Collins &#044; CO 80528</div>
+
+        </div>
+              <div class="location-distance">
+          <div>Distancia : 8.22 &#032;Mile(s)</div>
+        </div>
+      <div class="location-link">
+        <a href="http://maps.google.com?q=4700 Lady Moon Dr  Fort Collins 80528">
+
+          <i class="fal fa-map-marker-alt"></i>Mapas y Direcciones
+        </a>
+      </div>
+      <div class="location-link">
+        <a href="/es/locations/fort-collins/banner-fort-collins-medical-center">
+
+          <i class="fal fa-info-circle"></i>Leer más
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="search-location-result row">
+    <div class="col-md-5 text-center">
+      <img src="/-/media/images/project/bh/location-images/loveland/mckee-medical-center.ashx?h=318&amp;w=478&amp;hash=6FADE9E50CF245ADA64E623566CC7049" class="location-result-img" alt="mckee-medical-center" />
+
+
+    </div>
+
+
+    <div class="col-md-7 location-details">
+      <div class="h3 location-title">
+        <a class="location-title" href="/es/locations/loveland/mckee-medical-center">
+          McKee Medical Center Banner McKee
+        </a>
+
+      </div>
+              <div class="location-address">
+          <div>2000 Boise Ave <br /> Loveland &#044; CO 80538</div>
+
+        </div>
+              <div class="location-distance">
+          <div>Distancia : 12.95 &#032;Mile(s)</div>
+        </div>
+      <div class="location-link">
+        <a href="http://maps.google.com?q=2000 Boise Ave  Loveland 80538">
+
+          <i class="fal fa-map-marker-alt"></i>Mapas y Direcciones
+        </a>
+      </div>
+      <div class="location-link">
+        <a href="/es/locations/loveland/mckee-medical-center">
+
+          <i class="fal fa-info-circle"></i>Leer más
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="search-location-result row">
+    <div class="col-md-5 text-center">
+      <img src="/-/media/images/project/bh/location-images/greeley/north-colorado-medical-center.ashx?h=318&amp;w=478&amp;hash=49DC5D4D9B5ED2E67A1D72C65F4EA68E" class="location-result-img" alt="north-colorado-medical-center" />
+
+
+    </div>
+
+
+    <div class="col-md-7 location-details">
+      <div class="h3 location-title">
+        <a class="location-title" href="/es/locations/greeley/north-colorado-medical-center">
+          North Colorado Medical Center Banner del Norte de Colorado
+        </a>
+
+      </div>
+              <div class="location-address">
+          <div>1801 16th St. <br /> Greeley &#044; CO 80631</div>
+
+        </div>
+              <div class="location-distance">
+          <div>Distancia : 25.47 &#032;Mile(s)</div>
+        </div>
+      <div class="location-link">
+        <a href="http://maps.google.com?q=1801 16th St.  Greeley 80631">
+
+          <i class="fal fa-map-marker-alt"></i>Mapas y Direcciones
+        </a>
+      </div>
+      <div class="location-link">
+        <a href="/es/locations/greeley/north-colorado-medical-center">
+
+          <i class="fal fa-info-circle"></i>Leer más
+        </a>
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+
+
+					</div>
+				</div>
+			</div>
+
+			<div class="card rounded-0 border-0">
+				<div class="card-header border-0 p-0" id="headingFourB">
+					<a class="accordion-header component-accordion-trigger collapsed" data-tab-location data-toggle="collapse" data-target="#collapseFourB" aria-expanded="false" aria-controls="collapseFourB">
+						<span class="accordion-text">Vista del mapa</span>
+						<span class="accordion-icon" aria-label="accordion icon"></span>
+					</a>
+				</div>
+				<div id="collapseFourB" class="collapse" aria-labelledby="headingFourB" data-parent="#accordionExample">
+					<div class="card-body">
+						
+
+		<div data-js="map_canvas_tab" data-map-config='{"styleConfig":{"width":"100%","height":"300px"},"markerList":[{&quot;Latitude&quot;:&quot;40.52139&quot;,&quot;Longitude&quot;:&quot;-105.0085323&quot;,&quot;Locations&quot;:[{&quot;Name&quot;:&quot;Banner Fort Collins Medical Center&quot;,&quot;Address&quot;:&quot;4700 Lady Moon Dr&lt;br/&gt;Fort Collins, CO 80528&quot;,&quot;PhoneNumber&quot;:&quot;(970) 821-4000&quot;,&quot;Maps&quot;:&quot;/es/locations/fort-collins/banner-fort-collins-medical-center&quot;,&quot;Distance&quot;:&quot;8.22&quot;,&quot;IsBannerLocation&quot;:&quot;true&quot;,&quot;IsInfoWindow&quot;:&quot;true&quot;,&quot;ClockwiseID&quot;:null,&quot;ClockwiseButtonText&quot;:null}]},{&quot;Latitude&quot;:&quot;40.4132365&quot;,&quot;Longitude&quot;:&quot;-105.0513281&quot;,&quot;Locations&quot;:[{&quot;Name&quot;:&quot;McKee Medical Center Banner McKee&quot;,&quot;Address&quot;:&quot;2000 Boise Ave&lt;br/&gt;Loveland, CO 80538&quot;,&quot;PhoneNumber&quot;:&quot;(970) 820-4640&quot;,&quot;Maps&quot;:&quot;/es/locations/loveland/mckee-medical-center&quot;,&quot;Distance&quot;:&quot;12.95&quot;,&quot;IsBannerLocation&quot;:&quot;true&quot;,&quot;IsInfoWindow&quot;:&quot;true&quot;,&quot;ClockwiseID&quot;:null,&quot;ClockwiseButtonText&quot;:null}]},{&quot;Latitude&quot;:&quot;40.4146785&quot;,&quot;Longitude&quot;:&quot;-104.7101695&quot;,&quot;Locations&quot;:[{&quot;Name&quot;:&quot;North Colorado Medical Center Banner del Norte de Colorado&quot;,&quot;Address&quot;:&quot;1801 16th St.&lt;br/&gt;Greeley, CO 80631&quot;,&quot;PhoneNumber&quot;:&quot;(970) 810-4121&quot;,&quot;Maps&quot;:&quot;/es/locations/greeley/north-colorado-medical-center&quot;,&quot;Distance&quot;:&quot;25.47&quot;,&quot;IsBannerLocation&quot;:&quot;true&quot;,&quot;IsInfoWindow&quot;:&quot;true&quot;,&quot;ClockwiseID&quot;:null,&quot;ClockwiseButtonText&quot;:null}]}]}'>
+
+		</div>
+
+					</div>
+				</div>
+			</div>
+
+		</div>
+
+	</div>
+</div>
+
+<!-- inline JS to populate defaults for search filter -->
+<script>
+
+	document.addEventListener('DOMContentLoaded', function(){
+
+		// Populate default zip
+
+		// Populate default range
+	});
+
+
+</script>
+
+
+			</div>
+			<div class="col-md-4 ">
+				
+
+
+<form class="search-filter" data-js="search-filter-location">
+	<div class="h3">
+		<a class="mobile-viewport d-block d-md-none" href="#" data-toggle="collapse" data-target="#search-filter-location">
+			Filtro de búsqueda
+			<span><i class="fas fa-chevron-down"></i></span>
+		</a>
+		<div class="d-none d-md-block">Filtro de búsqueda</div>
+	</div>
+  <div id="search-filter-location" class="collapse">
+    <label>Palabra clave</label>
+    <input type="search" class="form-control" placeholder="Ingrese palabras claves)" name="keyword-search" maxlength="150" />
+    <!-- Location Name -->
+    <label>Nombre del lugar</label>
+    <input type="search" class="form-control typeahead" placeholder="Introduce un nombre de ubicación" name="location-name" data-list="locations" autocomplete="off" />
+    <datalist id="locations">
+        <option>Banner Boswell Medical Center Emergency Room</option>
+        <option>Sterling Regional MedCenter Emergency Room</option>
+        <option>Banner Del E Webb Medical Center Emergency Room</option>
+        <option>Banner Lassen Medical Center Emergency Room</option>
+        <option>Community Hospital Emergency Room</option>
+        <option>Platte County Memorial Hospital Emergency Room</option>
+        <option>Banner Churchill Community Hospital Emergency Room</option>
+        <option>Banner Fort Collins Medical Center Emergency Room</option>
+        <option>Banner Gateway Medical Center Emergency Room</option>
+        <option>Washakie Medical Center Emergency Room</option>
+        <option>Banner North Colorado Medical Center Emergency Room</option>
+        <option>Banner North Colorado Emergency Care</option>
+        <option>Banner - University Medical Center South Emergency Room</option>
+        <option>Banner - University Medical Center Tucson Emergency Room</option>
+        <option>Diamond Children&#39;s Medical Center Emergency Room</option>
+        <option>Banner McKee Medical Center Emergency Room</option>
+        <option>Banner Thunderbird Medical Center Emergency Room</option>
+        <option>Ogallala Community Hospital Emergency Room</option>
+        <option>Page Hospital Emergency Room</option>
+        <option>East Morgan County Hospital Emergency Room</option>
+        <option>Banner Payson Medical Center Emergency Room</option>
+        <option>Banner Heart Hospital Emergency Room</option>
+        <option>Banner Children&#39;s at Desert Emergency Room</option>
+        <option>Banner Baywood Medical Center Emergency Room</option>
+        <option>Banner Desert Medical Center Emergency Room</option>
+        <option>Banner Ironwood Medical Center Emergency Room</option>
+        <option>Banner Goldfield Medical Center Emergency Room</option>
+        <option>Banner Casa Grande Medical Center Emergency Room</option>
+        <option>Banner - University Medical Center Phoenix Emergency Room</option>
+        <option>Banner Estrella Medical Center Emergency Room</option>
+        <option>Banner Urgent Care</option>
+        <option>Banner Children&#39;s Urgent Care</option>
+        <option>Banner Urgent Care - TEMPORARILY CLOSED</option>
+        <option>Banner Boswell Medical Center</option>
+        <option>Banner Boswell Skilled Nursing Rehabilitation Center</option>
+        <option>Sterling Regional MedCenter</option>
+        <option>Banner Del E Webb Medical Center</option>
+        <option>Banner Home Care</option>
+        <option>Banner Hospice</option>
+        <option>Banner Lassen Medical Center</option>
+        <option>Community Hospital</option>
+        <option>Banner Rehabilitation Hospital West</option>
+        <option>Platte County Memorial Hospital</option>
+        <option>Banner Ocotillo Medical Center</option>
+        <option>Banner Churchill Community Hospital</option>
+        <option>Banner Fort Collins Medical Center</option>
+        <option>Banner Gateway Medical Center</option>
+        <option>Washakie Medical Center</option>
+        <option>Banner Behavioral Health Hospital</option>
+        <option>Hospitality House at Banner North Colorado Medical Center</option>
+        <option>Banner North Colorado Medical Center</option>
+        <option>Banner - University Medical Center South</option>
+        <option>Banner - University Medical Center Tucson</option>
+        <option>Diamond Children&#39;s Medical Center</option>
+        <option>Banner McKee Medical Center</option>
+        <option>Banner Thunderbird Medical Center</option>
+        <option>Ogallala Community Hospital</option>
+        <option>Page Hospital</option>
+        <option>East Morgan County Hospital</option>
+        <option>Banner Payson Medical Center</option>
+        <option>Banner Baywood Medical Center</option>
+        <option>Banner Children&#39;s at Desert</option>
+        <option>Banner Desert Medical Center</option>
+        <option>Banner Heart Hospital</option>
+        <option>Banner Rehabilitation Hospital East</option>
+        <option>Banner Ironwood Medical Center</option>
+        <option>Banner Goldfield Medical Center</option>
+        <option>Banner Casa Grande Medical Center</option>
+        <option>Banner Rehabilitation Hospital Phoenix</option>
+        <option>Banner - University Medical Center Phoenix</option>
+        <option>Banner Estrella Medical Center</option>
+        <option>Banner Wyoming Medical Center</option>
+        <option>Banner MD Anderson Cancer Center Thoracic Surgery and Interventional Pulmonology Clinic at Banner Boswell</option>
+        <option>Banner MD Anderson Cancer Center Medical Oncology Clinic</option>
+        <option>Banner Health Walk-In Clinic</option>
+        <option>Banner Health Clinic</option>
+        <option>Banner Wyoming Medical Center East Campus</option>
+        <option>Banner NERD Wellness Center</option>
+        <option>Banner Children&#39;s Specialists Developmental Clinic</option>
+        <option>Banner Sports Medicine Scottsdale</option>
+        <option>Banner Sports Medicine High Performance Center</option>
+        <option>Banner North Colorado Medical Center Wound Clinic</option>
+        <option>Banner - University Medicine Pediatrics Clinic</option>
+        <option>Banner MD Anderson Cancer Center Radiation Oncology Clinic at Banner McKee Medical Center</option>
+        <option>Banner McKee Medical Center Wound Clinic</option>
+        <option>Banner MD Anderson Cancer Center</option>
+        <option>Banner MD Anderson Cancer Center at Banner Desert Medical Center</option>
+        <option>Banner Children’s Specialists</option>
+        <option>Banner - University Medicine Toxicology Clinic</option>
+        <option>Banner Cancer Specialists</option>
+        <option>Banner MD Anderson Cancer Center Undiagnosed Breast Clinic at Banner Gateway</option>
+        <option>Banner Family Pharmacy</option>
+        <option>Banner Gateway Surgery Center</option>
+        <option>Banner - University Medicine Primary Care Clinic</option>
+        <option>Banner Physical Therapy</option>
+        <option>Banner Surgery Center - Reid Park</option>
+        <option>Banner Cardiovascular Center - Tanque Verde</option>
+        <option>Banner - University Medicine Clinic South</option>
+        <option>Banner - University Medicine Clinic Tucson</option>
+        <option>Banner – University Women’s Wellness Clinic</option>
+        <option>Banner Payson Imaging Center</option>
+        <option>University of Arizona Cancer Center</option>
+        <option>Banner Neuro Wellness Tucson</option>
+        <option>Banner Surgery Center - River Road</option>
+        <option>Banner Home Infusion</option>
+        <option>Banner MD Anderson Cancer Center Women’s Imaging Center at Banner Gateway</option>
+        <option>Banner Payson High Country Senior Center</option>
+        <option>Banner Occupational Health Clinic</option>
+        <option>Banner Health Center</option>
+        <option>Banner - University Medicine Multispecialty Clinic</option>
+        <option>Banner - University Medicine Multispecialty Services Clinic</option>
+        <option>Banner Children&#39;s Community Clinic</option>
+        <option>Banner Children’s Specialists Clinic</option>
+        <option>Horizon Laboratory</option>
+        <option>Banner - University Medicine Pediatric Specialty Clinic</option>
+        <option>Banner Surgery Center - South Valley</option>
+        <option>Banner - University Medicine Whole Health Clinic</option>
+        <option>Banner Estrella Weight Loss Center</option>
+        <option>Banner Imaging Chandler Breast Center</option>
+        <option>Banner - University Medicine Family Medicine Clinic</option>
+        <option>Banner Surgery Center - Deer Valley</option>
+        <option>Banner Surgery Center - Central Phoenix</option>
+        <option>Banner MD Anderson Cancer Center at Banner - University Medical Center Phoenix</option>
+        <option>Banner - University Medicine Transplant Institute</option>
+        <option>Community Hospital Physical Therapy and Rehabilitation</option>
+        <option>Banner Lassen Outpatient Physical Therapy</option>
+        <option>CardioVascular Institute of North Colorado Cardiac, Vascular and Thoracic Surgery Clinic</option>
+        <option>Banner Home Medical Equipment</option>
+        <option>Banner Academy</option>
+        <option>Banner Imaging Tempe</option>
+        <option>Banner Surgery Center - Peoria</option>
+        <option>Banner Imaging Peoria</option>
+        <option>Banner - University Medicine Trauma and Critical Care Surgery Center</option>
+        <option>Banner Corporate Center</option>
+        <option>Banner Imaging McKee Breast Center</option>
+        <option>Banner - University Medicine Urology Institute</option>
+        <option>TOCA at Banner Health</option>
+        <option>CardioVascular Institute of North Colorado Cardiac, Thoracic and Vascular Surgery Clinic</option>
+        <option>Banner - University Medicine Internal Medicine Clinic</option>
+        <option>Banner Imaging Skyline</option>
+        <option>Banner MD Anderson Cancer Center at Banner North Colorado Medical Center</option>
+        <option>Banner Surgery Center - Camelback</option>
+        <option>Banner Physical Therapy and Rehabilitation Center</option>
+        <option>CardioVascular Institute of North Colorado Vascular Disease Clinic</option>
+        <option>Banner - University Medicine Digestive Institute</option>
+        <option>Banner Children&#39;s - Banner Health Clinic</option>
+        <option>Banner - University Medicine Behavioral Health Clinic</option>
+        <option>Banner Imaging Ocotillo</option>
+        <option>Banner - University Medicine North</option>
+        <option>Banner - University Medicine Ophthalmology Clinic</option>
+        <option>Banner Imaging Estrella Breast Center</option>
+        <option>Banner - University Medicine Women&#39;s Institute</option>
+        <option>Banner Imaging Chandler</option>
+        <option>Banner - University Medicine Neurosciences Clinic</option>
+        <option>Banner Alzheimer&#39;s Institute</option>
+        <option>Banner Surgery Center - Chandler</option>
+        <option>Banner Behavioral Health Outpatient Clinic</option>
+        <option>Banner Cardiovascular Center - Chandler</option>
+        <option>Banner - University Medicine Fracture Liaison Service Clinic</option>
+        <option>Diamond Children&#39;s Multispecialty Services Clinic</option>
+        <option>Banner - University Medicine Advanced Imaging</option>
+        <option>Banner Surgery Center - Greeley</option>
+        <option>Banner Imaging Union Hills</option>
+        <option>Banner - University Medicine Rehabilitation Institute</option>
+        <option>CardioVascular Institute of North Colorado Clinic Cardiology Clinic</option>
+        <option>Banner - University Medicine Colon &amp; Rectal Surgery Clinic</option>
+        <option>Banner North Colorado Medical Center Sleep Center</option>
+        <option>Banner North Colorado Family Medicine</option>
+        <option>Banner Physical Therapy and Rehabilitation Center at Banner McKee Medical Center</option>
+        <option>Banner – University Medicine Multispecialty Services Clinic</option>
+        <option>Banner Imaging Paradise Valley</option>
+        <option>Banner Imaging Arcadia</option>
+        <option>Laura Dreier Breast Health Center at Banner MD Anderson Cancer Center</option>
+        <option>Banner - University Orthopedic and Sports Medicine Institute</option>
+        <option>Banner Health Center plus</option>
+        <option>Banner – University Medicine Advanced Heart Failure Clinic</option>
+        <option>Banner - University Medicine Infectious Disease Clinic</option>
+        <option>Banner - University Medicine General Surgery Clinic</option>
+        <option>Banner Physical Therapy and Rehabilitation Center at Banner North Colorado Medical Center</option>
+        <option>Banner Imaging Estrella</option>
+        <option>Loveland Surgery Center</option>
+        <option>Banner - University Medicine Obesity and Bariatric Surgery Center</option>
+        <option>CardioVascular Institute of North Colorado Vein Clinic</option>
+        <option>Banner - University Medical Center Wound Care and Hyperbaric Medicine Clinic</option>
+        <option>Banner Imaging Greeley</option>
+        <option>Banner Imaging Greeley Breast Center</option>
+        <option>Banner Imaging Paradise Valley Breast Center</option>
+        <option>CardioVascular Institute of North Colorado Cardiology Clinic</option>
+        <option>Banner - University Medicine Lung Institute</option>
+        <option>Banner – University Medicine Women’s Clinic</option>
+        <option>Banner - University Medicine Heart Institute</option>
+        <option>Banner - University Medicine Transplant Center and Advanced Liver Disease Clinic</option>
+        <option>Banner Surgery Center - Estrella</option>
+        <option>Banner Surgery Center - University</option>
+        <option>Banner - University Medicine Neurosurgery Clinic</option>
+        <option>Banner - University Sports Medicine and Concussion Specialists</option>
+        <option>Banner Churchill Community Hospital Physical Therapy and Rehabilitation</option>
+        <option>Banner - University Medical Center Oral and Maxillofacial Surgery Clinic</option>
+        <option>Banner - University Medicine Diabetes and Endocrinology Institute</option>
+        <option>Banner Surgery Center - Sun City West</option>
+        <option>Banner - University Medical Center Phoenix Occupational Health Clinic</option>
+        <option>Banner - University Medical Center Sleep Center</option>
+        <option>Banner - University Medicine Rheumatology Clinic</option>
+        <option>Banner - University Medicine Addiction Recovery and Transitional Care Clinic</option>
+        <option>Banner Health Same Day Care Clinic</option>
+        <option>Banner Surgery Center - Gateway Orthopedics</option>
+        <option>Banner Imaging Camino Del Sol</option>
+        <option>Banner Imaging Webb North</option>
+        <option>Banner Imaging Biltmore MRI</option>
+        <option>Banner Page Physical Therapy</option>
+        <option>Banner - University Medicine Orthopedics Clinic</option>
+        <option>Banner MD Anderson Cancer Center at Banner Gateway Medical Center</option>
+        <option>Banner Imaging Gilbert</option>
+        <option>Banner - University Medical Center South Campus Multispecialty Services</option>
+        <option>Banner - University Medical Center Tucson Sleep Center</option>
+        <option>Banner MD Anderson Cancer Center at Banner Del  E Webb Medical Center</option>
+        <option>Banner - University Medical Group Cholla Pediatrics</option>
+        <option>Banner Del E Webb Medical Centers Louisa Kellam Center for Women&#39;s Health</option>
+        <option>Banner Gateway Weight Loss Center</option>
+        <option>Banner - University Medicine Psychiatry and Behavioral Medicine Clinic</option>
+        <option>Banner Neuro Wellness Gilbert</option>
+        <option>Banner Surgery Center - Alvernon</option>
+        <option>Associated Valley Radiologists, LLC</option>
+        <option>Banner Baywood&#160;Women&#39;s Center</option>
+        <option>Banner Children&#39;s Urology Clinic</option>
+        <option>Banner Baywood Wound Clinic</option>
+        <option>Banner Children&#39;s Cardiology Clinic</option>
+        <option>Banner Children&#39;s Specialists Endocrinology Clinic</option>
+        <option>Banner Children’s Specialists Gastroenterology Clinic</option>
+        <option>Banner Casa Grande Breast Center</option>
+        <option>Banner Children’s Blood and Cancer Center</option>
+        <option>Banner Surgery Center - Tempe</option>
+        <option>Banner Children&#39;s Specialists Sleep Medicine Clinic</option>
+        <option>Banner Children&#39;s Specialists Postinfectious Autoimmune Encephalopathy Clinic</option>
+        <option>Banner Casa Grande Wound Center</option>
+        <option>Banner Children&#39;s Specialists Ear, Nose and Throat Clinic</option>
+        <option>Banner Imaging Casa Grande</option>
+        <option>Banner Surgery Center - Mesa</option>
+        <option>East Morgan County Hospital Physical Therapy and Rehabilitation</option>
+        <option>Banner MD Anderson Cancer Center Radiation Oncology Clinic at Banner Boswell</option>
+        <option>Banner Surgery Center - Ironwood</option>
+        <option>Banner Sun Health Research Institute</option>
+        <option>Cleo Roberts Center</option>
+        <option>Banner Children&#39;s Physical Therapy</option>
+        <option>Banner Imaging Lakes</option>
+        <option>Banner Children’s Specialists Neurology and Neurosurgery Clinic</option>
+        <option>Banner Children’s Specialists Orthopedics Clinic</option>
+        <option>Banner Children’s Specialists Urology Clinic</option>
+        <option>David Walsh Cancer Center</option>
+        <option>Banner Olive Branch Senior Center</option>
+        <option>Banner Boswell Medical Center Cardiac and Pulmonary Rehabilitation</option>
+        <option>Banner Health Clinic Family Care Clinic</option>
+        <option>Banner Cardiovascular Center - West Valley</option>
+        <option>Banner Imaging Baywood Breast Center</option>
+        <option>Banner Imaging Dobson Breast Center</option>
+        <option>Platte County Memorial Hospital Physical Therapy and Rehabilitation</option>
+        <option>Banner Imaging at Talking Stick</option>
+        <option>Banner Imaging East Mesa</option>
+        <option>Banner Desert Medical Center Sleep Center</option>
+        <option>Banner Surgery Center - Sports Medicine</option>
+        <option>Banner Surgery Center - Desert</option>
+        <option>Banner Surgery Center - Desert Vista</option>
+        <option>Banner Children’s Specialists Critical Care Clinic</option>
+        <option>Banner Children&#39;s Specialists Pediatric Surgery Clinic</option>
+        <option>Banner Imaging Paseo 2</option>
+        <option>Banner Children&#39;s Specialists Plastic and Craniofacial Surgery Clinic</option>
+        <option>Banner Imaging Sunwest Breast Center</option>
+        <option>Banner MD Anderson Cancer Center at Banner Thunderbird Medical Center</option>
+        <option>Banner Corporate Center Mesa</option>
+        <option>Banner Surgery Center - Union Hills</option>
+        <option>Banner Surgery Center - North Scottsdale</option>
+        <option>Banner Imaging Paseo 1</option>
+        <option>Banner Children&#39;s Specialists Orthopedics Clinic</option>
+        <option>Banner Children&#39;s Specialists Pulmonology and Sleep Medicine Clinic</option>
+        <option>Banner Children&#39;s Specialists Surgery Clinic</option>
+        <option>Banner Children&#39;s Specialists Urology Clinic</option>
+        <option>Banner Children&#39;s Specialists Pulmonology Clinic</option>
+        <option>Banner Childrens Specialists Cardiology Clinic</option>
+        <option>Banner Children’s Specialists Cardiology and Cardiothoracic Surgery Clinic</option>
+        <option>Banner Children’s Specialists Neurology Clinic</option>
+        <option>Banner Thunderbird Cardiac and Pulmonary Rehabilitation</option>
+        <option>Banner Imaging</option>
+        <option>Banner Surgery Center - Thunderbird</option>
+    </datalist>
+    <!-- City -->
+    <label for="city">Ciudad</label>
+    <div class="input-group">
+      <select class="form-control" name="city" data-js="get-filter-city">
+        <option value="">Seleccione una ciudad</option>
+          <option value='{"city":"Apache Junction","state":"AZ"}'>Apache Junction, AZ</option>
+          <option value='{"city":"Avondale","state":"AZ"}'>Avondale, AZ</option>
+          <option value='{"city":"Berthoud","state":"CO"}'>Berthoud, CO</option>
+          <option value='{"city":"Brush","state":"CO"}'>Brush, CO</option>
+          <option value='{"city":"Buckeye","state":"AZ"}'>Buckeye, AZ</option>
+          <option value='{"city":"Casa Grande","state":"AZ"}'>Casa Grande, AZ</option>
+          <option value='{"city":"Casper","state":"WY"}'>Casper, WY</option>
+          <option value='{"city":"Chandler","state":"AZ"}'>Chandler, AZ</option>
+          <option value='{"city":"Eaton","state":"CO"}'>Eaton, CO</option>
+          <option value='{"city":"Fallon","state":"NV"}'>Fallon, NV</option>
+          <option value='{"city":"Fernley","state":"NV"}'>Fernley, NV</option>
+          <option value='{"city":"Flagstaff","state":"AZ"}'>Flagstaff, AZ</option>
+          <option value='{"city":"Florence","state":"AZ"}'>Florence, AZ</option>
+          <option value='{"city":"Fort Collins","state":"CO"}'>Fort Collins, CO</option>
+          <option value='{"city":"Fort Morgan","state":"CO"}'>Fort Morgan, CO</option>
+          <option value='{"city":"Gilbert","state":"AZ"}'>Gilbert, AZ</option>
+          <option value='{"city":"Glendale","state":"AZ"}'>Glendale, AZ</option>
+          <option value='{"city":"Goodyear","state":"AZ"}'>Goodyear, AZ</option>
+          <option value='{"city":"Greeley","state":"CO"}'>Greeley, CO</option>
+          <option value='{"city":"Green Valley","state":"AZ"}'>Green Valley, AZ</option>
+          <option value='{"city":"Guernsey","state":"WY"}'>Guernsey, WY</option>
+          <option value='{"city":"Johnstown","state":"CO"}'>Johnstown, CO</option>
+          <option value='{"city":"Kingman","state":"AZ"}'>Kingman, AZ</option>
+          <option value='{"city":"Lakeside","state":"AZ"}'>Lakeside, AZ</option>
+          <option value='{"city":"Litchfield Park","state":"AZ"}'>Litchfield Park, AZ</option>
+          <option value='{"city":"Loveland","state":"CO"}'>Loveland, CO</option>
+          <option value='{"city":"Marana","state":"AZ"}'>Marana, AZ</option>
+          <option value='{"city":"Maricopa","state":"AZ"}'>Maricopa, AZ</option>
+          <option value='{"city":"Mesa","state":"AZ"}'>Mesa, AZ</option>
+          <option value='{"city":"Ogallala","state":"NE"}'>Ogallala, NE</option>
+          <option value='{"city":"Page","state":"AZ"}'>Page, AZ</option>
+          <option value='{"city":"Payson","state":"AZ"}'>Payson, AZ</option>
+          <option value='{"city":"Peoria","state":"AZ"}'>Peoria, AZ</option>
+          <option value='{"city":"Phoenix","state":"AZ"}'>Phoenix, AZ</option>
+          <option value='{"city":"Pine","state":"AZ"}'>Pine, AZ</option>
+          <option value='{"city":"Queen Creek","state":"AZ"}'>Queen Creek, AZ</option>
+          <option value='{"city":"San Tan Valley","state":"AZ"}'>San Tan Valley, AZ</option>
+          <option value='{"city":"Scottsdale","state":"AZ"}'>Scottsdale, AZ</option>
+          <option value='{"city":"Show Low","state":"AZ"}'>Show Low, AZ</option>
+          <option value='{"city":"Sierra Vista","state":"AZ"}'>Sierra Vista, AZ</option>
+          <option value='{"city":"Sterling","state":"CO"}'>Sterling, CO</option>
+          <option value='{"city":"Sun City West","state":"AZ"}'>Sun City West, AZ</option>
+          <option value='{"city":"Sun City","state":"AZ"}'>Sun City, AZ</option>
+          <option value='{"city":"Surprise","state":"AZ"}'>Surprise, AZ</option>
+          <option value='{"city":"Susanville","state":"CA"}'>Susanville, CA</option>
+          <option value='{"city":"Tempe","state":"AZ"}'>Tempe, AZ</option>
+          <option value='{"city":"Thermopolis","state":"WY"}'>Thermopolis, WY</option>
+          <option value='{"city":"Timnath","state":"CO"}'>Timnath, CO</option>
+          <option value='{"city":"Tolleson","state":"AZ"}'>Tolleson, AZ</option>
+          <option value='{"city":"Torrington","state":"WY"}'>Torrington, WY</option>
+          <option value='{"city":"Tucson","state":"AZ"}'>Tucson, AZ</option>
+          <option value='{"city":"Wellington ","state":"CO"}'>Wellington , CO</option>
+          <option value='{"city":"Wheatland","state":"WY"}'>Wheatland, WY</option>
+          <option value='{"city":"Windsor","state":"CO"}'>Windsor, CO</option>
+          <option value='{"city":"Worland","state":"WY"}'>Worland, WY</option>
+      </select>
+    </div>
+    <!-- Location Type -->
+    <label for="location-type">Tipo de ubicacion</label>
+    <div class="input-group">
+      <select class="form-control" name="location-type">
+        <option value="">Seleccionar tipo de ubicación</option>
+          <option value="Atenci&#243;n de urgencias">Atenci&#243;n de urgencias</option>
+          <option value="Centro de Cirug&#237;a">Centro de Cirug&#237;a</option>
+          <option value="Centro de Especialidades">Centro de Especialidades</option>
+          <option value="Centro de Mama">Centro de Mama</option>
+          <option value="Equipos y cuidados en el hogar">Equipos y cuidados en el hogar</option>
+          <option value="Farmacia">Farmacia</option>
+          <option value="Hospital">Hospital</option>
+          <option value="Im&#225;genes">Im&#225;genes</option>
+          <option value="Laboratorio">Laboratorio</option>
+          <option value="Cl&#237;nica">Medico Clinica</option>
+          <option value="Otro">Otro</option>
+          <option value="Terapia f&#237;sica">Terapia f&#237;sica</option>
+          <option value="Urgencias de atenci&#243;n de emergencia">Urgencias de atenci&#243;n de emergencia</option>
+      </select>
+    </div>
+    <!-- Zip Code -->
+    <label for="zip-code">Código postal</label>
+    <input type="text" class="form-control" placeholder="Ingrese un código postal" pattern="\d{5}" maxlength="5" title="El formato del código postal es incorrecto" name="zip-code" />
+    
+    <!-- Range Radius -->
+    <label for="range-radius">Radio de alcance</label>
+    <div class="input-group">
+      <select class="form-control" name="within-range" data-js="get-range-radius">
+        <option value="">Elija Radio</option>
+          <option value="1">1 mile</option>
+          <option value="5">5 millas</option>
+          <option value="10">10 millas</option>
+          <option value="25">25 millas</option>
+          <option value="50">50 millas</option>
+          <option value="100">100 millas</option>
+      </select>
+    </div>
+    <!-- Buttons -->
+    <div class="search-filter--buttons">
+      <button class="btn btn-outline-primary" type="reset">CLARO</button>
+      <button class="btn btn-primary locationDetailSearch" type="button" data-js="search-filter-location-button">BUSCAR</button>
+    </div>
+    <input type="hidden" id="ga4Enabled" name="ga4Enabled" value=True>
+  </div>
+</form>
+
+			</div>
+		</div>
+	</div>
+</div>
+  </div>
+
+  <div class="container" style="position:relative !important">
+    
+  </div>
+
+  <footer class="global-footer">
+	<div class="row">
+		<div class="mb-5 col-12 mb-xl-0 col-xl-3">
+			<div class="row">
+				<div class="col-10 col-sm-6 col-md-5 col-lg-4 col-xl-10">
+					
+
+<a class="header-logo" href="/es" title="Go to home page">
+  <img src="/-/media/images/project/bh/logos/global-logo-v2-white.ashx" alt="global-logo-v2-white" DisableWebEdit="True" />
+</a>
+				</div>
+			</div>
+		</div>
+
+		
+
+
+
+		<div class="col-12 col-sm-6 col-xl-2 p-0">
+			<h4 class="footer-column-title">
+				<a href="/es">
+					Banner Health
+				</a>
+			</h4>
+			<ul class="footer-column-list">
+						<li>
+              <a href="/es/physician-directory" target="">
+                medicos
+              </a>
+						</li>
+						<li>
+              <a href="/es/services" target="">
+                Servicios
+              </a>
+						</li>
+						<li>
+              <a href="/es/locations" target="">
+                Ubicaciones
+              </a>
+						</li>
+						<li>
+              <a href="/es/health-professionals" target="">
+                Para Profesionales de la Salud
+              </a>
+						</li>
+						<li>
+              <a href="/es/employees" target="">
+                Para empleados
+              </a>
+						</li>
+						<li>
+              <a href="/es/services/volunteer" target="">
+                voluntarios
+              </a>
+						</li>
+						<li>
+              <a href="/es/about/insurance" target="">
+                Seguro
+              </a>
+						</li>
+			</ul>
+		</div>
+		<div class="col-12 col-sm-6 col-xl-2 p-0">
+			<h4 class="footer-column-title">
+				<a href="/es/about">
+					Acerca de
+				</a>
+			</h4>
+			<ul class="footer-column-list">
+						<li>
+              <a href="/es/about/leadership/executive" target="">
+                Liderazgo ejecutivo
+              </a>
+						</li>
+						<li>
+              <a href="/es/about/glance/quality" target="">
+                Calidad
+              </a>
+						</li>
+						<li>
+              <a href="/es/about/glance/news/connect" target="">
+                Noticias
+              </a>
+						</li>
+						<li>
+              <a href="https://www.bannerhealth.com/newsroom" target="">
+                para medios
+              </a>
+						</li>
+						<li>
+              <a href="/es/ways-to-give" target="">
+                Formas de dar
+              </a>
+						</li>
+						<li>
+              <a href="/es/ways-to-give/foundations" target="">
+                Done ahora
+              </a>
+						</li>
+						<li>
+              <a href="/es/careers" target="">
+                Carreras
+              </a>
+						</li>
+			</ul>
+		</div>
+		<div class="col-12 col-sm-6 col-xl-2 p-0">
+			<h4 class="footer-column-title">
+				<a href="/es/patients">
+					Centro de pacientes
+				</a>
+			</h4>
+			<ul class="footer-column-list">
+						<li>
+              <a href="/es/patients/billing" target="">
+                Pago de facturas
+              </a>
+						</li>
+						<li>
+              <a href="/es/patients/billing" target="">
+                Informaci&#243;n de facturaci&#243;n
+              </a>
+						</li>
+						<li>
+              <a href="/es/calendar" target="">
+                Clases y Eventos
+              </a>
+						</li>
+						<li>
+              <a href="/es/patients/billing/financial-assistance" target="">
+                Asistencia financiera
+              </a>
+						</li>
+						<li>
+              <a href="/es/patients/medical-records" target="">
+                Registros m&#233;dicos
+              </a>
+						</li>
+						<li>
+              <a href="/es/patients/patient-account" target="">
+                Acerca de la Patient Account
+              </a>
+						</li>
+						<li>
+              <a href="/es/patients/registration" target="">
+                Registro de pacientes
+              </a>
+						</li>
+			</ul>
+		</div>
+		<div class="col-12 col-sm-6 col-xl-2 p-0">
+			<h4 class="footer-column-title">
+				<a href="/es/about/glance/news/connect">
+					Con&#233;ctate con nosotros
+				</a>
+			</h4>
+			<ul class="footer-column-list">
+						<li>
+              <a href="/es/contact-us" target="">
+                Contacto
+              </a>
+						</li>
+						<li>
+              <a href="https://www.bannerhealth.com/healthcareblog" target="">
+                Lea nuestro blog
+              </a>
+						</li>
+						<li>
+              <a href="/es/staying-well/expert" target="">
+                Pregunta a un experto
+              </a>
+						</li>
+						<li>
+              <a href="/es/about/glance/news/connect" target="">
+                Inscr&#237;base al bolet&#237;n
+              </a>
+						</li>
+			</ul>
+		</div>
+
+
+
+
+
+		<div class="mt-3 col-12 col-sm-6 mt-xl-0 col-xl-1">
+			<div class="row">
+				
+
+		<div class="col-3 col-sm-2 col-xl-12 mb-4">
+			<a class="pull-left" href="https://www.facebook.com/BannerHealth" target="_blank">
+				<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="43px" viewBox="0 0 42 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Facebook@1x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Tablet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BH_Home_Tablet" transform="translate(-82.000000, -6582.000000)" fill="#FFFFFF">
+            <g id="Footer" transform="translate(0.000000, 5656.000000)">
+                <g id="SM" transform="translate(82.000000, 926.000000)">
+                    <g id="Facebook">
+                        <path d="M0,21.1271676 C0,9.45895456 9.23897888,0 20.6358382,0 C32.0326974,0 41.2716763,9.45895456 41.2716763,21.1271676 C41.2716763,32.7953807 32.0326974,42.2543353 20.6358382,42.2543353 C9.23897888,42.2543353 0,32.7953807 0,21.1271676 Z M22.0988805,32.8452426 L22.0988805,21.350948 L25.1980195,21.350948 L25.6087223,17.3899504 L22.0988805,17.3899504 L22.1041459,15.407433 C22.1041459,14.3743438 22.2000204,13.8207911 23.6493275,13.8207911 L25.586783,13.8207911 L25.586783,9.85934489 L22.4872053,9.85934489 C18.7641139,9.85934489 17.4536822,11.7808549 17.4536822,15.0122304 L17.4536822,17.390399 L15.132948,17.390399 L15.132948,21.3513966 L17.4536822,21.3513966 L17.4536822,32.8452426 L22.0988805,32.8452426 Z" id="Combined-Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
+
+			</a>
+		</div>
+		<div class="col-3 col-sm-2 col-xl-12 mb-4">
+			<a class="pull-left" href="https://twitter.com/BannerHealth" target="">
+				<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="43px" viewBox="0 0 42 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Twitter@1x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Tablet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BH_Home_Tablet" transform="translate(-250.000000, -6582.000000)" fill="#FFFFFF">
+            <g id="Footer" transform="translate(0.000000, 5656.000000)">
+                <g id="SM" transform="translate(82.000000, 926.000000)">
+                    <g id="Twitter" transform="translate(168.000000, 0.000000)">
+                        <path d="M0,21.1271676 C0,9.45895456 9.23897888,0 20.6358382,0 C32.0326974,0 41.2716763,9.45895456 41.2716763,21.1271676 C41.2716763,32.7953807 32.0326974,42.2543353 20.6358382,42.2543353 C9.23897888,42.2543353 0,32.7953807 0,21.1271676 Z M20.0177971,17.1724265 L20.0611001,17.9034742 L19.339383,17.8139581 C16.7123327,17.4708133 14.4172723,16.3071048 12.4686361,14.3526712 L11.5159695,13.3829141 L11.2705857,14.0990424 C10.7509493,15.6954118 11.0829392,17.3812973 12.1655149,18.5151671 C12.7428886,19.1417794 12.6129795,19.2312954 11.6170099,18.8583119 C11.2705857,18.7389572 10.9674645,18.6494412 10.9385958,18.6941992 C10.8375554,18.7986346 11.1839796,20.1562945 11.4582321,20.6933907 C11.833525,21.4393578 12.5985451,22.1704054 13.435737,22.6030663 L14.1430198,22.9462111 L13.3058279,22.9611304 C12.4975048,22.9611304 12.4686361,22.9760498 12.5552421,23.2893559 C12.843929,24.259113 13.984242,25.2885475 15.2544641,25.7361277 L16.1493933,26.0494338 L15.3699389,26.5268527 C14.2151915,27.2131424 12.8583633,27.6010452 11.5015351,27.6308839 C10.8519897,27.6458032 10.3179191,27.7054806 10.3179191,27.7502386 C10.3179191,27.899432 12.0789088,28.7349151 13.1037471,29.0631405 C16.178262,30.0328976 19.8301506,29.6151561 22.5726756,27.9591094 C24.5213118,26.7804815 26.469948,24.4381451 27.3793116,22.1704054 C27.8700792,20.9619389 28.3608469,18.7538765 28.3608469,17.6946034 C28.3608469,17.0083137 28.4041499,16.9187977 29.2124731,16.098234 C29.6888063,15.6208151 30.136271,15.0986382 30.222877,14.9494448 C30.3672204,14.6659774 30.3527861,14.6659774 29.6166346,14.9196061 C28.3897155,15.3671863 28.2165034,15.307509 28.8227458,14.6361387 C29.2702104,14.1587198 29.8042811,13.2933981 29.8042811,13.0397693 C29.8042811,12.9950113 29.587766,13.069608 29.3423821,13.203882 C29.082564,13.3530754 28.5051903,13.5768655 28.07216,13.7111396 L27.2927055,13.9647684 L26.5854228,13.4724302 C26.1956955,13.203882 25.6471905,12.9054952 25.3585037,12.8159792 C24.6223522,12.6071084 23.4964735,12.6369471 22.8324938,12.8756565 C21.028201,13.5470269 19.887888,15.2776703 20.0177971,17.1724265 Z" id="Combined-Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
+
+			</a>
+		</div>
+		<div class="col-3 col-sm-2 col-xl-12 mb-4">
+			<a class="pull-left" href="https://www.youtube.com/user/bannerhealthonline" target="">
+				<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="43px" viewBox="0 0 42 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Youtube@1x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Tablet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BH_Home_Tablet" transform="translate(-333.000000, -6582.000000)" fill="#FFFFFF">
+            <g id="Footer" transform="translate(0.000000, 5656.000000)">
+                <g id="SM" transform="translate(82.000000, 926.000000)">
+                    <g id="Youtube" transform="translate(251.000000, 0.000000)">
+                        <path d="M0,21.1271676 C0,9.45895456 9.36831871,0 20.9247268,0 C32.4811348,0 41.8494535,9.45895456 41.8494535,21.1271676 C41.8494535,32.7953807 32.4811348,42.2543353 20.9247268,42.2543353 C9.36831871,42.2543353 0,32.7953807 0,21.1271676 Z M31.8154079,16.874512 C31.8154079,16.874512 31.5974083,15.2876512 30.9294798,14.5888567 C30.0818582,13.6712841 29.1318535,13.6669661 28.6965507,13.6137109 C25.5776935,13.3805395 20.8994078,13.3805395 20.8994078,13.3805395 L20.889657,13.3805395 C20.889657,13.3805395 16.2113712,13.3805395 13.092514,13.6137109 C12.6565147,13.6669661 11.7072065,13.6712841 10.8588885,14.5888567 C10.1909599,15.2876512 9.97365678,16.874512 9.97365678,16.874512 C9.97365678,16.874512 9.75078177,18.7384438 9.75078177,20.6016559 L9.75078177,22.349002 C9.75078177,24.2129338 9.97365678,26.0761459 9.97365678,26.0761459 C9.97365678,26.0761459 10.1909599,27.6630067 10.8588885,28.3618012 C11.7072065,29.2793738 12.8208851,29.2505872 13.316782,29.3463026 C15.0997821,29.5233402 20.8945324,29.5780347 20.8945324,29.5780347 C20.8945324,29.5780347 25.5776935,29.570838 28.6965507,29.3376666 C29.1318535,29.2836918 30.0818582,29.2793738 30.9294798,28.3618012 C31.5974083,27.6630067 31.8154079,26.0761459 31.8154079,26.0761459 C31.8154079,26.0761459 32.038283,24.2129338 32.038283,22.349002 L32.038283,20.6016559 C32.038283,18.7384438 31.8154079,16.874512 31.8154079,16.874512 Z" id="Combined-Shape"></path>
+                        <polygon id="Path" points="18.5933479 24.4662558 18.5926514 17.9957497 24.6144556 21.2421575"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
+
+			</a>
+		</div>
+		<div class="col-3 col-sm-2 col-xl-12 mb-4">
+			<a class="pull-left" href="https://www.facebook.com/BannerHealth" target="_blank">
+				<!-- Null -->
+
+			</a>
+		</div>
+
+			</div>
+		</div>
+	</div>
+	<div class="row footer-utility">
+		<div class="col-12 order-last order-lg-first col-lg-3">
+			<span>
+
+
+&#169; 2023 By Banner Health</span>
+		</div>
+		
+
+
+			<div class="col-12 offset-0 offset-lg-1 col-lg-2">
+				<a href="/es/about/legal-notices/terms" target="">
+					Condiciones de uso
+				</a>
+			</div>
+			<div class="col-12 col-lg-2">
+				<a href="/es/about/legal-notices/privacy" target="">
+					Declaracion de privacidad
+				</a>
+			</div>
+			<div class="col-12 col-lg-2">
+				<a href="/es/about/legal-notices/nondiscrimination" target="">
+					no discriminaci&#243;n
+				</a>
+			</div>
+
+	</div>
+
+	<!-- Begin Place Holder for Alert Modal  -->
+		
+  <!--TODO: Get Care now new modal, is using same id as existing modal-->
+  <div uatid="FeaturedListCard" id="gcnModal" data-js="gcn-modal" class="gcn-modal-v2 modal fade font-color-skin " tabindex="-1" role="dialog" aria-labelledby="gcnModal" aria-hidden="true" data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog modal-lg" role="document">
+      <div class="modal-content extra-content px-3 pb-3 pb-md-6 px-md-6">
+        <!-- Close Button -->
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <i class="fa fa-times"></i>
+        </button>
+
+        <div class="or-circle">
+          <span>o</span>
+        </div>
+
+        <div class="modal-body p-0">
+          <div class="row">
+            <div class="col-12 col-md-8 pt-md-0 pt-4 order-md-first order-last">
+              <div class="title-color-card-skin gnc-modal-title">
+Obtenga el tipo de atenci&#243;n adecuado              </div>
+              <div class="gnc-modal-description">
+<p><span style="color: #000000;">Comencemos con sus síntomas y sigamos desde allí.</span></p>
+              </div>
+              <div class="gcn-iframe-container" data-js="gcn-iframe">
+                <iframe data-src="https://symptomchecker.bannerhealth.com/?configuration=bannerhealth" class="get-care-now-iframe mt-2 mt-sm-4" frameborder="0"></iframe>
+              </div>
+            </div>
+            <div class="col-12 col-md-4">
+              <div class="gnc-modal-subtitle pl-md-3">
+¿Sabes a d&oacute;nde vas?                <div class="section-paragraph text-left d-block d-md-none">
+                  
+<a class="modal-link" href="/es/urgent-or-emergency">Quiero recibir ayuda para decidirme</a>                </div>
+
+              </div>
+              <div class="row mt-2 mt-sm-4">
+                      <div class="col-4 col-md-12">
+                        <div class="alert-card-side-image">
+                          <a href="https://emergencycare.bannerhealth.com">
+                            <div class="row">
+                              <div class="col-12 col-md-2">
+                                <div class="icon icon--xxs">
+                                  <img src="/-/media/images/project/bh/icons/ic_emergency_care.ashx" alt="ic_emergency_care" />
+                                </div>
+                              </div>
+                              <div class="col-12 col-md-10 pl-md-4 pr-md-0">
+                                <div class="alert-card-title">
+
+Cuidados de emergencia
+                                </div>
+                                <div class="alert-card-body">
+                                  Para emergencias que amenazan la vida, encuentre la sala de emergencia más cercana
+                                </div>
+                              </div>
+                            </div>
+                          </a>
+                        </div>
+                      </div>
+                      <div class="col-4 col-md-12">
+                        <div class="alert-card-side-image">
+                          <a href="https://urgentcare.bannerhealth.com/">
+                            <div class="row">
+                              <div class="col-12 col-md-2">
+                                <div class="icon icon--xxs">
+                                  <img src="/-/media/images/project/bh/icons/ic_urgent_care.ashx" alt="ic_urgent_care" />
+                                </div>
+                              </div>
+                              <div class="col-12 col-md-10 pl-md-4 pr-md-0">
+                                <div class="alert-card-title">
+
+Atenci&#243;n de urgencias
+                                </div>
+                                <div class="alert-card-body">
+                                  <span>Para necesidades médicas que no pongan en peligro la vida</span>
+                                </div>
+                              </div>
+                            </div>
+                          </a>
+                        </div>
+                      </div>
+                      <div class="col-4 col-md-12">
+                        <div class="alert-card-side-image">
+                          <a href="/es/physician-directory">
+                            <div class="row">
+                              <div class="col-12 col-md-2">
+                                <div class="icon icon--xxs">
+                                  <img src="/-/media/images/project/bh/icons/ic_nurse_on_call.ashx" alt="ic_nurse_on_call" />
+                                </div>
+                              </div>
+                              <div class="col-12 col-md-10 pl-md-4 pr-md-0">
+                                <div class="alert-card-title">
+
+Reservar una cita
+                                </div>
+                                <div class="alert-card-body">
+                                  Encuentre un proveedor que sea adecuado para usted y programe en línea
+                                </div>
+                              </div>
+                            </div>
+                          </a>
+                        </div>
+                      </div>
+                <div class="col-4 col-md-12 d-none d-md-block">
+                  <div class="section-paragraph pl-md-5">
+                    
+<a class="modal-link" href="/es/urgent-or-emergency">Quiero recibir ayuda para decidirme</a>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<div uatid="SearchModal" id="searchModal" class="full-width-modal modal fade" tabindex="-1" role="dialog" aria-labelledby="fullWidthModal" aria-hidden="true" data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog " role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <svg width="21" height="21" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M1.637 19.651L19.875 1.413m-.512 18.238L1.125 1.413" stroke="#FFF" stroke-width="2.8" fill="none" fill-rule="evenodd"></path>
+                    </svg>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form action="/es/search" method="get" autocomplete="off">
+                    <div class="form-row">
+                        <div class="form-group col-12 mb-4">
+                            <center>
+                                <h2>
+                                    Buscar
+                                </h2>
+                            </center>
+                        </div>
+                        <div class="form-group col-12">
+                            <span class="modal-text">
+
+                            </span>
+                        </div>
+                        <div class="form-group col-12 mb-4">
+                                <input type="text" class="form-control modal-input" name="query" placeholder="Buscar">
+                        </div>
+                        <div class="form-group col-12 mb-3">
+                            <a class="btn btn-modal btn-jumbotron" href="javascript:" data-href="/es/search" data-js="search-modal"><i class="far fa-search"></i>Buscar</a>
+                        </div>
+                        <div class="form-group col-12">
+                            <span class="modal-text">
+                            </span>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div uatid="Login Modal" id="patient-portal-modal" class="patient-portal-modal modal fade" tabindex="-1" role="dialog" aria-labelledby="patient-portal-modal" aria-hidden="true" data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">
+                        <i class="fa fa-times"></i>
+                    </span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <iframe width="100%" height="100%" frameborder="0" scrolling="yes" allowtransparency="false" src=""></iframe>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div uatid="GeolocationModal"  id="geoLocationModal" data-js="set-my-location-modal" class="full-width-modal modal fade" tabindex="-1" role="dialog" aria-labelledby="geoLocationModal" aria-hidden="true" data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog " role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <i class="far fa-times"></i>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="form-inline">
+                    <div class="form-group col-12 mb-3 pl-0">
+                        <h2 class="mr-4">
+                            Set My Location
+                        </h2>
+                        <a data-js="clear-my-location" class="text-white clear-link d-none" href="">
+                            Clear
+                        </a>
+                    </div>
+                    <div class="form-group col-12 mb-4 pl-0">
+                        <span class="modal-text">
+                            Setting your location helps us to show you nearby doctors, locations and events throughout the site.
+                        </span>
+                    </div>
+                    <div class="form-group col-md-5 mb-5 pl-0">
+                        <input type="text" value="" class="form-control modal-input w-100 location-input" data-js="input-text-google-autocomplete" placeholder="Enter city or ZIP code" />
+                    </div>
+                    <input type="button" class="btn btn-modal btn-jumbotron mb-5" data-js="set-my-location-btn" data-key="AIzaSyCdz3YdjJSYyFX0WifpC46yWisc2iuPik0" data-url="https://maps.googleapis.com/maps/api/geocode/json" value="Set My Location">
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+	<!-- End Place Holder for Alert Modal  -->
+
+</footer>
+
+
+
+  
+
+  <script id="google-maps-library" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyALCITqXu27UmmXRxdUPooTNNkNz0JRVOI&amp;libraries=places"></script>
+  <script src="/static/BH/scripts/bh.min.js"></script>
+  <script src="https://www.clockwisemd.com/hospitals/clockwise_api.js"></script>
+  <script>
+document.addEventListener('WebComponentsReady', function() {
+$.js('gcn-modal').on('show.bs.modal', function (e) {
+    $('#nebula_div_btn').hide();
+  }).on('hide.bs.modal', function (e) {
+    $('#nebula_div_btn').show();
+  });
+});
+</script><script>
+document.addEventListener('WebComponentsReady', function() {
+window.dataLayer.push(
+{
+'event': 'Location Search Results',
+'Location Name':$.globalFunctions().getUrlParams('locname'),
+'Location Type':$.globalFunctions().getUrlParams('loctype'),
+},
+{
+'event': 'Distance Selector menu',
+'category':'Distance',
+'action':'Select',
+'label':$.globalFunctions().getUrlParams('within'),
+'Distance searched':$.globalFunctions().getUrlParams('within')
+},
+{
+	'event': 'Detail or Map View',
+	'category': 'Locations',
+	'action':'Select',
+	'label':'Detail View',
+	'Location Name' :  $.globalFunctions().getUrlParams('locname'),
+	'Location Type' : $.globalFunctions().getUrlParams('loctype')
+});
+});
+</script>
+
+  
+  
+</body>
+</html>

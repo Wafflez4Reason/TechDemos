@@ -1,0 +1,1159 @@
+
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#" class="modern">
+<head runat="server">
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Punci&#243;n Seca vs. Acupuntura: &#191;Cu&#225;l es la Diferencia? | Salud de la bandera</title>
+      <link rel="canonical" href="https://www.bannerhealth.com/es/healthcareblog/teach-me/dry-needling-or-acupuncture" />
+      <link rel="alternate" href="https://www.bannerhealth.com/es/healthcareblog/teach-me/dry-needling-or-acupuncture" hreflang="es" />
+      <link rel="alternate" href="https://www.bannerhealth.com/healthcareblog/teach-me/dry-needling-or-acupuncture" hreflang="en-us" />
+      <link rel="alternate" href="https://www.bannerhealth.com/healthcareblog/teach-me/dry-needling-or-acupuncture" hreflang="x-default" />
+    <meta id="description" name="description" content="Tanto la punci&#243;n seca como la acupuntura implican el uso de agujas finas, pero no est&#225;n relacionadas m&#225;s all&#225; de eso. Conozca sus diferencias y cu&#225;l es el adecuado para usted.">
+
+
+
+	<meta property="og:title" content="Punci&#243;n Seca vs. Acupuntura: &#191;Cu&#225;l es la Diferencia? | Salud de la bandera" />
+	<meta property="og:description" content="Tanto la punci&#243;n seca como la acupuntura implican el uso de agujas finas, pero no est&#225;n relacionadas m&#225;s all&#225; de eso. Conozca sus diferencias y cu&#225;l es el adecuado para usted." />
+	<meta property="og:image" content="https://www.bannerhealth.com/healthcareblog/-/media/images/project/healthcareblog/hero-images/2023/02/dry-needle.ashx" />
+	<meta property="og:url" content="https://www.bannerhealth.com/es/healthcareblog/teach-me/dry-needling-or-acupuncture" />
+	<meta property="og:type" content="website" />
+
+	<link href="/static/healthcareblog/styles/blog.css" rel="stylesheet" />
+	
+	<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P6NQWFD');</script>
+<!-- End Google Tag Manager -->
+
+
+</head>
+
+<body runat="server" class="ltr layout-full page ">
+	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P6NQWFD"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+	
+<header>
+	<!-- Top Nav -->
+	<nav class="navbar navbar-utility-v2">
+		<div class="container navbar-container">
+			<div class="utility-container">
+				<a class="language-toggle os-language" href="javascript:SetLanguage(); ">English</a>
+
+  <script type="text/javascript">
+
+
+    function SetLanguage() {
+      var urlParam = window.location.search;
+      if (typeof urlParam === 'undefined') {
+        urlParam = '';
+      }
+      //Create the model
+      var model = {
+        "language": "en",
+        "url": "https://www.bannerhealth.com/healthcareblog/teach-me/dry-needling-or-acupuncture",
+        "sitename": "healthcareblog"
+      };
+	 // console.log(model);
+      //call the SetLanguage action method
+      $.ajax({
+        url: '/api/sitecore/Language/SetLanguage',
+        data: model,
+        type: "POST",
+        cache: false,
+        success: function (data) {
+          console.log('success:redirect url' + data);
+          //Redirect to new url
+          window.location.href = data + urlParam;
+        },
+        failure: function (result) {
+          console.log('failure');
+          console(result.responseText);
+        },
+        error: function (result) {
+          console.log('error');
+          console.log(result.responseText);
+        }
+      })
+
+    }
+
+  </script>
+
+				
+			</div>
+		</div>
+	</nav>
+	<nav class="navbar navbar-collapse navbar-main-v2" data-js="navbar-main-v2">
+		<div class="container navbar-container">
+			<!-- Hamburger -->
+			<div class="navbar-menu-mobile d-sm-block d-md-block d-lg-none">
+				<button id="global-menu-open-mobile" data-js="global-menu-open-mobile" data-toggle="collapse" data-target="#mobile-menu" aria-label="menu open button" class="menu-trigger">
+					<!-- menu icon -->
+					<svg width="18px" height="14px" viewBox="0 0 18 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+						<g id="UI-Assets-for-Dev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+							<g id="BH-Blog---UI-Components---Icon-sets" transform="translate(-702.000000, -200.000000)" fill="#56595D">
+								<g id="icon" transform="translate(702.000000, 200.000000)">
+									<path d="M18,14 L0,14 L0,12 L18,12 L18,14 Z M12,8 L0,8 L0,6 L12,6 L12,8 Z M0,2 L0,0 L18,0 L18,2 L0,2 Z" id="ðŸŽ¨-icon-color"></path>
+								</g>
+							</g>
+						</g>
+					</svg>
+					<!-- / menu icon -->
+				</button>
+			</div>
+
+			<div class="navbar-bh-link">
+				<a href="/es">
+					<!-- back arrow icon -->
+					<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+						<g id="UI-Assets-for-Dev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+							<g id="BH-Blog---UI-Components---Icon-sets" transform="translate(-702.000000, -239.000000)">
+								<g id="icon" transform="translate(702.000000, 239.000000)">
+									<polygon fill="#56595d" id="ðŸŽ¨-icon-color" transform="translate(11.500000, 12.500000) scale(-1, 1) translate(-11.500000, -12.500000) " points="4 12 4 13 15 13 15 16 19 12.5 15 9 15 12"></polygon>
+								</g>
+							</g>
+						</g>
+					</svg>
+					<!-- / back arrow icon -->
+					<span>BannerHealth.com</span>
+				</a>
+			</div>
+			<!-- Header Logo -->
+			<div class="navbar-brand branding" data-js="navbar-brand">
+				
+
+ 
+  <a class="header-logo" href="/es/healthcareblog" title="Go to home page">
+    <img src="/healthcareblog/-/media/images/project/healthcareblog/logos/global-logo-v2.ashx" alt="global-logo-v2" DisableWebEdit="True" />
+
+  </a>
+
+
+				<span>Nuestro blog con consejos saludables, <br class="d-sm-block d-md-block d-lg-none">consejos de expertos e historias inspiradoras</span>
+			</div>
+			<!-- Header Social Links -->
+			
+<div class="navbar-social">
+        <a href="https://www.facebook.com/BannerHealth" target="_blank">
+          <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <g id="UI-Assets-for-Dev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                            <g id="BH-Blog---UI-Components---Icon-sets" transform="translate(-98.000000, -205.000000)" fill="#7B7F84">
+                                <g id="icon" transform="translate(98.000000, 205.000000)">
+                                    <g id="🎨-icon-color">
+                                        <path d="M21.6234294,3.0037452 L19.2248841,3 C16.5302007,3 14.7887779,4.73870978 14.7887779,7.42982429 L14.7887779,9.4722699 L12.3771479,9.4722699 C12.1687544,9.4722699 12,9.63668425 12,9.83948691 L12,12.7987578 C12,13.0015605 12.1689469,13.1657876 12.3771479,13.1657876 L14.7887779,13.1657876 L14.7887779,20.6329703 C14.7887779,20.8357729 14.9575324,21 15.1659258,21 L18.312417,21 C18.5208105,21 18.6895649,20.8355857 18.6895649,20.6329703 L18.6895649,13.1657876 L21.5093229,13.1657876 C21.7177163,13.1657876 21.8864708,13.0015605 21.8864708,12.7987578 L21.8876253,9.83948691 C21.8876253,9.74211167 21.8477939,9.64885615 21.7771749,9.57994445 C21.7065558,9.51103274 21.6103446,9.4722699 21.510285,9.4722699 L18.6895649,9.4722699 L18.6895649,7.74086327 C18.6895649,6.9086795 18.8933403,6.48622078 20.0072736,6.48622078 L21.6230445,6.485659 C21.8312456,6.485659 22,6.32124466 22,6.11862926 L22,3.37077494 C22,3.16834681 21.831438,3.00411972 21.6234294,3.0037452 Z"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </svg>
+        </a>      
+        <a href="https://twitter.com/BannerHealth" target="_blank">
+          <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <g id="UI-Assets-for-Dev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                            <g id="BH-Blog---UI-Components---Icon-sets" transform="translate(-142.000000, -205.000000)" fill="#7B7F84">
+                                <g id="icon" transform="translate(142.000000, 205.000000)">
+                                    <path d="M20.9801478,6.66757199 C20.9557719,6.63852634 20.9155516,6.62866843 20.8812512,6.64451151 C20.3730133,6.8724758 19.83831,7.03636364 19.2875883,7.13318245 C19.8722622,6.68852006 20.3078947,6.07275242 20.5312826,5.36667924 C20.5420777,5.33288067 20.5309344,5.29591349 20.5035986,5.27390922 C20.4760886,5.25190494 20.4379577,5.24908839 20.407836,5.26721992 C19.7493379,5.66206463 19.0361681,5.9403747 18.2871308,6.0947567 C17.6234093,5.3983654 16.6966019,5 15.7374093,5 C13.7866391,5 12.1997666,6.60437571 12.1997666,8.57648686 C12.1997666,8.8150132 12.2225755,9.0512511 12.2678451,9.28062366 C9.56594821,9.1119829 7.039558,7.8005281 5.32175195,5.67033824 C5.30416647,5.64851 5.27752707,5.63636364 5.24966887,5.63918018 C5.22198479,5.64129259 5.19726064,5.65713567 5.18333154,5.68125236 C4.86992683,6.22484597 4.70434467,6.8467748 4.70434467,7.47944172 C4.70434467,8.57595876 5.19708652,9.60118194 6.03614058,10.2776814 C5.60416442,10.2252232 5.18228686,10.0877405 4.80184836,9.87421099 C4.77625364,9.85960015 4.74439083,9.85977619 4.71879611,9.87473909 C4.69320139,9.88952597 4.67700881,9.9169873 4.67631236,9.94691311 L4.67596413,9.99268201 C4.67596413,11.567484 5.70236456,12.9502326 7.16265641,13.4093298 C6.77803918,13.471998 6.37897052,13.4677732 5.98669228,13.3920785 C5.95778941,13.3866214 5.92749362,13.3966554 5.90764465,13.4191877 C5.8879698,13.4417201 5.88135348,13.4732302 5.89040739,13.5017478 C6.32830342,14.8836162 7.54501016,15.8526845 8.96125123,15.973444 C7.77988958,16.84851 6.38349747,17.3095436 4.90805773,17.3095436 C4.6362662,17.3095436 4.36255942,17.2931724 4.09442428,17.2613102 C4.05611926,17.2569093 4.01816246,17.2799698 4.00492982,17.317113 C3.99169718,17.3546083 4.00580039,17.3965045 4.038882,17.4178046 C5.63550489,18.4530617 7.48163276,19 9.37790539,19 C15.580707,19 19.28724,13.9059223 19.28724,8.98118949 C19.28724,8.84405885 19.2846283,8.70763234 19.2792308,8.5715579 C19.9483499,8.07672576 20.5227511,7.47099208 20.9858936,6.76984786 C21.0066131,6.73851377 21.0043496,6.69679366 20.9801478,6.66757199 Z" id="🎨-icon-color"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </svg>
+        </a>      
+        <a href="https://www.youtube.com/user/bannerhealthonline" target="_blank">
+          <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <g id="UI-Assets-for-Dev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                            <g id="BH-Blog---UI-Components---Icon-sets" transform="translate(-186.000000, -205.000000)" fill="#7B7F84">
+                                <g id="icon" transform="translate(186.000000, 205.000000)">
+                                    <path d="M9.95454545,14.9545645 L9.95454545,9.04543548 L15.1818182,12.0001129 L9.95454545,14.9545645 Z M21.5820455,7.18614516 C21.3520455,6.32559677 20.6743182,5.64795161 19.8138636,5.41796774 C18.2542045,5 12,5 12,5 C12,5 5.74579545,5 4.18613636,5.41796774 C3.32568182,5.64795161 2.64795455,6.32559677 2.41795455,7.18614516 C2,8.74579032 2,12 2,12 C2,12 2,15.2540968 2.41795455,16.8138548 C2.64795455,17.6744032 3.32568182,18.3520484 4.18613636,18.5821452 C5.74579545,19 12,19 12,19 C12,19 18.2542045,19 19.8138636,18.5821452 C20.6743182,18.3520484 21.3520455,17.6744032 21.5820455,16.8138548 C22,15.2540968 22,12 22,12 C22,12 22,8.74579032 21.5820455,7.18614516 L21.5820455,7.18614516 Z" id="🎨-icon-color"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </svg>
+        </a>      
+        <a href="https://www.instagram.com/banner_health/" target="_blank">
+          <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <g id="UI-Assets-for-Dev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                            <g id="BH-Blog---UI-Components---Icon-sets" transform="translate(-230.000000, -205.000000)" fill="#7B7F84">
+                                <g id="icon" transform="translate(230.000000, 205.000000)">
+                                    <path d="M8,2 L16,2 C19.3137085,2 22,4.6862915 22,8 L22,16 C22,19.3137085 19.3137085,22 16,22 L8,22 C4.6862915,22 2,19.3137085 2,16 L2,8 C2,4.6862915 4.6862915,2 8,2 Z M18.5380348,6.66198662 C18.5380348,5.99923785 18.0007621,5.46196518 17.3380134,5.46196518 C16.6753043,5.46196518 16.1380316,5.99923785 16.1380316,6.66198662 C16.1380316,7.32473538 16.6753043,7.86196836 17.3380134,7.86196836 C18.0007621,7.86196836 18.5380348,7.32473538 18.5380348,6.66198662 Z M12.0000198,15.3333333 C10.1590422,15.3333333 8.66666667,13.8409578 8.66666667,12.0000198 C8.66666667,10.1590422 10.1590422,8.66666667 12.0000198,8.66666667 C13.8409578,8.66666667 15.3333333,10.1590422 15.3333333,12.0000198 C15.3333333,13.8409578 13.8409578,15.3333333 12.0000198,15.3333333 Z M12.0000198,6.86486808 C9.16392671,6.86486808 6.86486808,9.16392671 6.86486808,12.0000198 C6.86486808,14.8360733 9.16392671,17.1351319 12.0000198,17.1351319 C14.8360733,17.1351319 17.1351319,14.8360733 17.1351319,12.0000198 C17.1351319,9.16392671 14.8360733,6.86486808 12.0000198,6.86486808 Z" id="Combined-Shape"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </svg>
+        </a>      
+</div>
+
+
+			
+			<!-- SearchBox For Mobile  -->
+			
+
+
+<!-- Mobile View -->
+<div class="navbar-search-mobile d-sm-block d-md-block d-lg-none">
+	<div class="search-box-mobile" data-js="search-box-mobile">
+		<form autocomplete="off" action="/es/healthcareblog/searchresults" method="get" novalidate>
+			<input type="search" name="searchTerm" id="search-box-input-mobile" data-js="search-box-input-mobile" placeholder=Search />
+		</form>
+	</div>
+	<button class="search-trigger" data-js="search-trigger-mobile">
+		<!-- search icon -->
+		<svg class="search-icon-mobile" width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+			<g id="UI-Assets-for-Dev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+				<g id="BH-Blog---UI-Components---Icon-sets" transform="translate(-758.000000, -200.000000)" fill="#56595D">
+					<g id="icon" transform="translate(758.000000, 200.000000)">
+						<path d="M12.502,6.491 L11.708,6.491 L11.432,6.765 C12.407,7.902 13,9.376 13,10.991 C13,14.581 10.09,17.491 6.5,17.491 C2.91,17.491 0,14.581 0,10.991 C0,7.401 2.91,4.491 6.5,4.491 C8.115,4.491 9.588,5.083 10.725,6.057 L11.001,5.783 L11.001,4.991 L15.999,0 L17.49,1.491 L12.502,6.491 L12.502,6.491 Z M6.5,6.491 C4.014,6.491 2,8.505 2,10.991 C2,13.476 4.014,15.491 6.5,15.491 C8.985,15.491 11,13.476 11,10.991 C11,8.505 8.985,6.491 6.5,6.491 L6.5,6.491 Z" id="ðŸŽ¨-icon-color" transform="translate(8.745000, 8.745500) scale(1, -1) translate(-8.745000, -8.745500) "></path>
+					</g>
+				</g>
+			</g>
+		</svg>
+		<!-- / search icon -->
+		<!-- close icon -->
+		<svg class="close-icon-mobile" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+			<g id="icon-/-utility-/-ic_close-/-ic_close_material" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+				<polygon fill="#56595D" id="path-1" points="19 6.4 17.6 5 12 10.6 6.4 5 5 6.4 10.6 12 5 17.6 6.4 19 12 13.4 17.6 19 19 17.6 13.4 12"></polygon>
+			</g>
+		</svg>
+		<!-- / close icon -->
+	</button>
+</div>
+		</div>
+	</nav>
+	<!-- Main Nav -->
+	<nav class="navbar navbar-collapse navbar-main-v2-links">
+		<!-- Hamburger -->
+		
+		<!-- Hamburger -->
+		
+    
+
+    <div class="navbar-menu-desktop" data-js="navbar-menu-desktop">
+        <button id="global-menu-open" data-toggle="collapse" data-target="#mobile-menu" aria-label="menu open button" class="menu-trigger d-none d-lg-block">
+            <!-- menu icon -->
+            <svg width="18px" height="14px" viewBox="0 0 18 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <g id="UI-Assets-for-Dev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                    <g id="BH-Blog---UI-Components---Icon-sets" transform="translate(-702.000000, -200.000000)" fill="#56595D">
+                        <g id="icon" transform="translate(702.000000, 200.000000)">
+                            <path d="M18,14 L0,14 L0,12 L18,12 L18,14 Z M12,8 L0,8 L0,6 L12,6 L12,8 Z M0,2 L0,0 L18,0 L18,2 L0,2 Z" id="🎨-icon-color"></path>
+                        </g>
+                    </g>
+                </g>
+            </svg>
+            <!-- / menu icon -->
+        </button>
+
+        <div class="collapse navbar-collapse mobile-menu main-menu" id="mobile-menu" data-js="mobile-menu">
+            <button id="global-menu-open" data-toggle="collapse" data-target="#mobile-menu" aria-label="menu open button" class="menu-trigger-mobile d-lg-none">
+                <!-- close icon -->
+                <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <g id="icon-/-utility-/-ic_close-/-ic_close_material" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                        <polygon fill="#7b7f84" id="path-1" points="19 6.4 17.6 5 12 10.6 6.4 5 5 6.4 10.6 12 5 17.6 6.4 19 12 13.4 17.6 19 19 17.6 13.4 12"></polygon>
+                    </g>
+                </svg>
+                <!-- / menu icon -->
+            </button>
+
+            <div class="mobile-menu-inner">
+                <div class="mobile-menu-column-1" data-js="mobile-menu-text-columns" data-links-max="10">
+                        <h3 class="mobile-menu-heading"><a class="mobile-menu-heading-link" href="/es/healthcareblog/category/better-me">Mej&#243;rame</a></h3>
+                        <ul class="mobile-menu-list">
+                        </ul>
+                        <h3 class="mobile-menu-heading"><a class="mobile-menu-heading-link" href="/es/healthcareblog/category/teach-me">Ens&#233;&#241;ame</a></h3>
+                        <ul class="mobile-menu-list">
+                        </ul>
+                        <h3 class="mobile-menu-heading"><a class="mobile-menu-heading-link" href="/es/healthcareblog/category/advise-me">Acons&#233;jame</a></h3>
+                        <ul class="mobile-menu-list">
+                        </ul>
+                        <h3 class="mobile-menu-heading"><a class="mobile-menu-heading-link" href="/es/healthcareblog/category/inspire-me">Insp&#237;rame</a></h3>
+                        <ul class="mobile-menu-list">
+                        </ul>
+                        <h3 class="mobile-menu-heading"><a class="mobile-menu-heading-link" href="/es/healthcareblog/category/podcasts">Podcasts</a></h3>
+                        <ul class="mobile-menu-list">
+                        </ul>
+                    <h3 class="mobile-menu-heading no-sublinks d-lg-none"><a class="language-toggle os-language" href="javascript:SetLanguage(); ">English</a>
+
+  <script type="text/javascript">
+
+
+    function SetLanguage() {
+      var urlParam = window.location.search;
+      if (typeof urlParam === 'undefined') {
+        urlParam = '';
+      }
+      //Create the model
+      var model = {
+        "language": "en",
+        "url": "https://www.bannerhealth.com/healthcareblog/teach-me/dry-needling-or-acupuncture",
+        "sitename": "healthcareblog"
+      };
+	 // console.log(model);
+      //call the SetLanguage action method
+      $.ajax({
+        url: '/api/sitecore/Language/SetLanguage',
+        data: model,
+        type: "POST",
+        cache: false,
+        success: function (data) {
+          console.log('success:redirect url' + data);
+          //Redirect to new url
+          window.location.href = data + urlParam;
+        },
+        failure: function (result) {
+          console.log('failure');
+          console(result.responseText);
+        },
+        error: function (result) {
+          console.log('error');
+          console.log(result.responseText);
+        }
+      })
+
+    }
+
+  </script>
+</h3>
+                </div>
+                <div class="mobile-menu-column-3 d-none d-lg-block">
+                    
+    <div class="featured-image" style="background-image: url('/healthcareblog/-/media/images/project/healthcareblog/flyout/global-main-menu-feature.ashx?h=328&amp;w=491&amp;hash=DBBAC2DDADE817F8FDA8CAEF9DD77AEE')">
+        <!-- inline bg image so it can be dynamic -->
+        <div class="featured-copy">
+            <span class="featured-eyebrow">Podcasts</span>
+            <h3 class="featured-header">Have you listened?</h3>
+                <div class="featured-paragraph"><p>Bedside Stories highlights captivating personal stories that take place behind the scenes in health care.</p></div>
+            <a class="btn btn-primary-bh " href="/es/healthcareblog/category/podcasts/bedside-stories" target="">Episodes</a>
+        </div>
+    </div>
+
+                </div>
+                <div class="mobile-menu-column-4 d-lg-none">
+                    <div class="mobile-menu-column-4 d-lg-none">
+                        <!-- Social Links -->
+                        
+<div class="navbar-social">
+        <a href="https://www.facebook.com/BannerHealth" target="_blank">
+          <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <g id="UI-Assets-for-Dev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                            <g id="BH-Blog---UI-Components---Icon-sets" transform="translate(-98.000000, -205.000000)" fill="#7B7F84">
+                                <g id="icon" transform="translate(98.000000, 205.000000)">
+                                    <g id="🎨-icon-color">
+                                        <path d="M21.6234294,3.0037452 L19.2248841,3 C16.5302007,3 14.7887779,4.73870978 14.7887779,7.42982429 L14.7887779,9.4722699 L12.3771479,9.4722699 C12.1687544,9.4722699 12,9.63668425 12,9.83948691 L12,12.7987578 C12,13.0015605 12.1689469,13.1657876 12.3771479,13.1657876 L14.7887779,13.1657876 L14.7887779,20.6329703 C14.7887779,20.8357729 14.9575324,21 15.1659258,21 L18.312417,21 C18.5208105,21 18.6895649,20.8355857 18.6895649,20.6329703 L18.6895649,13.1657876 L21.5093229,13.1657876 C21.7177163,13.1657876 21.8864708,13.0015605 21.8864708,12.7987578 L21.8876253,9.83948691 C21.8876253,9.74211167 21.8477939,9.64885615 21.7771749,9.57994445 C21.7065558,9.51103274 21.6103446,9.4722699 21.510285,9.4722699 L18.6895649,9.4722699 L18.6895649,7.74086327 C18.6895649,6.9086795 18.8933403,6.48622078 20.0072736,6.48622078 L21.6230445,6.485659 C21.8312456,6.485659 22,6.32124466 22,6.11862926 L22,3.37077494 C22,3.16834681 21.831438,3.00411972 21.6234294,3.0037452 Z"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </svg>
+        </a>      
+        <a href="https://twitter.com/BannerHealth" target="_blank">
+          <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <g id="UI-Assets-for-Dev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                            <g id="BH-Blog---UI-Components---Icon-sets" transform="translate(-142.000000, -205.000000)" fill="#7B7F84">
+                                <g id="icon" transform="translate(142.000000, 205.000000)">
+                                    <path d="M20.9801478,6.66757199 C20.9557719,6.63852634 20.9155516,6.62866843 20.8812512,6.64451151 C20.3730133,6.8724758 19.83831,7.03636364 19.2875883,7.13318245 C19.8722622,6.68852006 20.3078947,6.07275242 20.5312826,5.36667924 C20.5420777,5.33288067 20.5309344,5.29591349 20.5035986,5.27390922 C20.4760886,5.25190494 20.4379577,5.24908839 20.407836,5.26721992 C19.7493379,5.66206463 19.0361681,5.9403747 18.2871308,6.0947567 C17.6234093,5.3983654 16.6966019,5 15.7374093,5 C13.7866391,5 12.1997666,6.60437571 12.1997666,8.57648686 C12.1997666,8.8150132 12.2225755,9.0512511 12.2678451,9.28062366 C9.56594821,9.1119829 7.039558,7.8005281 5.32175195,5.67033824 C5.30416647,5.64851 5.27752707,5.63636364 5.24966887,5.63918018 C5.22198479,5.64129259 5.19726064,5.65713567 5.18333154,5.68125236 C4.86992683,6.22484597 4.70434467,6.8467748 4.70434467,7.47944172 C4.70434467,8.57595876 5.19708652,9.60118194 6.03614058,10.2776814 C5.60416442,10.2252232 5.18228686,10.0877405 4.80184836,9.87421099 C4.77625364,9.85960015 4.74439083,9.85977619 4.71879611,9.87473909 C4.69320139,9.88952597 4.67700881,9.9169873 4.67631236,9.94691311 L4.67596413,9.99268201 C4.67596413,11.567484 5.70236456,12.9502326 7.16265641,13.4093298 C6.77803918,13.471998 6.37897052,13.4677732 5.98669228,13.3920785 C5.95778941,13.3866214 5.92749362,13.3966554 5.90764465,13.4191877 C5.8879698,13.4417201 5.88135348,13.4732302 5.89040739,13.5017478 C6.32830342,14.8836162 7.54501016,15.8526845 8.96125123,15.973444 C7.77988958,16.84851 6.38349747,17.3095436 4.90805773,17.3095436 C4.6362662,17.3095436 4.36255942,17.2931724 4.09442428,17.2613102 C4.05611926,17.2569093 4.01816246,17.2799698 4.00492982,17.317113 C3.99169718,17.3546083 4.00580039,17.3965045 4.038882,17.4178046 C5.63550489,18.4530617 7.48163276,19 9.37790539,19 C15.580707,19 19.28724,13.9059223 19.28724,8.98118949 C19.28724,8.84405885 19.2846283,8.70763234 19.2792308,8.5715579 C19.9483499,8.07672576 20.5227511,7.47099208 20.9858936,6.76984786 C21.0066131,6.73851377 21.0043496,6.69679366 20.9801478,6.66757199 Z" id="🎨-icon-color"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </svg>
+        </a>      
+        <a href="https://www.youtube.com/user/bannerhealthonline" target="_blank">
+          <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <g id="UI-Assets-for-Dev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                            <g id="BH-Blog---UI-Components---Icon-sets" transform="translate(-186.000000, -205.000000)" fill="#7B7F84">
+                                <g id="icon" transform="translate(186.000000, 205.000000)">
+                                    <path d="M9.95454545,14.9545645 L9.95454545,9.04543548 L15.1818182,12.0001129 L9.95454545,14.9545645 Z M21.5820455,7.18614516 C21.3520455,6.32559677 20.6743182,5.64795161 19.8138636,5.41796774 C18.2542045,5 12,5 12,5 C12,5 5.74579545,5 4.18613636,5.41796774 C3.32568182,5.64795161 2.64795455,6.32559677 2.41795455,7.18614516 C2,8.74579032 2,12 2,12 C2,12 2,15.2540968 2.41795455,16.8138548 C2.64795455,17.6744032 3.32568182,18.3520484 4.18613636,18.5821452 C5.74579545,19 12,19 12,19 C12,19 18.2542045,19 19.8138636,18.5821452 C20.6743182,18.3520484 21.3520455,17.6744032 21.5820455,16.8138548 C22,15.2540968 22,12 22,12 C22,12 22,8.74579032 21.5820455,7.18614516 L21.5820455,7.18614516 Z" id="🎨-icon-color"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </svg>
+        </a>      
+        <a href="https://www.instagram.com/banner_health/" target="_blank">
+          <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <g id="UI-Assets-for-Dev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                            <g id="BH-Blog---UI-Components---Icon-sets" transform="translate(-230.000000, -205.000000)" fill="#7B7F84">
+                                <g id="icon" transform="translate(230.000000, 205.000000)">
+                                    <path d="M8,2 L16,2 C19.3137085,2 22,4.6862915 22,8 L22,16 C22,19.3137085 19.3137085,22 16,22 L8,22 C4.6862915,22 2,19.3137085 2,16 L2,8 C2,4.6862915 4.6862915,2 8,2 Z M18.5380348,6.66198662 C18.5380348,5.99923785 18.0007621,5.46196518 17.3380134,5.46196518 C16.6753043,5.46196518 16.1380316,5.99923785 16.1380316,6.66198662 C16.1380316,7.32473538 16.6753043,7.86196836 17.3380134,7.86196836 C18.0007621,7.86196836 18.5380348,7.32473538 18.5380348,6.66198662 Z M12.0000198,15.3333333 C10.1590422,15.3333333 8.66666667,13.8409578 8.66666667,12.0000198 C8.66666667,10.1590422 10.1590422,8.66666667 12.0000198,8.66666667 C13.8409578,8.66666667 15.3333333,10.1590422 15.3333333,12.0000198 C15.3333333,13.8409578 13.8409578,15.3333333 12.0000198,15.3333333 Z M12.0000198,6.86486808 C9.16392671,6.86486808 6.86486808,9.16392671 6.86486808,12.0000198 C6.86486808,14.8360733 9.16392671,17.1351319 12.0000198,17.1351319 C14.8360733,17.1351319 17.1351319,14.8360733 17.1351319,12.0000198 C17.1351319,9.16392671 14.8360733,6.86486808 12.0000198,6.86486808 Z" id="Combined-Shape"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </svg>
+        </a>      
+</div>
+
+
+
+                        <a href="/es">
+                            <span>BannerHealth.com</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+		<!-- Nav Links -->
+		    
+    <ul class="navbar-desktop-links d-none d-lg-flex">
+
+        <li class="">
+            <a class="has-sub-menu" href="/es/healthcareblog/category/better-me">Mej&#243;rame</a>
+
+        </li>
+        <li class="">
+            <a class="has-sub-menu" href="/es/healthcareblog/category/teach-me">Ens&#233;&#241;ame</a>
+
+        </li>
+        <li class="">
+            <a class="has-sub-menu" href="/es/healthcareblog/category/advise-me">Acons&#233;jame</a>
+
+        </li>
+        <li class="">
+            <a class="has-sub-menu" href="/es/healthcareblog/category/inspire-me">Insp&#237;rame</a>
+
+        </li>
+        <li class="">
+            <a class="has-sub-menu" href="/es/healthcareblog/category/podcasts">Podcasts</a>
+
+        </li>
+    </ul>
+
+		<!-- Search -->
+		
+
+		<!-- SearchBox For Desktop  -->
+		
+
+
+<!-- Desktop View -->
+<div class="navbar-search-desktop d-none d-lg-block" data-js="navbar-search-desktop">
+	<button class="search-trigger" data-js="search-trigger">
+		<!-- search icon -->
+		<svg class="search-icon" data-js="search-icon" width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+			<g id="UI-Assets-for-Dev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+				<g id="BH-Blog---UI-Components---Icon-sets" transform="translate(-758.000000, -200.000000)" fill="#56595D">
+					<g id="icon" transform="translate(758.000000, 200.000000)">
+						<path d="M12.502,6.491 L11.708,6.491 L11.432,6.765 C12.407,7.902 13,9.376 13,10.991 C13,14.581 10.09,17.491 6.5,17.491 C2.91,17.491 0,14.581 0,10.991 C0,7.401 2.91,4.491 6.5,4.491 C8.115,4.491 9.588,5.083 10.725,6.057 L11.001,5.783 L11.001,4.991 L15.999,0 L17.49,1.491 L12.502,6.491 L12.502,6.491 Z M6.5,6.491 C4.014,6.491 2,8.505 2,10.991 C2,13.476 4.014,15.491 6.5,15.491 C8.985,15.491 11,13.476 11,10.991 C11,8.505 8.985,6.491 6.5,6.491 L6.5,6.491 Z" id="ðŸŽ¨-icon-color" transform="translate(8.745000, 8.745500) scale(1, -1) translate(-8.745000, -8.745500) "></path>
+					</g>
+				</g>
+			</g>
+		</svg>
+		<!-- / search icon -->
+		<!-- close icon -->
+		<svg class="close-icon" data-js="close-icon" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+			<g id="icon-/-utility-/-ic_close-/-ic_close_material" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+				<polygon fill="#56595D" id="path-1" points="19 6.4 17.6 5 12 10.6 6.4 5 5 6.4 10.6 12 5 17.6 6.4 19 12 13.4 17.6 19 19 17.6 13.4 12"></polygon>
+			</g>
+		</svg>
+		<!-- / close icon -->
+	</button>
+	<div class="search-box" data-js="search-box">
+		<form autocomplete="off" action="/es/healthcareblog/searchresults" method="get" novalidate>
+			<input type="search" name="searchTerm" data-js="search-box-input" id="search-box-input" placeholder=Search />
+		</form>
+	</div>
+</div>
+
+
+	</nav>
+</header>
+
+	
+    
+
+	<main class="alt-bg-2">
+		<div class="container-blog container-blog--full">
+
+
+			
+			
+
+
+
+<div class="sub-container-blog">
+  <div class="article-header">
+    <div class="article-header-byline-date">
+      <div class="article-header-left">
+Por            <a class="article-header-left-link" href="/es/healthcareblog/authors/regan-olsson">
+              Regan Olsson
+            </a>
+, Escritor colaborador      </div>
+      <div class="article-header-right">
+          <span class="article-header-date">Febrero 10, 2023</span>
+          <time datetime="2023-02-10"></time>
+      </div>
+    </div>
+    <div class="article-header-eyebrow blog-card-eyebrow">
+<a class='article-header-eyebrow-link' href='/es/healthcareblog/category/teach-me'>Enséñame</a>    </div>
+      <h1 class="article-header-article-title">
+        Punci&#243;n Seca o Acupuntura: &#191;Qu&#233; Tratamiento es el Adecuado para Usted?
+      </h1>
+  </div>
+    <div class="text-card-background-image-v3" style="background-image: url(/healthcareblog/-/media/images/project/healthcareblog/hero-images/2023/02/dry-needle.ashx?h=780&amp;w=1170&amp;hash=669998EC1633A2AD6F584B75BC644E82);"></div>
+
+  <div class="blog-layout-common blog-layout-common--article">
+    <div class="blog-layout-common-left">
+      <div class="article-content">
+        <div class="article-content-whole">
+<p>¿La palabra &quot;aguja&quot; te hace querer correr por las colinas? No estás solo.</p><p> Ya sea una extracción de sangre o inyecciones e inmunizaciones, la mayoría de las experiencias que requieren el uso de palos de metal afilados no siempre son agradables. Y aunque las agujas son herramientas médicas muy importantes, tienen una mala reputación.</p><p> Si le <a href="https://www.bannerhealth.com/es/healthcareblog/advise-me/tips-to-overcome-your-fear-of-needles">temes a las agujas</a> , es probable que tampoco hayas buscado ansiosamente <a href="https://www.bannerhealth.com/es/healthcareblog/teach-me/will-acupuncture-treat-my-chronic-pain">la acupuntura</a> o <a href="https://www.bannerhealth.com/es/services/physical-therapy/specialized-services/dry-needling">la punción seca</a> . Pero podría valer la pena probar uno de estos métodos, especialmente si está lidiando con dolor crónico o tensión muscular.</p><p> Tanto la acupuntura como la punción seca usan agujas delgadas de acero inoxidable, mucho más delgadas que las que vienen con una jeringa.</p><p> Una práctica ha existido durante miles de años, mientras que la otra práctica se ha vuelto más común en las últimas dos décadas. En ambas prácticas, se insertan agujas en puntos estratégicos del cuerpo para aliviar el dolor de adentro hacia afuera.</p><p> Si está lidiando con dolor, incomodidad u otros problemas como <a href="https://www.bannerhealth.com/es/healthcareblog/teach-me/signs-you-have-high-functioning-anxiety-and-what-to-do-about-it">la ansiedad,</a> puede valer la pena probar la punción seca o la acupuntura.</p><p> Siga leyendo para comprender exactamente cuáles son las diferencias y qué puede tratar cada práctica.</p><h2> ¿Qué es la acupuntura?</h2><p> Primero comenzamos con la práctica el más viejo, el mayor , la acupuntura.</p><p> Una práctica centenaria en la medicina tradicional china (MTC), la acupuntura es practicada por decenas de miles de acupunturistas autorizados en todo el mundo. Durante las últimas dos décadas, ha estado bien establecido en los EE. UU., incluidos los programas de adiestramiento formal y las juntas de concesión de licencias, e incluso está cubierto por algunos seguros.</p><p> La filosofía detrás de esta práctica se basa en Qi (pronunciado chee) o flujo de energía.</p><p> “Se cree que la energía fluye a través del cuerpo en canales llamados meridianos”, dijo <a href="https://doctors.bannerhealth.com/provider/Sarah+Chapman/449695" target="_self">Sarah Chapman</a> , DPT, especialista clínica ortopédica en Banner Health en Gilbert, Arizona. “Cuando el Qi no fluye libremente en el cuerpo, puede causar enfermedades”.</p><p> La acupuntura se realiza con el uso de agujas de monofilamento sólido (muy finas/similares a hilos) que se insertan a lo largo de las líneas meridianas del cuerpo para permitir que la energía fluya nuevamente y se equilibre.</p><h2> ¿Cuales son los beneficios?</h2><p> “La acupuntura se usa por una variedad de razones, tanto físicas como mentales”, dijo Chapman. “Se puede usar para tratar afecciones, como dolor de estómago, dolor musculoesquelético, problemas de órganos internos e incluso problemas de salud mental como <a href="https://www.bannerhealth.com/es/healthcareblog/better-me/living-with-depression-and-anxiety">depresión y ansiedad.</a> ”</p><p> Otros problemas que se usa para tratar incluyen:</p><ul><li> <a href="https://www.bannerhealth.com/es/healthcareblog/better-me/5-tips-to-beat-back-pain">Dolor de espalda</a></li><li> <a href="https://www.bannerhealth.com/es/healthcareblog/better-me/6-natural-and-alternative-treatments">Fibromialgia</a></li><li> Dolores de cabeza y migrañas</li><li> Dolores menstruales y de parto</li><li> <a href="https://www.bannerhealth.com/es/healthcareblog/better-me/here-is-what-to-do-when-you-get-a-stiff-neck">Dolor de cuello</a></li><li> <a href="https://www.bannerhealth.com/es/healthcareblog/teach-me/arthritis-an-introduction-to-the-condition">Osteoartritis</a></li><li> Trastornos respiratorios, como la Rinitis Alérgica</li><li> <a href="https://www.bannerhealth.com/es/services/sleep-medicine/sleep-disorder">problemas de sueño</a></li><li> <a href="https://www.bannerhealth.com/es/healthcareblog/teach-me/stress">Estrés</a></li></ul><h2> ¿Cuáles son los riesgos?</h2><p> Como con cualquier tratamiento terapéutico, la acupuntura tiene algunos riesgos y efectos secundarios.</p><ul><li> El uso de agujas no estériles puede provocar infecciones o enfermedades. Para reducir, disminuir significativamente este riesgo, trabaje con un acupunturista autorizado.</li><li><span></span> Existe un mayor riesgo de complicaciones si tiene un trastorno hemorrágico, está tomando <a href="https://www.bannerhealth.com/es/healthcareblog/better-me/blood-thinners-what-you-need-to-know">anticoagulantes</a> , está embarazada o usa un <a href="https://www.bannerhealth.com/es/healthcareblog/better-me/what-to-expect-if-you-need-an-implantable-cardioverter-defibrillator">marcapasos.</a> Hable primero con su proveedor de atención médica antes de recibir acupuntura.</li><li> Los efectos secundarios pueden incluir hematomas, sangrado y una sensación leve de dolor en el punto donde se inserta la aguja.</li></ul><h2> ¿Qué es la punción seca?</h2><p> La punción seca es una práctica mucho más nueva que está ganando popularidad en los EE. UU. como una forma de tratar el dolor muscular.</p><p> La mayoría de las veces la realizan terapeutas de lesiones físicas y deportivas, pero está <a rel="noopener noreferrer" rel="noopener noreferrer" href="https://www.apta.org/patient-care/interventions/dry-needling/laws-by-state" target="_blank">regulada por cada estado.</a> La mayoría de los estados permiten que los fisioterapeutas (PT) realicen la punción seca, sin embargo, hay algunos estados que no lo permiten. Además, algunos estados requieren más horas de adiestramiento que otros y la aprobación de una junta reguladora.</p><p> “En Arizona, por ejemplo, debe tomar al menos un curso de tres días y presentar prueba, comprobante de finalización a la junta reguladora estatal”, dijo Chapman. “La junta lo revisa y, una vez aprobado, puede realizar la punción seca”.</p><p> La punción seca también usa agujas de monofilamento sólido (piensa, delgadas como el papel) que se insertan en el cuerpo, pero se colocan en diferentes puntos del cuerpo que las agujas de acupuntura.</p><p> “Los puntos en los que se colocan las agujas se basan en la anatomía, como músculos, nervios y articulaciones, para ayudar a aumentar el flujo sanguíneo y el oxígeno y aliviar el dolor muscular, los espasmos o la tensión”, dijo Chapman. “Dado que no inyectan un líquido, se les conoce como &#39;secos&#39;”.</p><p> El objetivo es ayudar a acelerar la recuperación y permitir que su cuerpo se concentre en curar un área o punto problemático específico.</p><h2> ¿Cuales son los beneficios?</h2><p> Si lidia con nudos constantes en los hombros y la espalda, entonces la punción seca puede ser para usted.</p><p> “La punción seca se puede usar para tratar una variedad de cosas, desde puntos gatillo musculares hasta inflamación debido a tendinitis o <a href="https://www.bannerhealth.com/es/healthcareblog/better-me/thanks-mom-for-the-bunions">bursitis”,</a> dijo Chapman. &quot;Se usa a menudo para tratar lesiones deportivas, dolor de la parte baja de la espalda, fibromialgia u otras afecciones neuromusculares&quot;.</p><p> La punción seca también puede ayudarlo durante la fisioterapia. Ayuda a relajar los músculos y te permite hacer ejercicios con menos dolor y recuperarte más rápido. “La punción seca sin los ejercicios de terapia no es tan efectiva como cuando se realiza junto con los ejercicios apropiados”, dijo Chapman.</p><h2> ¿Cuáles son los riesgos?</h2><p> Al igual que con cualquier tratamiento, la punción seca tiene algunos efectos secundarios raros pero leves.</p><ul><li> Los efectos secundarios más comunes pueden incluir sangrado leve, hematomas y dolor temporal (durante aproximadamente 24 a 48 horas). Al pinchar alrededor del área del pulmón, existe un pequeño riesgo de neumotórax (pulmón colapsado).</li><li> La punción seca no se recomienda para mujeres embarazadas, porque existe un pequeño riesgo de que pueda iniciar un trabajo de parto prematuro.</li><li> Tampoco se recomienda si tiene un sistema inmunitario debilitado, cáncer activo, infección activa o problemas de curación, ya que es posible que su cuerpo no pueda producir la misma respuesta de curación a las agujas. Hable con su proveedor si cree que podría recibir ayuda de la punción seca.</li><li> Si toma anticoagulantes, es posible que la punción seca no sea para usted. Lo mejor es discutir esto primero con su proveedor y fisioterapeuta, ya que algunos anticoagulantes pueden aumentar el riesgo de hematomas.</li></ul><p> &quot;Dado que la punción seca es un tratamiento relativamente nuevo, no está cubierto por el seguro y puede ser más difícil encontrar un fisioterapeuta que realice la punción seca, ya que está regulado de manera diferente en cada estado y requiere adiestramiento y educación adicionales&quot;, dijo Chapman.</p><h2> ¿Qué tratamiento es el adecuado para mí?</h2><p> Si puede superar el aspecto de la aguja, puede preguntarse qué tratamiento debe seguir. Responder esa pregunta dependerá de una variedad de factores, incluida su condición y preferencia personal.</p><p> Por ejemplo, si está buscando aliviar el dolor muscular y la tensión, entonces la punción seca puede ser la opción adecuada para usted. Por otro lado, si espera alivio de una condición mental o física como ansiedad, náuseas o alergias, entonces la acupuntura puede ser la respuesta correcta.</p><p> Tanto la acupuntura como la punción seca tienen su propio conjunto de beneficios y riesgos. Cualquiera que sea el método que elija seguir, asegúrese de hablar primero con su proveedor de atención médica para asegurarse de que está bien intentarlo.</p><h2> ¿Está interesado en la punción seca o la acupuntura y desea obtener más información?</h2><p> Programa una cita con un <a rel="noopener noreferrer" rel="noopener noreferrer" href="https://doctors.bannerhealth.com/search?clinical_experience=dry+needling&amp;sort=networks%2Crelevance" target="_blank">fisioterapeuta.</a></p><h2> Para artículos relacionados, consulte:</h2><ul><li> <a href="https://www.bannerhealth.com/es/healthcareblog/teach-me/heres-how-reiki-therapy-can-help-reduce-stress-and-promote-healing">Así es como la terapia de Reiki puede ayudar a reducir el estrés y promover la curación</a></li><li> <a href="https://www.bannerhealth.com/es/healthcareblog/teach-me/does-cupping-therapy-really-work">¿Qué es la terapia con ventosas y funciona?</a></li><li> <a href="https://www.bannerhealth.com/es/healthcareblog/teach-me/how-hands-on-omt-could-improve-your-health">Cómo el tratamiento práctico de manipulación osteopática podría mejorar su salud</a></li></ul>            
+
+
+  <div class="article-content-button-wrap">
+
+          <a class="btn btn-simple" href="/es/healthcareblog/tags/fitness">Actividad f&#237;sica</a>
+          <a class="btn btn-simple" href="/es/healthcareblog/tags/physical-therapy">Fisioterapia</a>
+          <a class="btn btn-simple" href="/es/healthcareblog/tags/sports-medicine">Medicina&#160;deportiva</a>
+
+
+  </div>
+
+
+
+          
+        </div>
+      </div>
+    </div>
+    <div class="blog-layout-common-right">
+      <div class="ad-v2 ">
+        
+<a class="ad-v1-link" target="_self" href="/es/patients/banner-app">
+    <img class="ad-v1-image-1" src="/healthcareblog/-/media/images/project/healthcareblog/blogsad/ad-v2.ashx?h=1542&amp;w=524&amp;hash=08DAD82511A68FD15E9B355A80C6E5B6" alt="">
+</a>
+
+
+
+
+      </div>
+    </div>
+  </div>
+  <div class="ad-v1 d-block d-sm-none">
+    
+<a class="ad-v1-link" target="_self" href="/es/patients/banner-app">
+    <img class="ad-v1-image-1" src="/healthcareblog/-/media/images/project/healthcareblog/blogsad/ad-v1.ashx?h=742&amp;w=526&amp;hash=599D63D7A2B5E971FD693B890C255636" alt="">
+</a>
+
+
+
+
+  </div>
+</div>
+
+<div class="emailSignupCard">
+  
+</div>
+
+<div class="blog-layout-full">
+  <div class="blog-layout-common blog-layout-common--article-bottom">
+    <div class="blog-layout-common-left">
+                  
+
+
+
+    <div class="text-card-related-articles-list">
+        <div class="text-card-related-articles-list-title">TAMBI&#201;N TE PUEDE INTERESAR</div>
+        <div class="text-card-related-articles-list-inner">
+              <div class="text-card-article-card small-card small-card--alt">
+                <div class="text-card-article-card-image" style="background-image: url(/healthcareblog/-/media/images/project/healthcareblog/hero-images/2023/10/exercising-or-walking-in-place.ashx?h=780&amp;w=1170&amp;hash=8654941675D505FA23BFBE82C0521FD7);">
+                  <a class="text-card-article-card-image-link" href="https://www.bannerhealth.com/es/healthcareblog/advise-me/the-benefits-to-your-body-of-walking-in-place" title="Mejorando su salud: los beneficios para su cuerpo de caminar en el mismo lugar"></a>
+
+
+
+                </div>
+                <div class="text-card-article-card-copy-area">
+                  <div class="text-card-article-card-long-date blog-card-eyebrow">
+                    Octubre 02, 2023
+                  </div>
+
+
+                  <div class="text-card-article-card-title">
+                    <a class="text-card-article-card-title-link" href="https://www.bannerhealth.com/es/healthcareblog/advise-me/the-benefits-to-your-body-of-walking-in-place" title="Mejorando su salud: los beneficios para su cuerpo de caminar en el mismo lugar">Mejorando su salud: los beneficios para su cuerpo de caminar en el mismo lugar</a>
+                  </div>
+
+                  <!--Commented code to remove comment icon-->
+
+                  
+                </div>
+              </div>
+              <div class="text-card-article-card small-card small-card--alt">
+                <div class="text-card-article-card-image" style="background-image: url(/healthcareblog/-/media/images/project/healthcareblog/hero-images/2023/09/increasing-your-flexibility-benefits-of-stretching-and-mobility-work.ashx?h=780&amp;w=1170&amp;hash=4E817B1C6ABB25B6C575F5FFC121A353);">
+                  <a class="text-card-article-card-image-link" href="https://www.bannerhealth.com/es/healthcareblog/advise-me/the-key-benefits-of-flexibility-and-mobility" title="C&#243;mo la flexibilidad y la movilidad le ayudan a mantenerse fuerte y saludable de por vida"></a>
+
+
+
+                </div>
+                <div class="text-card-article-card-copy-area">
+                  <div class="text-card-article-card-long-date blog-card-eyebrow">
+                    Septiembre 15, 2023
+                  </div>
+
+
+                  <div class="text-card-article-card-title">
+                    <a class="text-card-article-card-title-link" href="https://www.bannerhealth.com/es/healthcareblog/advise-me/the-key-benefits-of-flexibility-and-mobility" title="C&#243;mo la flexibilidad y la movilidad le ayudan a mantenerse fuerte y saludable de por vida">C&#243;mo la flexibilidad y la movilidad le ayudan a mantenerse fuerte y saludable de por vida</a>
+                  </div>
+
+                  <!--Commented code to remove comment icon-->
+
+                  
+                </div>
+              </div>
+              <div class="text-card-article-card small-card small-card--alt">
+                <div class="text-card-article-card-image" style="background-image: url(/healthcareblog/-/media/images/project/healthcareblog/hero-images/2023/09/celebrating-non-scale-victories.ashx?h=780&amp;w=1170&amp;hash=EF16C3F89C3A6A576014C7592287A45F);">
+                  <a class="text-card-article-card-image-link" href="https://www.bannerhealth.com/es/healthcareblog/advise-me/non-scale-victories-after-bariatric-surgery" title="Celebrando las victorias sin escala: un viaje m&#225;s all&#225; de la p&#233;rdida de peso"></a>
+
+
+
+                </div>
+                <div class="text-card-article-card-copy-area">
+                  <div class="text-card-article-card-long-date blog-card-eyebrow">
+                    Septiembre 15, 2023
+                  </div>
+
+
+                  <div class="text-card-article-card-title">
+                    <a class="text-card-article-card-title-link" href="https://www.bannerhealth.com/es/healthcareblog/advise-me/non-scale-victories-after-bariatric-surgery" title="Celebrando las victorias sin escala: un viaje m&#225;s all&#225; de la p&#233;rdida de peso">Celebrando las victorias sin escala: un viaje m&#225;s all&#225; de la p&#233;rdida de peso</a>
+                  </div>
+
+                  <!--Commented code to remove comment icon-->
+
+                  
+                </div>
+              </div>
+              <div class="text-card-article-card small-card small-card--alt">
+                <div class="text-card-article-card-image" style="background-image: url(/healthcareblog/-/media/images/project/healthcareblog/hero-images/2023/09/how-to-exercise-after-a-heart-attack.ashx?h=780&amp;w=1170&amp;hash=3B8DB325971739E87E264525EA258575);">
+                  <a class="text-card-article-card-image-link" href="https://www.bannerhealth.com/es/healthcareblog/better-me/how-to-start-exercising-after-a-heart-attack" title="La forma correcta de empezar a hacer ejercicio despu&#233;s de un infarto"></a>
+
+
+
+                </div>
+                <div class="text-card-article-card-copy-area">
+                  <div class="text-card-article-card-long-date blog-card-eyebrow">
+                    Septiembre 14, 2023
+                  </div>
+
+
+                  <div class="text-card-article-card-title">
+                    <a class="text-card-article-card-title-link" href="https://www.bannerhealth.com/es/healthcareblog/better-me/how-to-start-exercising-after-a-heart-attack" title="La forma correcta de empezar a hacer ejercicio despu&#233;s de un infarto">La forma correcta de empezar a hacer ejercicio despu&#233;s de un infarto</a>
+                  </div>
+
+                  <!--Commented code to remove comment icon-->
+
+                  
+                </div>
+              </div>
+              <div class="text-card-article-card small-card small-card--alt">
+                <div class="text-card-article-card-image" style="background-image: url(/healthcareblog/-/media/images/project/healthcareblog/hero-images/2023/09/your-friend-is-playing-pickleball.ashx?h=780&amp;w=1170&amp;hash=7756DFE9F192CE9BA43E63070CE0D422);">
+                  <a class="text-card-article-card-image-link" href="https://www.bannerhealth.com/es/healthcareblog/advise-me/health-benefits-you-can-gain-when-you-start-to-play-pickleball" title="7 beneficios para la salud que puedes obtener cuando empiezas a jugar Pickleball"></a>
+
+
+
+                </div>
+                <div class="text-card-article-card-copy-area">
+                  <div class="text-card-article-card-long-date blog-card-eyebrow">
+                    Septiembre 04, 2023
+                  </div>
+
+
+                  <div class="text-card-article-card-title">
+                    <a class="text-card-article-card-title-link" href="https://www.bannerhealth.com/es/healthcareblog/advise-me/health-benefits-you-can-gain-when-you-start-to-play-pickleball" title="7 beneficios para la salud que puedes obtener cuando empiezas a jugar Pickleball">7 beneficios para la salud que puedes obtener cuando empiezas a jugar Pickleball</a>
+                  </div>
+
+                  <!--Commented code to remove comment icon-->
+
+                  
+                </div>
+              </div>
+              <div class="text-card-article-card small-card small-card--alt">
+                <div class="text-card-article-card-image" style="background-image: url(/healthcareblog/-/media/images/project/healthcareblog/hero-images/2023/08/slipping_rib_syndrome.ashx?h=780&amp;w=1170&amp;hash=45A01383F54A8CAD72EA23BEE0744DB8);">
+                  <a class="text-card-article-card-image-link" href="https://www.bannerhealth.com/es/healthcareblog/teach-me/what-you-should-know-about-slipping-rib-syndrome" title="S&#237;ndrome de la costilla deslizante: comprensi&#243;n de esta condici&#243;n rara"></a>
+
+
+
+                </div>
+                <div class="text-card-article-card-copy-area">
+                  <div class="text-card-article-card-long-date blog-card-eyebrow">
+                    Agosto 27, 2023
+                  </div>
+
+
+                  <div class="text-card-article-card-title">
+                    <a class="text-card-article-card-title-link" href="https://www.bannerhealth.com/es/healthcareblog/teach-me/what-you-should-know-about-slipping-rib-syndrome" title="S&#237;ndrome de la costilla deslizante: comprensi&#243;n de esta condici&#243;n rara">S&#237;ndrome de la costilla deslizante: comprensi&#243;n de esta condici&#243;n rara</a>
+                  </div>
+
+                  <!--Commented code to remove comment icon-->
+
+                  
+                </div>
+              </div>
+
+        </div>
+    </div>
+
+    </div>
+    <div class="blog-layout-common-right">
+      <div class="text-card-feature-article-list">
+            
+
+
+    <div class="text-card-feature-article-list-title"> Destacados</div>
+        <div class="text-card-feature-article-list-inner">
+            <div class="text-card-feature-article-list-article">
+                    <div class="text-card-feature-article-list-article-eyebrow blog-card-eyebrow">
+                        <!--  Primary Category Item Name and URL-->
+                        <a class="text-card-feature-article-list-article-eyebrow-link" href="/es/healthcareblog/category/better-me" title="Mej&#243;rame">Mej&#243;rame</a>
+                    </div>
+                                    <div class="text-card-feature-article-list-article-title">
+                        <!-- Article Item Name and URL-->
+                        <a class="text-card-feature-article-list-article-title-link" href="https://www.bannerhealth.com/es/healthcareblog/better-me/kids-headaches-when-to-worry" title="Dolores de cabeza en ni&#241;os: &#191;cu&#225;ndo debo preocuparme?">Dolores de cabeza en ni&#241;os: &#191;cu&#225;ndo debo preocuparme?</a>
+                    </div>
+            </div>
+        </div>
+        <div class="text-card-feature-article-list-inner">
+            <div class="text-card-feature-article-list-article">
+                    <div class="text-card-feature-article-list-article-eyebrow blog-card-eyebrow">
+                        <!--  Primary Category Item Name and URL-->
+                        <a class="text-card-feature-article-list-article-eyebrow-link" href="/es/healthcareblog/category/advise-me" title="Acons&#233;jame">Acons&#233;jame</a>
+                    </div>
+                                    <div class="text-card-feature-article-list-article-title">
+                        <!-- Article Item Name and URL-->
+                        <a class="text-card-feature-article-list-article-title-link" href="https://www.bannerhealth.com/es/healthcareblog/advise-me/how-often-should-you-wash-your-sheets" title="&#191;Con qu&#233; frecuencia debe lavar las s&#225;banas para mantener alejados los g&#233;rmenes?">&#191;Con qu&#233; frecuencia debe lavar las s&#225;banas para mantener alejados los g&#233;rmenes?</a>
+                    </div>
+            </div>
+        </div>
+        <div class="text-card-feature-article-list-inner">
+            <div class="text-card-feature-article-list-article">
+                    <div class="text-card-feature-article-list-article-eyebrow blog-card-eyebrow">
+                        <!--  Primary Category Item Name and URL-->
+                        <a class="text-card-feature-article-list-article-eyebrow-link" href="/es/healthcareblog/category/inspire-me" title="Insp&#237;rame">Insp&#237;rame</a>
+                    </div>
+                                    <div class="text-card-feature-article-list-article-title">
+                        <!-- Article Item Name and URL-->
+                        <a class="text-card-feature-article-list-article-title-link" href="https://www.bannerhealth.com/es/healthcareblog/inspire-me/three-women-three-treatments-three-survivors" title="Tres mujeres, tres tratamientos finales, tres sobrevivientes">Tres mujeres, tres tratamientos finales, tres sobrevivientes</a>
+                    </div>
+            </div>
+        </div>
+
+        
+
+
+
+
+
+    <div class="text-card-feature-article-list-title text-card-feature-article-list-title--second">RECIENTE</div>
+    <div class="text-card-feature-article-list-inner text-card-feature-article-list-inner--second">
+                    <div class="text-card-feature-article-list-article">
+                        <div class="text-card-feature-article-list-article-eyebrow blog-card-eyebrow">
+                            <a class="text-card-feature-article-list-article-eyebrow-link" href="/es/healthcareblog/category/teach-me" title="Lo que debe saber sobre la inscripci&#243;n abierta para 2024">Ens&#233;&#241;ame</a>
+                        </div>
+
+                        <div class="text-card-feature-article-list-article-title">
+                            <a class="text-card-feature-article-list-article-title-link" href="https://www.bannerhealth.com/es/healthcareblog/teach-me/what-you-should-know-about-open-enrollment-2024" title="Lo que debe saber sobre la inscripci&#243;n abierta para 2024">Lo que debe saber sobre la inscripci&#243;n abierta para 2024</a>
+                        </div>
+                    </div>
+                    <div class="text-card-feature-article-list-article">
+                        <div class="text-card-feature-article-list-article-eyebrow blog-card-eyebrow">
+                            <a class="text-card-feature-article-list-article-eyebrow-link" href="/es/healthcareblog/category/teach-me" title="What You Should Know About Open Enrollment for 2024">Ens&#233;&#241;ame</a>
+                        </div>
+
+                        <div class="text-card-feature-article-list-article-title">
+                            <a class="text-card-feature-article-list-article-title-link" href="https://www.bannerhealth.com/es/healthcareblog/teach-me/what-you-should-know-about-open-enrollment-2024" title="What You Should Know About Open Enrollment for 2024">What You Should Know About Open Enrollment for 2024</a>
+                        </div>
+                    </div>
+                    <div class="text-card-feature-article-list-article">
+                        <div class="text-card-feature-article-list-article-eyebrow blog-card-eyebrow">
+                            <a class="text-card-feature-article-list-article-eyebrow-link" href="/es/healthcareblog/category/advise-me" title="Teach Your Teen to be a Safe and Responsible Driver ">Acons&#233;jame</a>
+                        </div>
+
+                        <div class="text-card-feature-article-list-article-title">
+                            <a class="text-card-feature-article-list-article-title-link" href="https://www.bannerhealth.com/es/healthcareblog/advise-me/teach-your-teen-road-safety-and-responsible-driving" title="Teach Your Teen to be a Safe and Responsible Driver ">Teach Your Teen to be a Safe and Responsible Driver </a>
+                        </div>
+                    </div>
+
+    </div>
+
+
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="emailSignupCard">
+  
+</div>
+
+<div class="emailSignupCard">
+  
+<!-- Padding classes are optional and other classes should be added here-->
+<div class="shell-card email-shell-card px-xl-5 py-5 mb-4 js-animation-trigger is-animated bg-white">
+	<div class="px-xl-5 p-0">
+
+			<header class="shell-header">
+				<div class="animation-region graphic-envelope circle-frame transition-in-circle" role="presentation">
+					<svg width="135" height="150" viewBox="0 0 135 150" xmlns="http://www.w3.org/2000/svg"><title>subscription-animation-object</title><g fill="none"><path d="M121.42 148.52H12.94C5.807 148.487.033 142.713 0 135.58V70.14C.011 61.783 6.783 55.011 15.14 55h106.28c4.73 0 12.24 2.18 12.24 8 0 2.65-.1 4.69-.1 4.78a2.23 2.23 0 0 1-.82 1.62l-56.5 46.22c-5.045 4.903-13.075 4.903-18.12 0l-43.2-34.83a2.23 2.23 0 0 1 2.76-3.5l43.3 34.92.18.16a8.48 8.48 0 0 0 12 0l.17-.15 55.81-45.65c0-.83.06-2.12.06-3.58 0-2.3-5.14-3.56-7.78-3.56H15.14c-5.896.006-10.674 4.784-10.68 10.68v65.45a8.48 8.48 0 0 0 8.48 8.48h108.48a8.48 8.48 0 0 0 8.48-8.48v-52a2.23 2.23 0 1 1 4.46 0v52c-.022 7.14-5.8 12.927-12.94 12.96z" class="frameflip frame-01 initial-state" fill="#808FAD"/><path d="M121.74 149.23H13.26C6.127 149.197.353 143.423.32 136.29V70.85c0-6.18 3.28-11.43 4.69-13.4a12.79 12.79 0 0 1 1.35-1.59l52.1-52.09c5.066-5.014 13.224-5.014 18.29 0l54.65 56.88a6.87 6.87 0 0 1 2.4 5.16c-.12 2.69-2.24 4.44-3.51 5.48l-.47.4-53.25 44.65c-5.046 4.91-13.084 4.91-18.13 0L15.24 81.5A2.23 2.23 0 0 1 18 78l43.3 34.92.18.16a8.48 8.48 0 0 0 12 0l.14-.13 53.28-44.67.54-.46c.74-.61 1.85-1.53 1.89-2.24a3 3 0 0 0-1.12-1.83L73.56 6.89a8.47 8.47 0 0 0-12 0L9.52 59a8.28 8.28 0 0 0-.88 1c-1.16 1.62-3.85 5.91-3.85 10.8v65.45a8.48 8.48 0 0 0 8.48 8.48h108.47a8.48 8.48 0 0 0 8.48-8.48v-52a2.23 2.23 0 1 1 4.46 0v52c-.01 7.149-5.792 12.947-12.94 12.98z" class="frameflip frame-02 mid-state" fill="#808FAD"/><g class="frameflip frame-03 mid-trans-state" fill="#808FAD"><path d="M121.42 149.22H12.94C5.807 149.188.033 143.413 0 136.28V70.84c0-6.18 3.28-11.43 4.69-13.4a12.79 12.79 0 0 1 1.35-1.59l52.1-52.09c5.066-5.013 13.224-5.013 18.29 0l54.65 56.88a6.87 6.87 0 0 1 2.4 5.16c-.12 2.69-2.24 4.44-3.51 5.48l-.47.4-53.25 44.65c-5.046 4.91-13.084 4.91-18.13 0l-43.2-34.84a2.23 2.23 0 0 1 2.76-3.5l43.3 34.92.18.16a8.48 8.48 0 0 0 12 0l.14-.13 53.28-44.67.54-.46c.74-.61 1.85-1.53 1.89-2.24a3 3 0 0 0-1.12-1.83L73.24 6.88a8.47 8.47 0 0 0-12 0L9.2 58.99a8.28 8.28 0 0 0-.88 1c-1.16 1.62-3.85 5.91-3.85 10.8v65.45a8.48 8.48 0 0 0 8.48 8.48h108.47a8.48 8.48 0 0 0 8.48-8.48v-52a2.23 2.23 0 1 1 4.46 0v52c-.01 7.149-5.792 12.947-12.94 12.98z"/><path d="M20.23 83.92A2.23 2.23 0 0 1 18 81.69V62.94c.033-7.133 5.807-12.907 12.94-12.94h72.82c7.133.033 12.907 5.807 12.94 12.94v17.63a2.23 2.23 0 1 1-4.46 0V62.94a8.48 8.48 0 0 0-8.48-8.48H30.94a8.48 8.48 0 0 0-8.48 8.48v18.75a2.23 2.23 0 0 1-2.23 2.23z"/></g><g class="frameflip frame-04 final-state" fill="#808FAD"><path d="M18.15 82.37V30.62c.033-7.133 5.807-12.907 12.94-12.94h72.82c7.133.033 12.907 5.807 12.94 12.94v50.63a2.23 2.23 0 1 1-4.46 0V30.62a8.48 8.48 0 0 0-8.48-8.48H31.09a8.48 8.48 0 0 0-8.48 8.48v51.75a2.23 2.23 0 1 1-4.46 0z"/><path d="M121.74 149.23H13.26C6.127 149.197.353 143.423.32 136.29V70.85c0-6.18 3.28-11.43 4.69-13.4a12.79 12.79 0 0 1 1.35-1.59l12.45-12.44A2.242 2.242 0 0 1 22 46.57L9.52 59a8.28 8.28 0 0 0-.88 1c-1.16 1.62-3.85 5.91-3.85 10.8v65.45a8.48 8.48 0 0 0 8.48 8.48h108.47a8.48 8.48 0 0 0 8.48-8.48v-52a2.23 2.23 0 1 1 4.46 0v52c-.01 7.149-5.792 12.947-12.94 12.98zM45.46 22.15a2.23 2.23 0 0 1-1.58-3.81L58.46 3.77c5.066-5.014 13.224-5.014 18.29 0l14 14.6a2.231 2.231 0 0 1-3.22 3.09l-14-14.57a8.47 8.47 0 0 0-12 0L47 21.49a2.22 2.22 0 0 1-1.54.66z"/><path d="M67.5 120.05a12.85 12.85 0 0 1-9.06-3.7L15.24 81.5A2.23 2.23 0 0 1 18 78l43.3 34.92.18.16a8.48 8.48 0 0 0 12 0l.14-.13 53.28-44.67.54-.46c.74-.61 1.85-1.53 1.89-2.24a3 3 0 0 0-1.12-1.83L113 48a2.231 2.231 0 0 1 3.22-3.09l15.18 15.74a6.87 6.87 0 0 1 2.4 5.16c-.12 2.69-2.24 4.44-3.51 5.48l-.47.4-53.25 44.65a12.85 12.85 0 0 1-9.07 3.71z"/></g><path d="M49.42 52.88H36.79a2.23 2.23 0 0 1-2.23-2.23V38a2.23 2.23 0 0 1 2.23-2.23h12.63A2.23 2.23 0 0 1 51.66 38v12.65a2.23 2.23 0 0 1-2.24 2.23zM39 48.42h8.18v-8.17H39v8.17zm55-8.17H62a2.23 2.23 0 1 1 0-4.46h32a2.23 2.23 0 1 1 0 4.46zm-6.66 12.63H62.06a2.23 2.23 0 0 1 0-4.46h25.28a2.23 2.23 0 1 1 0 4.46zm10.87 12.89H36.79a2.23 2.23 0 1 1 0-4.46h61.43a2.23 2.23 0 0 1 0 4.46h-.01zM71 78.53H36.79a2.23 2.23 0 1 1 0-4.46H71a2.23 2.23 0 1 1 0 4.46z" class="fadein frame-05 post-state" fill="#FFF"/></g></svg>
+				</div>
+			</header>
+
+			<div class="form-row my-2 mx-2">
+				<div class="col-12 col-xl-6 order-xl-first">
+					<h2 class="shell-card-title d-xl-none">&#191;Quiere mantenerse actualizado sobre los &#250;ltimos temas de salud?</h2>
+						<div class="shell-card-image" align="center">
+							<img src="/healthcareblog/-/media/images/project/bh/cards1/az_apartment_couple.ashx?h=1200&amp;w=1800&amp;hash=4BD6612C937CCD252EBDD76AB6329ED1" alt="AZ_Apartment_couple" />
+						</div>
+
+				</div>
+				<div class="col-12 col-xl-6 shell-content">
+					<div class="col-12">
+							<h2 class="shell-card-title d-none d-xl-block">&#191;Quiere mantenerse actualizado sobre los &#250;ltimos temas de salud?</h2>
+													<p class="shell-card-text mt-xl-n4 mt-lg-4 mt-md-4 mt-sm-4 mt-4">Reg&iacute;strese para recibir consejos saludables en su bandeja de entrada.</p>
+					</div>
+					<div class="col-12 shell-form-container">
+						<div class="shell-form-wrapper">
+							<form data-js="validate-form-ajax" data-url="/api/sitecore/EmailShellCard/ToEmailSignUp" data-method="post" data-validate-button="#validate-button" data-placement="bottom" data-icon="fal fa-exclamation-triangle" data-hide-messages="focus" novalidate>
+								<div class="input-group input-group-lg">
+									
+										<input type="email" value="" name="email" class="form-control input-lg email-input" data-error="There was an issue attempting your request, please try again." data-success="You&#39;re signed up! You&#39;ll hear from us soon." placeholder="Ingrese el correo electr&#243;nico para registrarse" aria-label="Enter email to sign up" required>
+									<input name="ListId" id="ListId" value="10433" hidden="hidden">
+									<div class="input-group-append">
+										<!--Change btn-primary to btn-success-->
+										<button class="btn btn-primary" type="button" id="validate-button" value="Enter">
+											<!--To be used on succesful submit-->
+											<!--<i class="fa fa-check" aria-hidden="true"></i>-->
+											<i class="fa fa-arrow-right" aria-hidden="true"></i>
+										</button>
+									</div>
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+	</div>
+</div>
+<script>
+	window.addEventListener("load", function () {
+		$.js('validate-form-ajax').validatorAjax(undefined, $.globalFunctions().emailValidation('success'), $.globalFunctions().emailValidation('fail'), $.globalFunctions().emailValidation('always'));
+	});
+</script>
+</div>
+
+
+
+
+
+		</div>
+	</main>
+
+	
+	
+<footer class="global-footer">
+	<div class="container">
+		<div class="row">
+			<!-- Footer Logo -->
+			<div class="mb-5 col-12 mb-xl-0 col-xl-3">
+				<div class="row">
+					<div class="col-10 col-sm-6 col-md-5 col-lg-4 col-xl-10">
+						
+
+<a class="header-logo" href="/es/healthcareblog" title="Go to home page">
+  <img src="/healthcareblog/-/media/images/project/healthcareblog/logos/global-logo-v2-white.ashx" alt="global-logo-v2-white" DisableWebEdit="True" />
+</a>
+					</div>
+				</div>
+			</div>
+			<!-- Footer Links -->
+			
+
+
+
+		<div class="col-12 col-sm-6 col-xl-2 p-0">
+			<h4 class="footer-column-title">
+				<a href="/es">
+					Banner&#160;Health
+				</a>
+			</h4>
+			<ul class="footer-column-list">
+						<li>
+              <a href="/es/physician-directory" target="">
+                M&#233;dicos
+              </a>
+						</li>
+						<li>
+              <a href="/es/services" target="">
+                Servicios
+              </a>
+						</li>
+						<li>
+              <a href="/es/locations" target="">
+                Ubicaciones
+              </a>
+						</li>
+						<li>
+              <a href="/es/health-professionals" target="">
+                Acceso para profesionales de la salud
+              </a>
+						</li>
+						<li>
+              <a href="/es/employees" target="">
+                Acceso para empleados
+              </a>
+						</li>
+						<li>
+              <a href="/es/services/volunteer" target="">
+                Voluntarios
+              </a>
+						</li>
+						<li>
+              <a href="/es/about/insurance" target="">
+                Seguro
+              </a>
+						</li>
+			</ul>
+		</div>
+		<div class="col-12 col-sm-6 col-xl-2 p-0">
+			<h4 class="footer-column-title">
+				<a href="/es/about">
+					Acerca de
+				</a>
+			</h4>
+			<ul class="footer-column-list">
+						<li>
+              <a href="/es/about/glance/quality" target="">
+                Calidad
+              </a>
+						</li>
+						<li>
+              <a href="/es/about/glance/news/connect" target="">
+                Novedades
+              </a>
+						</li>
+						<li>
+              <a href="http://bannerhealth.mediaroom.com/" target="_blank">
+                Acceso para medios de comunicaci&#243;n
+              </a>
+						</li>
+						<li>
+              <a href="/es/ways-to-give" target="">
+                Formas de retribuir
+              </a>
+						</li>
+						<li>
+              <a href="/es/ways-to-give/foundations" target="">
+                Done ahora
+              </a>
+						</li>
+						<li>
+              <a href="/es/careers" target="">
+                Oportunidades de empleo
+              </a>
+						</li>
+			</ul>
+		</div>
+		<div class="col-12 col-sm-6 col-xl-2 p-0">
+			<h4 class="footer-column-title">
+				<a href="/es/patients">
+					Centro de pacientes
+				</a>
+			</h4>
+			<ul class="footer-column-list">
+						<li>
+              <a href="/es/patients/billing" target="">
+                Pago de facturas
+              </a>
+						</li>
+						<li>
+              <a href="/es/patients/billing" target="">
+                Informaci&#243;n de facturaci&#243;n
+              </a>
+						</li>
+						<li>
+              <a href="/es/calendar" target="">
+                Clases y eventos
+              </a>
+						</li>
+						<li>
+              <a href="/es/patients/billing/financial-assistance" target="">
+                Asistencia financiera
+              </a>
+						</li>
+						<li>
+              <a href="/es/patients/medical-records" target="">
+                Registros m&#233;dicos
+              </a>
+						</li>
+						<li>
+              <a href="/es/patients/patient-account" target="">
+                Sobre la cuenta del paciente
+              </a>
+						</li>
+						<li>
+              <a href="/es/patients/registration" target="">
+                Registro de pacientes
+              </a>
+						</li>
+			</ul>
+		</div>
+		<div class="col-12 col-sm-6 col-xl-2 p-0">
+			<h4 class="footer-column-title">
+				<a href="/es/contact-us">
+					Comun&#237;quese con nosotros
+				</a>
+			</h4>
+			<ul class="footer-column-list">
+						<li>
+              <a href="/es/contact-us" target="">
+                Contacto
+              </a>
+						</li>
+						<li>
+              <a href="https://www.bannerhealth.com/healthcareblog" target="">
+                Lea nuestro blog
+              </a>
+						</li>
+						<li>
+              <a href="/es/staying-well/expert" target="">
+                Consulte a un experto
+              </a>
+						</li>
+						<li>
+              <a href="/es/about/glance/news/connect" target="">
+                Suscripci&#243;n al bolet&#237;n informativo
+              </a>
+						</li>
+			</ul>
+		</div>
+
+
+
+
+			<!-- Footer Social Links -->
+			<div class="mt-3 col-12 col-sm-6 mt-xl-0 col-xl-1">
+				<div class="row">
+					
+
+		<div class="col-3 col-sm-2 col-xl-12 mb-4">
+			<a class="pull-left" href="https://www.facebook.com/BannerHealth" target="_blank">
+				<!-- ?xml version="1.0" encoding="UTF-8"? -->
+<svg class="footer-svg-icon icon-link" width="42px" height="43px" viewBox="0 0 42 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+	<title>
+		Facebook@1x
+	</title>
+	<desc>
+		Created with Sketch.
+	</desc>
+	<defs>
+	</defs>
+	<g id="Facebook">
+		<path d="M0,21.1271676 C0,9.45895456 9.23897888,0 20.6358382,0 C32.0326974,0 41.2716763,9.45895456 41.2716763,21.1271676 C41.2716763,32.7953807 32.0326974,42.2543353 20.6358382,42.2543353 C9.23897888,42.2543353 0,32.7953807 0,21.1271676 Z M22.0988805,32.8452426 L22.0988805,21.350948 L25.1980195,21.350948 L25.6087223,17.3899504 L22.0988805,17.3899504 L22.1041459,15.407433 C22.1041459,14.3743438 22.2000204,13.8207911 23.6493275,13.8207911 L25.586783,13.8207911 L25.586783,9.85934489 L22.4872053,9.85934489 C18.7641139,9.85934489 17.4536822,11.7808549 17.4536822,15.0122304 L17.4536822,17.390399 L15.132948,17.390399 L15.132948,21.3513966 L17.4536822,21.3513966 L17.4536822,32.8452426 L22.0988805,32.8452426 Z" id="Combined-Shape">
+		</path>
+	</g>
+</svg>
+
+
+			</a>
+		</div>
+		<div class="col-3 col-sm-2 col-xl-12 mb-4">
+			<a class="pull-left" href="https://twitter.com/BannerHealth" target="">
+				<!-- ?xml version="1.0" encoding="UTF-8"? -->
+<svg class="footer-svg-icon icon-link" width="42px" height="43px" viewBox="0 0 42 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+	<title>
+		Twitter@1x
+	</title>
+	<desc>
+		Created with Sketch.
+	</desc>
+	<defs>
+	</defs>
+	<g id="Twitter">
+		<path d="M0,21.1271676 C0,9.45895456 9.23897888,0 20.6358382,0 C32.0326974,0 41.2716763,9.45895456 41.2716763,21.1271676 C41.2716763,32.7953807 32.0326974,42.2543353 20.6358382,42.2543353 C9.23897888,42.2543353 0,32.7953807 0,21.1271676 Z M20.0177971,17.1724265 L20.0611001,17.9034742 L19.339383,17.8139581 C16.7123327,17.4708133 14.4172723,16.3071048 12.4686361,14.3526712 L11.5159695,13.3829141 L11.2705857,14.0990424 C10.7509493,15.6954118 11.0829392,17.3812973 12.1655149,18.5151671 C12.7428886,19.1417794 12.6129795,19.2312954 11.6170099,18.8583119 C11.2705857,18.7389572 10.9674645,18.6494412 10.9385958,18.6941992 C10.8375554,18.7986346 11.1839796,20.1562945 11.4582321,20.6933907 C11.833525,21.4393578 12.5985451,22.1704054 13.435737,22.6030663 L14.1430198,22.9462111 L13.3058279,22.9611304 C12.4975048,22.9611304 12.4686361,22.9760498 12.5552421,23.2893559 C12.843929,24.259113 13.984242,25.2885475 15.2544641,25.7361277 L16.1493933,26.0494338 L15.3699389,26.5268527 C14.2151915,27.2131424 12.8583633,27.6010452 11.5015351,27.6308839 C10.8519897,27.6458032 10.3179191,27.7054806 10.3179191,27.7502386 C10.3179191,27.899432 12.0789088,28.7349151 13.1037471,29.0631405 C16.178262,30.0328976 19.8301506,29.6151561 22.5726756,27.9591094 C24.5213118,26.7804815 26.469948,24.4381451 27.3793116,22.1704054 C27.8700792,20.9619389 28.3608469,18.7538765 28.3608469,17.6946034 C28.3608469,17.0083137 28.4041499,16.9187977 29.2124731,16.098234 C29.6888063,15.6208151 30.136271,15.0986382 30.222877,14.9494448 C30.3672204,14.6659774 30.3527861,14.6659774 29.6166346,14.9196061 C28.3897155,15.3671863 28.2165034,15.307509 28.8227458,14.6361387 C29.2702104,14.1587198 29.8042811,13.2933981 29.8042811,13.0397693 C29.8042811,12.9950113 29.587766,13.069608 29.3423821,13.203882 C29.082564,13.3530754 28.5051903,13.5768655 28.07216,13.7111396 L27.2927055,13.9647684 L26.5854228,13.4724302 C26.1956955,13.203882 25.6471905,12.9054952 25.3585037,12.8159792 C24.6223522,12.6071084 23.4964735,12.6369471 22.8324938,12.8756565 C21.028201,13.5470269 19.887888,15.2776703 20.0177971,17.1724265 Z" id="Combined-Shape">
+		</path>
+	</g>
+</svg>
+
+
+			</a>
+		</div>
+		<div class="col-3 col-sm-2 col-xl-12 mb-4">
+			<a class="pull-left" href="https://www.youtube.com/user/bannerhealthonline" target="">
+				<!-- ?xml version="1.0" encoding="UTF-8"? -->
+<svg class="footer-svg-icon icon-link" width="42px" height="43px" viewBox="0 0 42 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+	<title>
+		Youtube@1x
+	</title>
+	<desc>
+		Created with Sketch.
+	</desc>
+	<defs>
+	</defs>
+	<g id="Youtube">
+		<path d="M0,21.1271676 C0,9.45895456 9.36831871,0 20.9247268,0 C32.4811348,0 41.8494535,9.45895456 41.8494535,21.1271676 C41.8494535,32.7953807 32.4811348,42.2543353 20.9247268,42.2543353 C9.36831871,42.2543353 0,32.7953807 0,21.1271676 Z M31.8154079,16.874512 C31.8154079,16.874512 31.5974083,15.2876512 30.9294798,14.5888567 C30.0818582,13.6712841 29.1318535,13.6669661 28.6965507,13.6137109 C25.5776935,13.3805395 20.8994078,13.3805395 20.8994078,13.3805395 L20.889657,13.3805395 C20.889657,13.3805395 16.2113712,13.3805395 13.092514,13.6137109 C12.6565147,13.6669661 11.7072065,13.6712841 10.8588885,14.5888567 C10.1909599,15.2876512 9.97365678,16.874512 9.97365678,16.874512 C9.97365678,16.874512 9.75078177,18.7384438 9.75078177,20.6016559 L9.75078177,22.349002 C9.75078177,24.2129338 9.97365678,26.0761459 9.97365678,26.0761459 C9.97365678,26.0761459 10.1909599,27.6630067 10.8588885,28.3618012 C11.7072065,29.2793738 12.8208851,29.2505872 13.316782,29.3463026 C15.0997821,29.5233402 20.8945324,29.5780347 20.8945324,29.5780347 C20.8945324,29.5780347 25.5776935,29.570838 28.6965507,29.3376666 C29.1318535,29.2836918 30.0818582,29.2793738 30.9294798,28.3618012 C31.5974083,27.6630067 31.8154079,26.0761459 31.8154079,26.0761459 C31.8154079,26.0761459 32.038283,24.2129338 32.038283,22.349002 L32.038283,20.6016559 C32.038283,18.7384438 31.8154079,16.874512 31.8154079,16.874512 Z" id="Combined-Shape">
+		</path>
+		<polygon id="Path" points="18.5933479 24.4662558 18.5926514 17.9957497 24.6144556 21.2421575">
+		</polygon>
+	</g>
+</svg>
+
+
+			</a>
+		</div>
+		<div class="col-3 col-sm-2 col-xl-12 mb-4">
+			<a class="pull-left" href="https://www.instagram.com/banner_health/" target="_blank">
+				<svg class="footer-svg-icon icon-link" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" enable-background="new 0 0 48 48" id="Layer_1" version="1.1" viewBox="0 0 48 48" xml:space="preserve">
+<title>Instagram@1x</title>
+                  <circle class="icon-link-circle" cx="24" cy="24" r="24" />
+    
+                  <path class="icon-link-path" d="M31.2,12.3H16.8c-2.5,0-4.5,2-4.5,4.5v4.8v9.6c0,2.5,2,4.5,4.5,4.5h14.4c2.5,0,4.5-2,4.5-4.5v-9.6v-4.8  C35.7,14.3,33.7,12.3,31.2,12.3z M32.5,15l0.5,0v0.5V19l-4,0l0-4L32.5,15z M20.7,21.6c0.7-1,2-1.7,3.3-1.7s2.6,0.7,3.3,1.7  c0.5,0.7,0.8,1.5,0.8,2.4c0,2.3-1.9,4.1-4.1,4.1s-4.1-1.8-4.1-4.1C19.9,23.1,20.2,22.3,20.7,21.6z M33.4,31.2c0,1.2-1,2.2-2.2,2.2  H16.8c-1.2,0-2.2-1-2.2-2.2v-9.6h3.5c-0.3,0.7-0.5,1.6-0.5,2.4c0,3.5,2.9,6.4,6.4,6.4c3.5,0,6.4-2.9,6.4-6.4c0-0.8-0.2-1.7-0.5-2.4  h3.5V31.2z" />
+    
+                  </svg>
+
+			</a>
+		</div>
+
+				</div>
+			</div>
+		</div>
+		<div class="row footer-utility">
+			<!-- Footer Copyright -->
+			<div class="col-12 order-last order-lg-first col-lg-3">
+				<span>
+
+
+&#169; 2023 By Banner Health</span>
+			</div>
+			<!-- Footer Bottom Links -->
+			
+
+
+			<div class="col-12 offset-0 offset-lg-1 col-lg-2">
+				<a href="/es/about/legal-notices/terms" target="">
+					T&#233;rminos de Uso
+				</a>
+			</div>
+			<div class="col-12 col-lg-2">
+				<a href="/es/about/legal-notices/privacy" target="">
+					Pol&#237;tica de Privacidad
+				</a>
+			</div>
+			<div class="col-12 col-lg-2">
+				<a href="/es/about/legal-notices/nondiscrimination" target="">
+					Pol&#237;tica Antidiscriminaci&#243;n
+				</a>
+			</div>
+
+		</div>
+	</div>
+</footer>
+
+
+	<script src="/static/healthcareblog/scripts/blog.min.js"></script>
+	
+</body>
+</html>

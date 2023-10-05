@@ -1,0 +1,647 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 9]><html lang="en" class="ie9 no-js"><![endif]-->
+<!--[if !IE]><!-->
+<html lang="en">
+<!--<![endif]-->
+
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <title>For Members | Banner Rx</title>
+      <link rel="canonical" href="https://www.bannerhealth.com/medicare/rxpdp/members" />
+    <meta id="description" name="description" content="Banner Medicare Rx PDP offers Medicare Prescription Drug plans in Arizona which cover a wide range of generic &amp; brand-name prescriptions. Call (888) 788-1931, TTY 711.">
+
+
+
+	<meta property="og:title" content="For Members | Banner Rx" />
+	<meta property="og:description" content="" />
+	<meta property="og:image" content="" />
+	<meta property="og:url" content="https://www.bannerhealth.com/medicare/rxpdp/Members" />
+	<meta property="og:type" content="website" />
+
+
+  <!-- kyrial sans pro semibold -->
+  <link rel="stylesheet" href="https://use.typekit.net/upo4sld.css">
+  <!-- /kyrial sans pro semibold -->
+  <link href="/static/MedicarePDP/styles/medicare-pdp.css" rel="stylesheet" />
+  
+  <script>
+var forceMediaDownload = true;
+</script>
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P6NQWFD');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://bannerhealth.usablenet.com/pt/start" type="text/javascript" async></script>
+
+  
+<meta name="VIcurrentDateTime" content="638320764003320470" />
+<script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
+
+
+</head>
+<body class="header-static    js-render-external-links">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P6NQWFD"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+  	<header>
+		
+
+
+
+		<!-- Top Nav -->
+		<nav class="navbar navbar-utility">
+			<div class="container navbar-container">
+				<div class="utility-container">
+					
+					<a href="https://www.assistive.bannerhealth.com//medicare/rxpdp/members" class="UsableNetAssistive language-toggle" onclick="return enableUsableNetAssistive()"  target="_self">Enable Accessibility</a>
+
+
+
+
+				</div>
+				<!-- <button class="btn btn-link"> -->
+				<!-- <i class="fa fa-map-marker"></i> -->
+				<!-- </button> -->
+				<div class="utility-container">
+					<ul class="nav justify-content-end utility-menu">
+						<!-- Nav Links -->
+						
+	<li class="nav-item">
+		<a class="nav-link" href="tel:(844) 549-1859">
+			Call us at (844) 549-1859
+		</a>
+	</li>
+
+
+
+
+		<li class="nav-item">
+			<a class="nav-link" href="https://banner.healthtrioconnect.com" target="_blank">
+				Member Portal
+			</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="https://www.bannerhealth.com/medicare/for-healthcare-providers" target="_blank">
+				For Health Care Providers
+			</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="https://eservices.uph.org/Account/Login" target="_blank">
+				Provider Portal (eServices)
+			</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="/medicare/rxpdp/about-us/contact-us" target="">
+				Contact Us
+			</a>
+		</li>
+
+					</ul>
+
+					<!-- Login and Search -->
+					
+					<!-- START Login and Search Placeholder Content -->
+					<ul class="nav justify-content-end utility-menu">
+						<li class="nav-item utility-menu-button">
+							<a class="nav-link nav-link-search" href="#" title="Search" data-toggle="modal" data-target="#searchModal">
+								<i class="fa fa-search"></i>
+							</a>
+						</li>
+						
+					</ul>
+					<!-- END Login and Search Placeholder Content -->
+				</div>
+			</div>
+		</nav>
+
+
+		<!-- Main Nav -->
+		<nav class="navbar navbar-collapse navbar-main">
+			<div class="container navbar-container">
+				<div class="navbar-brand branding">
+					<!-- Horizontal Logo -->
+					
+
+ 
+  <a class="header-logo" href="/medicare/rxpdp" title="Go to home page">
+    <img src="/medicare/rxpdp/-/media/images/project/medicare-rxpdp/logos/banner-medicare-pdp-logo.ashx?h=38&amp;w=340&amp;hash=0C62E023F978A679B5698F4DDCE600A3" alt="Banner Medicare logo" DisableWebEdit="True" />
+
+  </a>
+
+
+				</div>
+				<div class="utility-container">
+					<ul class="nav justify-content-end utility-menu">
+						<!-- Nav Links -->
+						
+
+		<li class="nav-item">
+			<a class="nav-link" href="/medicare/rxpdp/about-us" target="">
+				About Us
+			</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="/medicare/rxpdp/members" target="">
+				For Members
+			</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="/medicare/rxpdp/members/pharmacy/find-pharmacy-or-rx" target="">
+				Find a Pharmacy/Rx
+			</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="/medicare/rxpdp/enroll-now" target="">
+				Enroll
+			</a>
+		</li>
+
+					</ul>
+					<ul class="nav justify-content-end utility-menu mobile">
+						<li class="nav-item">
+							<button class="header-search" type="button" aria-label="search button" data-toggle="modal" data-target="#searchModal">
+								<i class="fa fa-search"></i>
+							</button>
+						</li>
+						<li class="nav-item">
+							<button id="global-menu-open" type="button" data-toggle="collapse" data-target="#mobile-menu" aria-label="menu open button">
+								<i class="fa fa-bars"></i>
+							</button>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</nav>
+
+		<!-- Mobile Menu -->
+		<div class="collapse navbar-collapse mobile-menu" id="mobile-menu">
+			<!-- Button Toolbar -->
+			<div class="btn-toolbar mobile-toolbar" role="toolbar" aria-label="Toolbar">
+				<div class="btn-group" role="group">
+				</div>
+				<div class="btn-group" role="group">
+					<button aria-label="search" type="button" data-toggle="modal" data-target="#searchModal">
+						<i class="fa fa-search"></i>
+					</button>
+				</div>
+
+				<div class="btn-group" role="group">
+					<button id="global-menu-close" type="button" aria-label="menu close button" data-toggle="collapse" data-target="#mobile-menu">
+						<i class="fa fa-times"></i>
+					</button>
+				</div>
+			</div>
+
+			<!--Sign In Button-->
+			
+
+			<ul class="nav justify-content-center flex-column mobile-main-menu">
+				<!-- Nav Links -->
+				
+
+		<li class="nav-item">
+			<a class="nav-link" href="/medicare/rxpdp/about-us" target="">
+				About Us
+			</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="/medicare/rxpdp/members" target="">
+				For Members
+			</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="/medicare/rxpdp/members/pharmacy/find-pharmacy-or-rx" target="">
+				Find a Pharmacy/Rx
+			</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="/medicare/rxpdp/enroll-now" target="">
+				Enroll
+			</a>
+		</li>
+
+			</ul>
+			<ul class="nav justify-content-center flex-column mobile-utility-menu">
+				<!-- Nav Links -->
+				
+	<li class="nav-item">
+		<a class="nav-link" href="tel:(844) 549-1859">
+			Call us at (844) 549-1859
+		</a>
+	</li>
+
+
+
+
+		<li class="nav-item">
+			<a class="nav-link" href="https://banner.healthtrioconnect.com" target="_blank">
+				Member Portal
+			</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="https://www.bannerhealth.com/medicare/for-healthcare-providers" target="_blank">
+				For Health Care Providers
+			</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="https://eservices.uph.org/Account/Login" target="_blank">
+				Provider Portal (eServices)
+			</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="/medicare/rxpdp/about-us/contact-us" target="">
+				Contact Us
+			</a>
+		</li>
+
+				<li class="nav-item pt-2"><a href="https://www.assistive.bannerhealth.com//medicare/rxpdp/members" class="UsableNetAssistive language-toggle" onclick="return enableUsableNetAssistive()"  target="_self">Enable Accessibility</a>
+
+
+</li>
+			</ul>
+		</div>
+	</header>
+
+  <div data-js="scrolling-affixed-container">
+    
+
+<!--Display Hero Image-->
+
+
+<div class="pt-4 pt-sm-0 pb-5 pb-sm-0   pt-sm-4 pt-lg-0 pb-sm-5 pb-lg-0   pt-lg-4 pb-lg-5     " data-js="placeholder-event">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12">
+				
+
+
+
+  <nav class="bh-breadcrumb d-none d-md-block d-md-block primary" aria-label="breadcrumb">
+    <div class="row">
+      <div class="col-12">
+        <ol class="breadcrumb mb-0 p-0">
+            <li class="breadcrumb-item"><a href="/medicare/rxpdp"><span class="fas fa-home"></span></a></li>
+
+                <li class="breadcrumb-item active" aria-current="page"><span class="fas fa-angle-right"></span>For Members</li>
+        </ol>
+      </div>
+    </div>
+  </nav>
+  <script>
+    $(document).ready(function () {
+      var bread = {
+        "@context": "https://www.schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": []
+      }
+      var exist = false;
+      $('.breadcrumb li').each(function (index) {
+        if (index === 0) return;
+        var item = {}
+        if (index != $('.breadcrumb li').length - 1) {
+          var href = $(this).find("a").attr('href');
+          if (href) item["@id"] = window.location.protocol + "//" + window.location.host + href
+          else item["@id"] = window.location.protocol + "//" + window.location.host + window.location.pathname
+
+          item["name"] = $.trim($(this).text());
+        }
+
+        bread.itemListElement.push({
+          "@type": "ListItem",
+          "position": index,
+          "name": $.trim($(this).text()),
+          "item": item["@id"]
+        })
+
+        exist = true;
+
+      });
+      console.log(bread.itemListElement);
+      if (exist) {
+        var jsonStrb = JSON.stringify(bread);
+        var s2 = document.createElement("script");
+        s2.type = "application/ld+json";
+        s2.id = "BreadcrumbJson";
+        $("body").append(s2);
+        $('#BreadcrumbJson').append(jsonStrb);
+      }
+    })
+  </script>
+
+			</div>
+		</div>
+	</div>
+</div>
+<div class=" pb-5 pb-sm-0 pr-2 pr-sm-0 pl-4 pl-sm-0  pb-sm-5 pb-lg-0 pr-sm-2 pr-lg-0 pl-sm-4 pl-lg-0  pb-lg-5 pr-lg-2 pl-lg-4   " data-js="placeholder-event">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12">
+				
+
+<div class="             ">
+	<div class=" ">
+		<h1>For Members</h1>
+		<p>Thank you for choosing Banner Medicare Rx PDP! As a local Medicare Prescription Drug Plan based in Arizona, we are dedicated to saving you money and making it easy to get your Part D prescription.</p>
+<p>View your plan benefits and coverage by visiting any of the plan options below.&nbsp;&nbsp;</p>
+<p>We know Medicare Part D prescription drug coverage can be confusing at times. We can help simplify the process for you. If you have any questions about your plan, please call (844) 549-1859, TTY 711. Our hours of operation are 8 a.m. to 8 p.m., seven days a week.</p>
+	</div>
+</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="              " data-js="placeholder-event">
+	<div class="">
+		<div class="row">
+			<div class="col-sm-12">
+				
+
+
+
+<div uatid="FeaturedItemCards" id=Members class="list-text-card-link bg-blue-50 font-color-skin          pt-lg-5 pb-lg-5    borderboxitemcard">
+  <div class="container">
+    <div class="list-card-header" align="">
+            <div class="title-color-card-skin heading h1">Plan Benefits, Coverage, and Resources</div>
+              <div class="sub-heading">View your plan information, coverage and benefits, pharmacy services, and more.</div>
+    </div>
+  </div>
+    <div class="content-container p-0">
+      <div class="row">
+          <div class="col-xl-3 col-md-6 col-12 my-3">
+    <a href="/medicare/rxpdp/members/cy23-materials" class="text-card-link">
+      <p class="text-card-link-title">2023 Plan Materials</p>
+      <p class="text-card-link-content">Learn more about 2023 Banner Medicare Plans with plan materials links related to health plan coverage, benefits, pharmacies and medications.  </p>
+    </a>
+  </div>
+  <div class="col-xl-3 col-md-6 col-12 my-3">
+    <a href="/medicare/rxpdp/members/pharmacy" class="text-card-link">
+      <p class="text-card-link-title">Pharmacy Services</p>
+      <p class="text-card-link-content">Learn more about Banner Medicare pharmacy benefits and programs, including mail-order, find a pharmacy, medication therapy management and more. </p>
+    </a>
+  </div>
+  <div class="col-xl-3 col-md-6 col-12 my-3">
+    <a href="/medicare/rxpdp/members/coverage-determinations" class="text-card-link">
+      <p class="text-card-link-title">Coverage Determinations</p>
+      <p class="text-card-link-content">A Medicare Part D coverage decision includes what is covered and how much we pay. Request the type of coverage decision you want by calling (844) 549-1859, TTY 711. </p>
+    </a>
+  </div>
+  <div class="col-xl-3 col-md-6 col-12 my-3">
+    <a href="/medicare/rxpdp/members/g-and-a" class="text-card-link">
+      <p class="text-card-link-title">Grievances &amp; Appeals</p>
+      <p class="text-card-link-content">Banner Medicare members can file a complaint or request an appeal for coverage online. </p>
+    </a>
+  </div>
+  <div class="col-xl-3 col-md-6 col-12 my-3">
+    <a href="/medicare/rxpdp/members/plan-premium" class="text-card-link">
+      <p class="text-card-link-title">Monthly Plan Premium</p>
+      <p class="text-card-link-content">Member&#39;s of Banner Medicare Rx PDP must&#160;pay a monthly plan premium. There are several options to submit payment. Call (844) 549-1859, TTY 711 for more information. </p>
+    </a>
+  </div>
+
+      </div>
+    </div>
+</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="pt-5 pt-sm-0 pb-5 pb-sm-0   pt-sm-5 pt-lg-0 pb-sm-5 pb-lg-0   pt-lg-5 pb-lg-5    bg-gray-100 " data-js="placeholder-event">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12">
+				
+			</div>
+		</div>
+	</div>
+</div>
+<div class="              " data-js="placeholder-event">
+	<div class="">
+		<div class="row">
+			<div class="col-sm-12">
+				
+			</div>
+		</div>
+	</div>
+</div>
+  </div>
+
+  <div class="container" style="position:relative !important">
+    
+  </div>
+
+  	<footer class="global-footer">
+		<div class="row">
+			<div class="mb-5 col-12 mb-xl-0 col-xl-3">
+				<div class="row">
+					<div class="col-10 col-sm-6 col-md-5 col-lg-4 col-xl-10">
+						
+
+<a class="header-logo" href="/medicare/rxpdp" title="Go to home page">
+  <img src="/medicare/rxpdp/-/media/images/project/medicare-rxpdp/logos/global-logo-v2-white.ashx?h=172&amp;w=1525&amp;hash=0E9747E7A7F7BC1171AACB6E98B8C6EA" alt="global-logo-v2-white" DisableWebEdit="True" />
+</a>
+					</div>
+				</div>
+			</div>
+
+			
+
+
+
+		<div class="col-12 col-sm-6 col-xl-2 p-0">
+			<h4 class="footer-column-title">
+				<a href="/medicare/about-us">
+					About Us
+				</a>
+			</h4>
+			<ul class="footer-column-list">
+						<li>
+              <a href="/medicare/rxpdp/about-us/contact-us" target="">
+                Contact Us
+              </a>
+						</li>
+						<li>
+              <a href="/medicare/rxpdp/about-us/our-plans" target="">
+                Our Plans
+              </a>
+						</li>
+			</ul>
+		</div>
+		<div class="col-12 col-sm-6 col-xl-2 p-0">
+			<h4 class="footer-column-title">
+				<a href="">
+					For Members
+				</a>
+			</h4>
+			<ul class="footer-column-list">
+						<li>
+              <a href="" target="">
+                Plan Materials
+              </a>
+						</li>
+			</ul>
+		</div>
+		<div class="col-12 col-sm-6 col-xl-2 p-0">
+			<h4 class="footer-column-title">
+				<a href="">
+					Resources
+				</a>
+			</h4>
+			<ul class="footer-column-list">
+			</ul>
+		</div>
+
+
+
+
+
+			<div class="mt-3 col-12 col-sm-6 mt-xl-0 col-xl-1">
+				<div class="row">
+					
+				</div>
+			</div>
+		</div>
+		<div class="row footer-utility">
+			  
+  <div class="col-12">
+    <span class="last-updated-content">
+Y0152_WEBCY22              &nbsp;|&nbsp;
+      Last Updated: 03/24/2023    </span>
+  </div>
+
+		</div>
+		<div class="row footer-utility mt-0">
+				<div class="col-12 order-last order-lg-first col-lg-3">
+					<span>
+
+
+&#169; 2023 By Banner Health</span>
+				</div>
+				
+
+
+			<div class="col-12 offset-0 offset-lg-1 col-lg-2">
+				<a href="/about/legal-notices/terms" target="">
+					Terms of Use
+				</a>
+			</div>
+			<div class="col-12 col-lg-2">
+				<a href="/about/legal-notices/privacy" target="">
+					Privacy Statement
+				</a>
+			</div>
+			<div class="col-12 col-lg-2">
+				<a href="/about/legal-notices/nondiscrimination" target="">
+					Nondiscrimination
+				</a>
+			</div>
+
+			</div>
+			
+
+
+	<div class="footer-bottom">
+		<hr style="border-top:1px solid #fff;">
+		<div class="text-white">
+			<p><span>Banner Medicare Rx PDP has a contract with Medicare. Enrollment depends on contract renewal.</span></p>
+		</div>
+	</div>
+
+
+			<!-- Begin Place Holder for Alert Modal  -->
+			
+<div uatid="SearchModal" id="searchModal" class="full-width-modal modal fade" tabindex="-1" role="dialog" aria-labelledby="fullWidthModal" aria-hidden="true" data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog " role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <svg width="21" height="21" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M1.637 19.651L19.875 1.413m-.512 18.238L1.125 1.413" stroke="#FFF" stroke-width="2.8" fill="none" fill-rule="evenodd"></path>
+                    </svg>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form action="/medicare/rxpdp/search-results" method="get" autocomplete="off">
+                    <div class="form-row">
+                        <div class="form-group col-12 mb-4">
+                            <center>
+                                <h2>
+                                    Search
+                                </h2>
+                            </center>
+                        </div>
+                        <div class="form-group col-12">
+                            <span class="modal-text">
+
+                            </span>
+                        </div>
+                        <div class="form-group col-12 mb-4">
+                                <input type="text" class="form-control modal-input" name="query" placeholder="Search">
+                        </div>
+                        <div class="form-group col-12 mb-3">
+                            <a class="btn btn-modal btn-jumbotron" href="javascript:" data-href="/medicare/rxpdp/search-results" data-js="search-modal"><i class="far fa-search"></i>Find</a>
+                        </div>
+                        <div class="form-group col-12">
+                            <span class="modal-text">
+                            </span>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div uatid="Login Modal" id="patient-portal-modal" class="patient-portal-modal modal fade" tabindex="-1" role="dialog" aria-labelledby="patient-portal-modal" aria-hidden="true" data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">
+                        <i class="fa fa-times"></i>
+                    </span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <iframe width="100%" height="100%" frameborder="0" scrolling="yes" allowtransparency="false" src=""></iframe>
+            </div>
+        </div>
+    </div>
+</div>
+			<!-- End Place Holder for Alert Modal  -->
+
+	</footer>
+
+
+
+  
+
+ <script src="/static/MedicarePDP/scripts/medicare-pdp.min.js"></script>
+
+  <script>
+var usableElement = document.getElementsByClassName('UsableNetAssistive');
+usableElement[0].classList.remove('language-toggle'); 
+usableElement[0].classList.add('pl-3');
+var headerLogo = document.getElementsByClassName('header-logo'); 
+headerLogo[0].classList.add('medicare-logo');
+</script>
+
+  
+  
+</body>
+</html>

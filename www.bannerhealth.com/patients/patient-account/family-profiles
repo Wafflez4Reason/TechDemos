@@ -1,0 +1,1302 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 9]><html lang="en" class="ie9 no-js"><![endif]-->
+<!--[if !IE]><!-->
+<html lang="es">
+<!--<![endif]-->
+
+
+
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <title>Perfiles familiares | Pacientes y Visitantes</title>
+      <link rel="canonical" href="https://www.bannerhealth.com/es/patients/patient-account/family-profiles" />
+      <link rel="alternate" href="https://www.bannerhealth.com/es/patients/patient-account/family-profiles" hreflang="es" />
+      <link rel="alternate" href="https://www.bannerhealth.com/patients/patient-account/family-profiles" hreflang="en-us" />
+      <link rel="alternate" href="https://www.bannerhealth.com/patients/patient-account/family-profiles" hreflang="x-default" />
+    <meta id="description" name="description" content="Solicite acceso para administrar la atenci&#243;n m&#233;dica de un ser querido u otorgar acceso a otra persona a su propia cuenta de Banner Health . Aprende m&#225;s.">
+
+
+
+	<meta property="og:title" content="Perfiles familiares | Pacientes y Visitantes" />
+	<meta property="og:description" content="Solicite acceso para administrar la atenci&#243;n m&#233;dica de un ser querido u otorgar acceso a otra persona a su propia cuenta de Banner Health . Aprende m&#225;s." />
+	<meta property="og:image" content="https://www.bannerhealth.com/-/media/images/feature/social/bannerheart.ashx" />
+	<meta property="og:url" content="https://www.bannerhealth.com/es/Patients/Patient Account/Family Profiles" />
+	<meta property="og:type" content="website" />
+
+  <script type="text/javascript">
+    var googleApiKey = 'AIzaSyCdz3YdjJSYyFX0WifpC46yWisc2iuPik0';
+
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.js?features=Symbol%2CObject.getOwnPropertySymbols%2CSymbol.asyncIterator%2CSymbol.for%2CSymbol.hasInstance%2CSymbol.isConcatSpreadable%2CSymbol.iterator%2CSymbol.keyFor%2CSymbol.match%2CSymbol.replace%2CSymbol.prototype.description%2CSymbol.search%2CSymbol.species%2CSymbol.split%2CSymbol.toPrimitive%2CSymbol.toStringTag%2CSymbol.unscopables"></script>
+  <!-- kyrial sans pro semibold -->
+  <link rel="stylesheet" href="https://use.typekit.net/upo4sld.css">
+  <link rel="stylesheet" href="https://use.typekit.net/ewu8ezp.css">
+  <link rel="stylesheet" href="https://use.typekit.net/svc0cnr.css">
+  <!-- /kyrial sans pro semibold -->
+  <link href="/static/BH/styles/bh.css" rel="stylesheet" />
+  
+  <script>
+ var forceMediaDownload = true;
+</script>
+
+<script src='//cdn.appdynamics.com/adrum/adrum-4.5.0.773.js'></script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P6NQWFD');</script>
+<!-- End Google Tag Manager -->
+<script>
+window.dataLayer =  window.dataLayer || [];
+var gtm_getcarenow = {
+'event' : 'Get Care Now Button',
+'category' : 'Button Interaction',
+'action' : 'Click',
+'label' : ''
+} 
+</script>
+<script src="https://bannerhealth.usablenet.com/pt/start" type="text/javascript" async></script>
+
+  
+<meta name="VIcurrentDateTime" content="638320758112140701" />
+<script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
+
+
+</head>
+<body class="header-static  ">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P6NQWFD"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+  
+
+
+<section class="bh-app-mobile-download mb-4">
+  <div class="site-search-results-doctors-cards">
+    <div class="site-search-results-doctors-card card-alignment">
+      <div class="close-button-alignment">&#10006;</div>
+      <div class="site-search-results-doctors-left-side">
+        <div class="navbar-brand branding">
+          <!-- Horizontal Logo -->
+          <a class="header-logo" href="">
+            <img src="/-/media/images/project/bh/logos/banner-heart.ashx" alt="" />
+          </a>
+        </div>
+      </div>
+      <div class="site-search-results-doctors-middle-side">
+        <div class="mobile-app-doctor-name">
+          Banner Health
+        </div>
+        <div class="site-search-results-doctors-info">Acerca de</div>
+        <div class="mobile-app-status">
+          Instalado
+        </div>
+      </div>
+      <div class="site-search-results-doctors-right-corner-side">
+        <a href="" class="app-open-button">Abierto</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+<header>
+
+	
+
+
+
+
+	<!-- Top Nav -->
+	<nav class="navbar navbar-utility">
+		<div class="container navbar-container">
+			<div class="utility-container">
+				<!-- Set My Location -->
+				
+
+<!--SetMyLocation Component will go on this placeholder-->
+<button class="btn btn-link font-weight-normal" data-toggle="modal" data-target="#geoLocationModal" data-haslocation=false>
+    <i class="fas fa-map-marker-alt"></i>
+    Configurar su ubicaci&#243;n
+</button>
+				<a class="language-toggle os-language" href="javascript:SetLanguage(); ">English</a>
+
+  <script type="text/javascript">
+
+
+    function SetLanguage() {
+      var urlParam = window.location.search;
+      if (typeof urlParam === 'undefined') {
+        urlParam = '';
+      }
+      //Create the model
+      var model = {
+        "language": "en",
+        "url": "/patients/patient-account/family-profiles",
+        "sitename": "bh"
+      };
+	 // console.log(model);
+      //call the SetLanguage action method
+      $.ajax({
+        url: '/api/sitecore/Language/SetLanguage',
+        data: model,
+        type: "POST",
+        cache: false,
+        success: function (data) {
+          console.log('success:redirect url' + data);
+          //Redirect to new url
+          window.location.href = data + urlParam;
+        },
+        failure: function (result) {
+          console.log('failure');
+          console(result.responseText);
+        },
+        error: function (result) {
+          console.log('error');
+          console.log(result.responseText);
+        }
+      })
+
+    }
+
+  </script>
+
+				<a href="https://www.assistive.bannerhealth.com//patients/patient-account/family-profiles" class="UsableNetAssistive language-toggle" onclick="return enableUsableNetAssistive()"  target="_self"> Habilitar accesibilidad</a>
+
+
+
+				<!-- START Set My Location Placeholder Content -->
+			</div>
+			<!-- <button class="btn btn-link"> -->
+			<!-- <i class="fa fa-map-marker"></i> -->
+			<!-- Set My Location -->
+			<!-- </button> -->
+			<!-- START Set My Location Placeholder Content -->
+			<div class="utility-container">
+				<ul class="nav justify-content-end utility-menu">
+					<!-- Nav Links -->
+					
+
+		<li class="nav-item">
+			<a class="nav-link" href="/es/careers" target="">
+				Oportunidades de empleo
+			</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="/es/calendar" target="">
+				Clases&#160;+&#160;eventos
+			</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="/es/staying-well" target="">
+				Salud&#160;+&#160;bienestar
+			</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="/es/patients" target="">
+				Recursos para pacientes
+			</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="/es/patients/billing" target="">
+				Facturaci&#243;n
+			</a>
+		</li>
+
+				</ul>
+
+				<!-- Login and Search -->
+				
+				<!-- START Login and Search Placeholder Content -->
+				<ul class="nav justify-content-end utility-menu">
+					<li class="nav-item utility-menu-button">
+						<a class="nav-link nav-link-search" href="#" title="Search" data-toggle="modal" data-target="#searchModal">
+							<i class="fa fa-search"></i>
+						</a>
+					</li>
+					
+<!--Desktop-->
+    <li class="nav-item">
+        <a class="nav-link bh-primary-button" href="https://account.bannerhealth.com/sign-in" title="Sign in">
+            <img src="/-/media/images/project/bh/icons/bh-ic-patient.ashx" alt="Patient icon" />
+            Iniciar sesi&#243;n en la Patient Account
+        </a>
+    </li>
+
+<!--Mobile View-->
+
+				</ul>
+				<!-- END Login and Search Placeholder Content -->
+			</div>
+		</div>
+	</nav>
+
+
+	<!-- Main Nav -->
+	<nav class="navbar navbar-collapse navbar-main">
+		<div class="container navbar-container">
+			<div class="navbar-brand branding">
+				<!-- Horizontal Logo -->
+				
+
+ 
+  <a class="header-logo" href="/es" title="Go to home page">
+    <img src="/-/media/images/project/bh/logos/global-logo-v2.ashx" alt="global-logo-v2" DisableWebEdit="True" />
+
+  </a>
+
+
+			</div>
+			<div class="utility-container">
+				<ul class="nav justify-content-end utility-menu">
+					<!-- Nav Links -->
+					
+
+		<li class="nav-item">
+			<a class="nav-link" href="/es/physician-directory" target="">
+				Encuentre un m&#233;dico
+			</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="/es/locations" target="">
+				Encuentre un Consultorio m&#233;dico
+			</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="/es/services" target="">
+				Condiciones y servicios
+			</a>
+		</li>
+
+				</ul>
+				<ul class="nav justify-content-end utility-menu tablet">
+					<li class="nav-item">
+						<span class="navbar-text menu-item">
+							<!-- Get Care Now Button -->
+							<a href="JavaScript:;" class="cta-button-hero" data-gtm-getcarenow data-toggle="modal" data-target="#gcnModal">
+								Obtenga atenci&#243;n ahora
+							</a>
+						</span>
+					</li>
+				</ul>
+				<ul class="nav justify-content-end utility-menu mobile">
+					<li class="nav-item">
+						<button class="header-search" type="button" aria-label="search button" data-toggle="modal" data-target="#searchModal">
+							<i class="fa fa-search"></i>
+						</button>
+					</li>
+					<li class="nav-item">
+						<button id="global-menu-open" type="button" data-toggle="collapse" data-target="#mobile-menu" aria-label="menu open button">
+							<i class="fa fa-bars"></i>
+						</button>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+
+	<!-- Mobile Menu -->
+	<div class="collapse navbar-collapse mobile-menu" id="mobile-menu">
+		<!-- Button Toolbar -->
+		<div class="btn-toolbar mobile-toolbar" role="toolbar" aria-label="Toolbar">
+			<div class="btn-group" role="group">
+				<button type="button" data-toggle="modal" data-target="#geoLocationModal">
+					<i class="fa fa-map-marker" aria-hidden="true"></i>
+				</button>
+			</div>
+			<div class="btn-group" role="group">
+				<button aria-label="search" type="button" data-toggle="modal" data-target="#searchModal">
+					<i class="fa fa-search"></i>
+				</button>
+			</div>
+
+			<div class="btn-group" role="group">
+				<button id="global-menu-close" type="button" aria-label="menu close button" data-toggle="collapse" data-target="#mobile-menu">
+					<i class="fa fa-times"></i>
+				</button>
+			</div>
+		</div>
+
+		<!--Sign In Button-->
+		
+<!--Desktop-->
+
+<!--Mobile View-->
+    <div class="cta-full">
+        <a class="nav-link bh-primary-button-mobile" href="https://account.bannerhealth.com/sign-in" title="Sign in">
+            <img src="/-/media/images/project/bh/icons/bh-ic-patient.ashx" alt="Patient icon" />
+            Iniciar sesi&#243;n en la Patient Account
+        </a>
+    </div>
+
+
+		<div class="cta-hero">
+			<!-- Get Care Now Button -->
+			<a href="JavaScript:;" class="cta-button-hero" data-gtm-getcarenow data-toggle="modal" data-target="#gcnModal">
+				Obtenga atenci&#243;n ahora
+			</a>
+		</div>
+		<ul class="nav justify-content-center flex-column mobile-main-menu">
+			<!-- Nav Links -->
+			
+
+		<li class="nav-item">
+			<a class="nav-link" href="/es/physician-directory" target="">
+				Encuentre un m&#233;dico
+			</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="/es/locations" target="">
+				Encuentre un Consultorio m&#233;dico
+			</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="/es/services" target="">
+				Condiciones y servicios
+			</a>
+		</li>
+
+		</ul>
+		<ul class="nav justify-content-center flex-column mobile-utility-menu">
+			<!-- Nav Links -->
+			
+
+		<li class="nav-item">
+			<a class="nav-link" href="/es/careers" target="">
+				Oportunidades de empleo
+			</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="/es/calendar" target="">
+				Clases&#160;+&#160;eventos
+			</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="/es/staying-well" target="">
+				Salud&#160;+&#160;bienestar
+			</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="/es/patients" target="">
+				Recursos para pacientes
+			</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="/es/patients/billing" target="">
+				Facturaci&#243;n
+			</a>
+		</li>
+<a class="language-toggle os-language" href="javascript:SetLanguage(); ">English</a>
+
+  <script type="text/javascript">
+
+
+    function SetLanguage() {
+      var urlParam = window.location.search;
+      if (typeof urlParam === 'undefined') {
+        urlParam = '';
+      }
+      //Create the model
+      var model = {
+        "language": "en",
+        "url": "/patients/patient-account/family-profiles",
+        "sitename": "bh"
+      };
+	 // console.log(model);
+      //call the SetLanguage action method
+      $.ajax({
+        url: '/api/sitecore/Language/SetLanguage',
+        data: model,
+        type: "POST",
+        cache: false,
+        success: function (data) {
+          console.log('success:redirect url' + data);
+          //Redirect to new url
+          window.location.href = data + urlParam;
+        },
+        failure: function (result) {
+          console.log('failure');
+          console(result.responseText);
+        },
+        error: function (result) {
+          console.log('error');
+          console.log(result.responseText);
+        }
+      })
+
+    }
+
+  </script>
+
+			<li class="nav-item pt-2"><a href="https://www.assistive.bannerhealth.com//patients/patient-account/family-profiles" class="UsableNetAssistive language-toggle" onclick="return enableUsableNetAssistive()"  target="_self"> Habilitar accesibilidad</a>
+
+
+</li>
+		</ul>
+	</div>
+</header>
+
+  <div data-js="scrolling-affixed-container">
+    
+
+
+<div class="              " data-js="placeholder-event">
+	<div class="layout-container">
+		<div class="row">
+			<div class="col-sm-12">
+				
+
+
+
+  <nav class="bh-breadcrumb d-none d-md-block d-md-block primary" aria-label="breadcrumb">
+    <div class="row">
+      <div class="col-12">
+        <ol class="breadcrumb mb-0 p-0">
+            <li class="breadcrumb-item"><a href="/es"><span class="fas fa-home"></span></a></li>
+
+                <li class="breadcrumb-item"><span class="fas fa-angle-right"></span><a href="/es/patients">Pacientes y visitantes</a></li>
+                <li class="breadcrumb-item"><span class="fas fa-angle-right"></span><a href="/es/patients/patient-account">Patient Account</a></li>
+                <li class="breadcrumb-item active" aria-current="page"><span class="fas fa-angle-right"></span>Gesti&#243;n del perfil familiar</li>
+        </ol>
+      </div>
+    </div>
+  </nav>
+  <script>
+    $(document).ready(function () {
+      var bread = {
+        "@context": "https://www.schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": []
+      }
+      var exist = false;
+      $('.breadcrumb li').each(function (index) {
+        if (index === 0) return;
+        var item = {}
+        if (index != $('.breadcrumb li').length - 1) {
+          var href = $(this).find("a").attr('href');
+          if (href) item["@id"] = window.location.protocol + "//" + window.location.host + href
+          else item["@id"] = window.location.protocol + "//" + window.location.host + window.location.pathname
+
+          item["name"] = $.trim($(this).text());
+        }
+
+        bread.itemListElement.push({
+          "@type": "ListItem",
+          "position": index,
+          "name": $.trim($(this).text()),
+          "item": item["@id"]
+        })
+
+        exist = true;
+
+      });
+      console.log(bread.itemListElement);
+      if (exist) {
+        var jsonStrb = JSON.stringify(bread);
+        var s2 = document.createElement("script");
+        s2.type = "application/ld+json";
+        s2.id = "BreadcrumbJson";
+        $("body").append(s2);
+        $('#BreadcrumbJson').append(jsonStrb);
+      }
+    })
+  </script>
+
+
+<div class=" pt-4 pt-sm-0    pt-sm-3 pt-lg-0    pt-lg-3    ">
+	<div class=" ">
+		<h1>Perfiles familiares: acceda y administre la atenci&#243;n de un ser querido</h1>
+	</div>
+</div>
+
+<div class="              ">
+	<div class="">
+		<div class="row">
+			<div class="col-md-4 ">
+				
+
+
+	<a href="https://www.bannerhealth.com/es/patients/patient-account" class="subnavigation-return-button btn btn-primary text-white w-100 d-block">Back To&nbsp;Patient Account</a>
+
+
+
+<div class="subnavigation">
+	<div class="subnavigation-desktop-tablet">
+		<ul class="subnavigation-menu" data-js="subnavigation-menu">
+						<li class="">
+					<a class="subnavigation-menu-link  selected" href="/es/patients/patient-account/family-profiles">Gesti&#243;n del perfil familiar</a>
+
+			</li>
+
+		</ul>
+	</div>
+	<div class="subnavigation-mobile" data-js="subnavigation-menu-mobile" data-go-back-text="Go Back">
+		<div class="nav-menu-title">
+			<span class="menu-title"></span>
+			<button class="dropdown-icon">
+				<i class="fal fa-angle-up"></i>
+			</button>
+		</div>
+		<ul class="dropdown-menu">
+						<li class="">
+					<a class="subnavigation-menu-link  selected" href="/es/patients/patient-account/family-profiles">Gesti&#243;n del perfil familiar</a>
+
+			</li>
+
+		</ul>
+	</div>
+</div>
+
+
+			</div>
+			<div class="col-md-8 ">
+				
+
+<div class="             ">
+	<div class=" ">
+		<p>Es fácil para usted solicitar acceso para administrar la atención médica de un ser querido u otorgar acceso a otra persona a su propia cuenta de Banner Health . Un representante está autorizado para actuar en nombre de un paciente cuando ha sido aprobado por el paciente directamente, la ley estatal o es un tutor legal/sustituto de niños. Como apoderado, puede acceder y ver los registros médicos del paciente, renovar medicamentos recetados, enviar mensajes a su proveedor, programar citas, ver resultados, etc.</p><p> Dado que tomamos en serio la privacidad y la información de salud de nuestros pacientes, el equipo de Banner Health HIMS revisará cada solicitud de acceso de representante a un paciente y evaluará la causa y la documentación suficientes para establecer la relación de representante. Si usted es el paciente y quiere que alguien sea su apoderado, puede otorgarle acceso de apoderado directamente desde su cuenta de Banner Health . Esta autorización permanecerá vigente hasta que usted, el paciente, cancele la relación de representación en su cuenta de Banner Health o hasta que la relación de acceso finalice de otro modo.</p><h2> ¿A quién puedo solicitar acceso de proxy?</h2><ul><li> Acceso a un niño (edades 0-11)</li><li> Acceso a un adolescente (de 12 a 17 años) (Esta característica estará disponible próximamente)</li><li> Acceso a la cuenta de un adulto dependiente</li><li> Acceso a la cuenta de un adulto capaz (Esta función estará disponible próximamente)</li><li> Otorgar acceso a su cuenta a otro adulto</li></ul><h2> ¿Qué nivel de acceso tendré?</h2><p> Debido a las normas estatales de privacidad, la información a la que pueden acceder los pacientes menores de edad dependerá de su edad. Esto es lo que puede esperar:</p><p> <strong>Niños de 11 años y menores</strong></p><p> Tendrá acceso completo una vez que el personal de Banner revise su solicitud para verificar que la solicitud sea de un padre o tutor legal y validarla contra el registro médico del paciente. Una vez aprobada, la autorización permanecerá vigente hasta que el niño cumpla 12 años. El acceso a la cuenta se revocará automáticamente cuando el niño cumpla 12 años.</p><p> <strong>Adolescentes de 12 a 17 años</strong></p><p> Según las leyes estatales y federales, un adolescente de 12 a 17 años puede dar su consentimiento para ciertos tratamientos y tener más derechos a la privacidad sin el consentimiento de los padres. Como Banner Health no puede separar esos registros a través del portal, aún no brindamos acceso de proxy a las cuentas de Banner Health para pacientes adolescentes. Arizona sigue la Ley de protección de la privacidad en línea de los niños de 1998, Título 15 USC 6501-6505.</p><p> Todavía puede solicitar registros médicos seleccionados de su adolescente <a href="/es/patients/medical-records">solicitándolos en línea</a> o visitando un hospital o clínica de Banner . Al proporcionar registros en papel, según las leyes estatales y federales, limitamos el acceso a los registros de tratamiento que no se pueden proporcionar sin el consentimiento del adolescente.</p><p> <strong>Adultos dependientes (adulto incapaz de tomar sus propias decisiones médicas o con capacidad disminuida)</strong></p><p> Una vez que el personal de Banner revise su solicitud, la valide contra el registro médico del paciente y cualquier documentación legal, como un poder notarial médico o una directiva anticipada, y sea aprobada, el solicitante tendrá pleno acceso.</p><h2> Cómo solicitar u otorgar acceso de apoderado a un ser querido</h2><p> Debe configurar una <a rel="noopener noreferrer" rel="noopener noreferrer" href="https://mybanner.bannerhealth.com/sign-in?_ga=2.87517272.1724190472.1654200124-357181089.1637259369" target="_blank">cuenta de paciente de Banner Health</a> para enviar una solicitud de acceso para administrar la atención médica de un ser querido o para otorgarle a otra persona acceso a la suya. Esta cuenta de paciente de Banner Health será el lugar donde verá y administrará la atención médica de su familia.</p><p> <strong>Solicitar acceso a la cuenta de Banner Health de un niño o adulto dependiente</strong></p><p> Si bien es posible que su familiar ya esté en su plan de seguro, aún deberá solicitar acceso para ver y administrar su información de salud.</p><p> Una vez que inicie sesión en su cuenta de Banner Health , navegará a la página de Perfiles familiares donde podrá completar el formulario de solicitud. Se le pedirá que proporcione algunos detalles sobre el paciente y luego envíe su solicitud para que el personal de Banner la revise. Si la solicitud de acceso coincide con el registro de un paciente que tenemos archivado, la solicitud será entregada y revisada por el personal de Banner Health . Recibirá una notificación con una respuesta de Banner Health en 1 a 3 días hábiles con una aprobación o denegación de acceso (es decir, correo electrónico) y los próximos pasos, si corresponde.</p><p> Si se acepta su solicitud, tendrá la oportunidad de iniciar sesión en su cuenta de Banner Health y navegar a la página de Perfiles familiares, donde verá la cuenta de su ser querido agregada a su lista. Tendrá la posibilidad de seleccionar su perfil para acceder a sus registros médicos y servicios. La autorización permanecerá vigente hasta que elimine su acceso a su registro de salud o hasta que el paciente finalice el acceso.</p><p> <strong>Solicitar acceso a la cuenta de Banner Health de un adulto capacitado</strong></p><p> Si desea acceso de apoderado a otro adulto que sea capaz de tomar sus propias decisiones médicas, deberá otorgarle acceso de apoderado a través de su cuenta de Banner Health .</p><h2> Otorgue acceso a otro adulto a su cuenta de Banner Health</h2><p> Puede otorgar acceso a otra persona a su cuenta de Banner Health , lo que le permite a su ser querido interactuar en su nombre, lo que incluye programar citas y enviar mensajes a sus médicos.</p><p> Si desea otorgar a su cónyuge o ser querido acceso de apoderado a su cuenta del portal, debe iniciar sesión en su cuenta de Banner Health y navegar a la página de Perfiles familiares, donde podrá completar el formulario de acceso a la concesión. Se le pedirá que proporcione algunos detalles sobre el adulto al que desea otorgar acceso de apoderado. La invitación de otorgar acceso seguro será entregada a la persona indicada en el formulario, donde podrá aceptar o rechazar la invitación. Esta persona necesitará una cuenta de Banner Health para acceder a su cuenta. Si su cónyuge o ser querido no tiene una cuenta de Banner Health , se le pedirá que cree una.</p><p> Si su solicitud de subvención ha sido aceptada por la otra parte, podrá iniciar sesión en su cuenta de Banner Health y navegar a sus Perfiles familiares, donde verá quién tiene acceso a su cuenta. La autorización permanecerá vigente hasta que usted cancele la relación de representación o hasta que el paciente finalice la relación de representación. Nota: otorgar acceso a su propia cuenta a otra persona no significa que usted tenga acceso a su historial médico. Para recibir un acceso equivalente, deben otorgarle acceso a usted.</p><h2> Cómo responder a una solicitud de concesión de acceso a la cuenta de Banner Health de otra persona</h2><p> Si recibió una invitación segura para acceder a los registros médicos de Banner Health de otra persona, deberá tener una cuenta de Banner Health o crear una cuenta de Banner Health para iniciar sesión, responder preguntas de seguridad para verificar que conoce al paciente y aceptar o rechazar la invitar. Si acepta el acceso, podrá seleccionar su perfil para acceder a sus registros médicos y servicios desde su página de Perfiles familiares. Si desea cancelar su acceso de representante, puede hacerlo en cualquier momento seleccionando el menú de 3 puntos ubicado a la derecha del nombre de la persona en su lista de Perfiles familiares, donde encontrará la opción para revocar su acceso.</p><h2> Eliminar acceso de proxy</h2><p> Una vez que se ha aprobado el acceso de apoderado, dicho acceso puede ser cortado o rescindido por el apoderado, el paciente adulto o el personal de Banner bajo una orden judicial en cualquier momento.</p><h2> Volver a solicitar acceso</h2><p> Si una solicitud de acceso fue &quot;Denegada&quot; o &quot;Revocada&quot; anteriormente, el solicitante puede enviar una nueva solicitud de acceso a un paciente si:</p><ul><li> La condición médica del paciente ha cambiado a capacidad disminuida</li><li> Se cometió un error o se proporcionó información incorrecta en la solicitud original</li><li> Tiene documentación legal de respaldo adicional (tutela legal, documentos de poder notarial médico, etc.) que no se proporcionó en la solicitud original</li></ul><p> Envíe una nueva solicitud haciendo clic en el botón &quot;Agregar miembro&quot; en la página Perfiles familiares y completando el formulario. Una vez enviada, su nueva solicitud será revisada por Banner HIMS o por el propio paciente adulto, pero tenga en cuenta que esto no garantiza que se le otorgará acceso.</p><h2> Estados</h2><p> <strong>Pendiente:</strong> la solicitud se envió al paciente para su aprobación o al equipo de Banner Health HIMS para su revisión.</p><p> <strong>Aprobado:</strong> la solicitud de acceso fue aprobada por Banner Health después de revisar la documentación suficiente y la autorización vinculada al registro del paciente. Una vez que se apruebe el acceso, el nombre del paciente aparecerá en los Perfiles familiares &quot;Administre la atención médica de su familia&quot; en la lista de &quot;perfiles activos&quot; y la etiqueta &quot;Pendiente&quot; ya no estará presente. Aquí podrá acceder a la historia clínica del paciente. Si concedió acceso a su propia cuenta a otra persona y esta aceptó, su nombre aparecerá en la pestaña &quot;Permita que su familia ayude a administrar su atención médica&quot; en la página Perfiles familiares.</p><p> <strong>Denegado:</strong> la solicitud de proxy ha sido denegada y el solicitante no tendrá acceso de proxy debido a cualquiera de las siguientes razones.</p><ul><li> El destinatario del acceso otorgado rechaza la invitación del paciente para que el destinatario sea su representante</li><li> No había documentación suficiente para respaldar una relación de poder establecida para un niño o paciente incapacitado</li><li> Banner no pudo ubicar el registro de un paciente según los criterios proporcionados por la persona que envió la solicitud de acceso de apoderado. Si está seguro de que el paciente tiene un registro de Banner Health , se recomienda verificar que la información provista en la solicitud de acceso de representante sea la información que estaría en el archivo del paciente. Las cosas a considerar son si el paciente tiene un correo electrónico, número de teléfono o código postal diferente que podría estar asociado con su archivo de paciente. Como solicitante, cuantos más criterios de identidad proporcione en la solicitud, más criterios podrá usar Banner para ubicar el archivo del paciente.</li></ul><p> <strong>Revocado:</strong> el proxy al que se le otorgó acceso anteriormente tiene acceso eliminado debido a cualquiera de los motivos a continuación.</p><ul><li> Cuando un niño cumple 12 años de edad. Ver Adolescentes de 12 a 17 años</li><li> Un paciente adulto cancela el acceso de proxy a su propia cuenta de Banner Health</li><li> HIMS finaliza el acceso de proxy en circunstancias especiales</li></ul><h2> Estamos aquí para ayudar si tiene alguna pregunta.</h2><p> Llámenos al (480) 684-6000 o al número gratuito (855) 355-6500. El soporte está disponible de lunes a viernes de 8 am a 4:30 pm MDT.</p><h2> Aplicación de Banner Health</h2><p> Puede hacer más con una cuenta y una aplicación móvil de Banner Health . ¡Vea las novedades y <a href="/es/patients/banner-app">aprenda más sobre nuestra aplicación</a> ! </p><iframe width="560" height="315" src="https://www.youtube.com/embed/W-7BCFBeDus" title="reproductor de videos de youtube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+	</div>
+</div>
+
+			</div>
+		</div>
+	</div>
+</div>
+
+			</div>
+		</div>
+	</div>
+</div>
+
+<div uatid="TextCard" class="text-card-icon background-pattern-dotted animated start bg-primary font-color-skin          pt-lg-1 pb-lg-1   p-3  " data-js="animate-background">
+  <div class="container">
+    <div class="row">
+        <div class="col-md-5 py-3 px-2 py-md-7 px-md-0 order-md-last" align="Center">
+          <div class="icon icon--primary icon--lg">
+            <img src="/-/media/images/project/bh/icons/bh-icon-urgent-care-white.ashx" alt="BH Icon Urgent_Care_White" />
+          </div>
+        </div>
+      <div class="col-md-7 py-3 px-2 py-md-7 px-md-0">
+
+              <h2 class="title-color-card-skin section-title">
+                Patient Account
+              </h2>
+
+          <p class="mt-3 mb-0">
+            <p><strong>Acceda a su información de salud en cualquier momento y en cualquier lugar.</strong> Su Patient Account le permite administrar su atención desde cualquier dispositivo para que pueda: ver resultados de laboratorio, solicitar registros médicos, programar citas, enviar mensajes al consultorio del doctor y acceder a documentos importantes.</p>
+          </p>
+
+        <!--Buttons: btn-primary, btn-outline-primary -->
+<a class="btn mt-3 btn-primary" href="https://account.bannerhealth.com/sign-in">Iniciar sesi&#243;n</a>        
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<div class="pt-5 pt-sm-0 pb-5 pb-sm-0   pt-sm-5 pt-lg-0 pb-sm-5 pb-lg-0   pt-lg-5 pb-lg-5    bg-gray-100 " data-js="placeholder-event">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12">
+				
+
+
+<div uatid="FeaturedArticlesCard" class="related-articles              bg-gray-100 font-color-skin ">
+  <div class="container">
+    <div class="row p-20">
+      <div class="col-md-8 ">
+        <div class="content-block text-left">
+            <h2 class="title-color-card-skin title h1">Art&#237;culos relacionados</h2>
+        </div>
+      </div>
+    </div>
+    <div class="row cards d-none d-md-flex related-articles-desktop-tablet mt-4">
+        <div class="col-lg-3 col-md-4 mb-4">
+          <a class="card text-card-link-image" href="https://www.bannerhealth.com/es/healthcareblog/teach-me/how-to-prevent-and-treat-painful-canker-sores-in-your-mouth ">
+            <div class="text-card-link-img">
+              <div class="image">
+                <img src="/-/media/images/project/healthcareblog/hero-images/2023/10/canker-sores.ashx?h=780&amp;w=1170&amp;hash=4EA902484B93DFAA3934D6B7FCD1FA86" />
+              </div>
+            </div>
+            <div class="card-body">
+              <div class="card-content">
+                <h5>C&#243;mo prevenir y tratar las dolorosas aftas bucales</h5>
+                  <p>Si alguna vez ha tenido aftas (tambi&#233;n conocidas como &#250;lcera aftosa),...&hellip;</p>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-3 col-md-4 mb-4">
+          <a class="card text-card-link-image" href="https://www.bannerhealth.com/es/healthcareblog/advise-me/the-benefits-to-your-body-of-walking-in-place ">
+            <div class="text-card-link-img">
+              <div class="image">
+                <img src="/-/media/images/project/healthcareblog/hero-images/2023/10/exercising-or-walking-in-place.ashx?h=780&amp;w=1170&amp;hash=D77A1679C79065CA63DADD21AD2E7844" />
+              </div>
+            </div>
+            <div class="card-body">
+              <div class="card-content">
+                <h5>Mejorando su salud: los beneficios para su cuerpo de caminar en el mismo lugar</h5>
+                  <p>Tal vez tenga toda la intenci&#243;n de realizar m&#225;s actividad f&#237;sica,...&hellip;</p>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-3 col-md-4 mb-4">
+          <a class="card text-card-link-image" href="https://www.bannerhealth.com/es/healthcareblog/advise-me/healthy-eating-when-dining-out-or-at-social-gatherings ">
+            <div class="text-card-link-img">
+              <div class="image">
+                <img src="/-/media/images/project/healthcareblog/hero-images/2023/10/eating-out-healthy.ashx?h=780&amp;w=1170&amp;hash=5E3F574016163345B8782871DDE093B6" />
+              </div>
+            </div>
+            <div class="card-body">
+              <div class="card-content">
+                <h5>Consejos para una alimentaci&#243;n saludable al cenar fuera y en eventos sociales</h5>
+                  <p>Salir a comer a restaurantes o reuniones sociales puede ser muy divertido....&hellip;</p>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-3 col-md-4 mb-4">
+          <a class="card text-card-link-image" href="https://www.bannerhealth.com/es/healthcareblog/advise-me/how-clearing-out-your-clutter-can-reduce-your-stress ">
+            <div class="text-card-link-img">
+              <div class="image">
+                <img src="/-/media/images/project/healthcareblog/hero-images/2023/09/does-clutter-cause-stress.ashx?h=780&amp;w=1170&amp;hash=0AF981F1EC5AE82444D80E95F858B1FD" />
+              </div>
+            </div>
+            <div class="card-body">
+              <div class="card-content">
+                <h5>C&#243;mo limpiar el desorden puede reducir el estr&#233;s</h5>
+                  <p>Puede parecer que ves desorden dondequiera que mires. Esa canasta...&hellip;</p>
+              </div>
+            </div>
+          </a>
+        </div>
+
+    </div>
+    <div class="row cards d-md-none d-flex related-articles-mobile justify-content-center">
+      <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="1" class=""></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="2" class=""></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="3" class=""></li>
+        </ol>
+        <!-- Mobile Carousel - Repeat same cards as above -->
+        <div class="carousel-inner">
+            <div class="p-3 carousel-item active">
+              <a class="card text-card-link-image" href="https://www.bannerhealth.com/es/healthcareblog/teach-me/how-to-prevent-and-treat-painful-canker-sores-in-your-mouth">
+                <div class="text-card-link-img">
+                  <div class="image">
+                    <img src="/-/media/images/project/healthcareblog/hero-images/2023/10/canker-sores.ashx?h=780&amp;w=1170&amp;hash=4EA902484B93DFAA3934D6B7FCD1FA86" />
+                  </div>
+                </div>
+                <div class="card-body">
+                  <div class="card-content">
+                    <h5>C&#243;mo prevenir y tratar las dolorosas aftas bucales</h5>
+                      <p>Si alguna vez ha tenido aftas (tambi&#233;n conocidas como &#250;lcera aftosa),...&hellip;</p>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="p-3 carousel-item ">
+              <a class="card text-card-link-image" href="https://www.bannerhealth.com/es/healthcareblog/advise-me/the-benefits-to-your-body-of-walking-in-place">
+                <div class="text-card-link-img">
+                  <div class="image">
+                    <img src="/-/media/images/project/healthcareblog/hero-images/2023/10/exercising-or-walking-in-place.ashx?h=780&amp;w=1170&amp;hash=D77A1679C79065CA63DADD21AD2E7844" />
+                  </div>
+                </div>
+                <div class="card-body">
+                  <div class="card-content">
+                    <h5>Mejorando su salud: los beneficios para su cuerpo de caminar en el mismo lugar</h5>
+                      <p>Tal vez tenga toda la intenci&#243;n de realizar m&#225;s actividad f&#237;sica,...&hellip;</p>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="p-3 carousel-item ">
+              <a class="card text-card-link-image" href="https://www.bannerhealth.com/es/healthcareblog/advise-me/healthy-eating-when-dining-out-or-at-social-gatherings">
+                <div class="text-card-link-img">
+                  <div class="image">
+                    <img src="/-/media/images/project/healthcareblog/hero-images/2023/10/eating-out-healthy.ashx?h=780&amp;w=1170&amp;hash=5E3F574016163345B8782871DDE093B6" />
+                  </div>
+                </div>
+                <div class="card-body">
+                  <div class="card-content">
+                    <h5>Consejos para una alimentaci&#243;n saludable al cenar fuera y en eventos sociales</h5>
+                      <p>Salir a comer a restaurantes o reuniones sociales puede ser muy divertido....&hellip;</p>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="p-3 carousel-item ">
+              <a class="card text-card-link-image" href="https://www.bannerhealth.com/es/healthcareblog/advise-me/how-clearing-out-your-clutter-can-reduce-your-stress">
+                <div class="text-card-link-img">
+                  <div class="image">
+                    <img src="/-/media/images/project/healthcareblog/hero-images/2023/09/does-clutter-cause-stress.ashx?h=780&amp;w=1170&amp;hash=0AF981F1EC5AE82444D80E95F858B1FD" />
+                  </div>
+                </div>
+                <div class="card-body">
+                  <div class="card-content">
+                    <h5>C&#243;mo limpiar el desorden puede reducir el estr&#233;s</h5>
+                      <p>Puede parecer que ves desorden dondequiera que mires. Esa canasta...&hellip;</p>
+                  </div>
+                </div>
+              </a>
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+			</div>
+		</div>
+	</div>
+</div>
+  </div>
+
+  <div class="container" style="position:relative !important">
+    
+  </div>
+
+  <footer class="global-footer">
+	<div class="row">
+		<div class="mb-5 col-12 mb-xl-0 col-xl-3">
+			<div class="row">
+				<div class="col-10 col-sm-6 col-md-5 col-lg-4 col-xl-10">
+					
+
+<a class="header-logo" href="/es" title="Go to home page">
+  <img src="/-/media/images/project/bh/logos/global-logo-v2-white.ashx" alt="global-logo-v2-white" DisableWebEdit="True" />
+</a>
+				</div>
+			</div>
+		</div>
+
+		
+
+
+
+		<div class="col-12 col-sm-6 col-xl-2 p-0">
+			<h4 class="footer-column-title">
+				<a href="/es">
+					Banner Health
+				</a>
+			</h4>
+			<ul class="footer-column-list">
+						<li>
+              <a href="/es/physician-directory" target="">
+                medicos
+              </a>
+						</li>
+						<li>
+              <a href="/es/services" target="">
+                Servicios
+              </a>
+						</li>
+						<li>
+              <a href="/es/locations" target="">
+                Ubicaciones
+              </a>
+						</li>
+						<li>
+              <a href="/es/health-professionals" target="">
+                Para Profesionales de la Salud
+              </a>
+						</li>
+						<li>
+              <a href="/es/employees" target="">
+                Para empleados
+              </a>
+						</li>
+						<li>
+              <a href="/es/services/volunteer" target="">
+                voluntarios
+              </a>
+						</li>
+						<li>
+              <a href="/es/about/insurance" target="">
+                Seguro
+              </a>
+						</li>
+			</ul>
+		</div>
+		<div class="col-12 col-sm-6 col-xl-2 p-0">
+			<h4 class="footer-column-title">
+				<a href="/es/about">
+					Acerca de
+				</a>
+			</h4>
+			<ul class="footer-column-list">
+						<li>
+              <a href="/es/about/leadership/executive" target="">
+                Liderazgo ejecutivo
+              </a>
+						</li>
+						<li>
+              <a href="/es/about/glance/quality" target="">
+                Calidad
+              </a>
+						</li>
+						<li>
+              <a href="/es/about/glance/news/connect" target="">
+                Noticias
+              </a>
+						</li>
+						<li>
+              <a href="https://www.bannerhealth.com/newsroom" target="">
+                para medios
+              </a>
+						</li>
+						<li>
+              <a href="/es/ways-to-give" target="">
+                Formas de dar
+              </a>
+						</li>
+						<li>
+              <a href="/es/ways-to-give/foundations" target="">
+                Done ahora
+              </a>
+						</li>
+						<li>
+              <a href="/es/careers" target="">
+                Carreras
+              </a>
+						</li>
+			</ul>
+		</div>
+		<div class="col-12 col-sm-6 col-xl-2 p-0">
+			<h4 class="footer-column-title">
+				<a href="/es/patients">
+					Centro de pacientes
+				</a>
+			</h4>
+			<ul class="footer-column-list">
+						<li>
+              <a href="/es/patients/billing" target="">
+                Pago de facturas
+              </a>
+						</li>
+						<li>
+              <a href="/es/patients/billing" target="">
+                Informaci&#243;n de facturaci&#243;n
+              </a>
+						</li>
+						<li>
+              <a href="/es/calendar" target="">
+                Clases y Eventos
+              </a>
+						</li>
+						<li>
+              <a href="/es/patients/billing/financial-assistance" target="">
+                Asistencia financiera
+              </a>
+						</li>
+						<li>
+              <a href="/es/patients/medical-records" target="">
+                Registros m&#233;dicos
+              </a>
+						</li>
+						<li>
+              <a href="/es/patients/patient-account" target="">
+                Acerca de la Patient Account
+              </a>
+						</li>
+						<li>
+              <a href="/es/patients/registration" target="">
+                Registro de pacientes
+              </a>
+						</li>
+			</ul>
+		</div>
+		<div class="col-12 col-sm-6 col-xl-2 p-0">
+			<h4 class="footer-column-title">
+				<a href="/es/about/glance/news/connect">
+					Con&#233;ctate con nosotros
+				</a>
+			</h4>
+			<ul class="footer-column-list">
+						<li>
+              <a href="/es/contact-us" target="">
+                Contacto
+              </a>
+						</li>
+						<li>
+              <a href="https://www.bannerhealth.com/healthcareblog" target="">
+                Lea nuestro blog
+              </a>
+						</li>
+						<li>
+              <a href="/es/staying-well/expert" target="">
+                Pregunta a un experto
+              </a>
+						</li>
+						<li>
+              <a href="/es/about/glance/news/connect" target="">
+                Inscr&#237;base al bolet&#237;n
+              </a>
+						</li>
+			</ul>
+		</div>
+
+
+
+
+
+		<div class="mt-3 col-12 col-sm-6 mt-xl-0 col-xl-1">
+			<div class="row">
+				
+
+		<div class="col-3 col-sm-2 col-xl-12 mb-4">
+			<a class="pull-left" href="https://www.facebook.com/BannerHealth" target="_blank">
+				<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="43px" viewBox="0 0 42 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Facebook@1x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Tablet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BH_Home_Tablet" transform="translate(-82.000000, -6582.000000)" fill="#FFFFFF">
+            <g id="Footer" transform="translate(0.000000, 5656.000000)">
+                <g id="SM" transform="translate(82.000000, 926.000000)">
+                    <g id="Facebook">
+                        <path d="M0,21.1271676 C0,9.45895456 9.23897888,0 20.6358382,0 C32.0326974,0 41.2716763,9.45895456 41.2716763,21.1271676 C41.2716763,32.7953807 32.0326974,42.2543353 20.6358382,42.2543353 C9.23897888,42.2543353 0,32.7953807 0,21.1271676 Z M22.0988805,32.8452426 L22.0988805,21.350948 L25.1980195,21.350948 L25.6087223,17.3899504 L22.0988805,17.3899504 L22.1041459,15.407433 C22.1041459,14.3743438 22.2000204,13.8207911 23.6493275,13.8207911 L25.586783,13.8207911 L25.586783,9.85934489 L22.4872053,9.85934489 C18.7641139,9.85934489 17.4536822,11.7808549 17.4536822,15.0122304 L17.4536822,17.390399 L15.132948,17.390399 L15.132948,21.3513966 L17.4536822,21.3513966 L17.4536822,32.8452426 L22.0988805,32.8452426 Z" id="Combined-Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
+
+			</a>
+		</div>
+		<div class="col-3 col-sm-2 col-xl-12 mb-4">
+			<a class="pull-left" href="https://twitter.com/BannerHealth" target="">
+				<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="43px" viewBox="0 0 42 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Twitter@1x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Tablet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BH_Home_Tablet" transform="translate(-250.000000, -6582.000000)" fill="#FFFFFF">
+            <g id="Footer" transform="translate(0.000000, 5656.000000)">
+                <g id="SM" transform="translate(82.000000, 926.000000)">
+                    <g id="Twitter" transform="translate(168.000000, 0.000000)">
+                        <path d="M0,21.1271676 C0,9.45895456 9.23897888,0 20.6358382,0 C32.0326974,0 41.2716763,9.45895456 41.2716763,21.1271676 C41.2716763,32.7953807 32.0326974,42.2543353 20.6358382,42.2543353 C9.23897888,42.2543353 0,32.7953807 0,21.1271676 Z M20.0177971,17.1724265 L20.0611001,17.9034742 L19.339383,17.8139581 C16.7123327,17.4708133 14.4172723,16.3071048 12.4686361,14.3526712 L11.5159695,13.3829141 L11.2705857,14.0990424 C10.7509493,15.6954118 11.0829392,17.3812973 12.1655149,18.5151671 C12.7428886,19.1417794 12.6129795,19.2312954 11.6170099,18.8583119 C11.2705857,18.7389572 10.9674645,18.6494412 10.9385958,18.6941992 C10.8375554,18.7986346 11.1839796,20.1562945 11.4582321,20.6933907 C11.833525,21.4393578 12.5985451,22.1704054 13.435737,22.6030663 L14.1430198,22.9462111 L13.3058279,22.9611304 C12.4975048,22.9611304 12.4686361,22.9760498 12.5552421,23.2893559 C12.843929,24.259113 13.984242,25.2885475 15.2544641,25.7361277 L16.1493933,26.0494338 L15.3699389,26.5268527 C14.2151915,27.2131424 12.8583633,27.6010452 11.5015351,27.6308839 C10.8519897,27.6458032 10.3179191,27.7054806 10.3179191,27.7502386 C10.3179191,27.899432 12.0789088,28.7349151 13.1037471,29.0631405 C16.178262,30.0328976 19.8301506,29.6151561 22.5726756,27.9591094 C24.5213118,26.7804815 26.469948,24.4381451 27.3793116,22.1704054 C27.8700792,20.9619389 28.3608469,18.7538765 28.3608469,17.6946034 C28.3608469,17.0083137 28.4041499,16.9187977 29.2124731,16.098234 C29.6888063,15.6208151 30.136271,15.0986382 30.222877,14.9494448 C30.3672204,14.6659774 30.3527861,14.6659774 29.6166346,14.9196061 C28.3897155,15.3671863 28.2165034,15.307509 28.8227458,14.6361387 C29.2702104,14.1587198 29.8042811,13.2933981 29.8042811,13.0397693 C29.8042811,12.9950113 29.587766,13.069608 29.3423821,13.203882 C29.082564,13.3530754 28.5051903,13.5768655 28.07216,13.7111396 L27.2927055,13.9647684 L26.5854228,13.4724302 C26.1956955,13.203882 25.6471905,12.9054952 25.3585037,12.8159792 C24.6223522,12.6071084 23.4964735,12.6369471 22.8324938,12.8756565 C21.028201,13.5470269 19.887888,15.2776703 20.0177971,17.1724265 Z" id="Combined-Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
+
+			</a>
+		</div>
+		<div class="col-3 col-sm-2 col-xl-12 mb-4">
+			<a class="pull-left" href="https://www.youtube.com/user/bannerhealthonline" target="">
+				<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="43px" viewBox="0 0 42 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Youtube@1x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Tablet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BH_Home_Tablet" transform="translate(-333.000000, -6582.000000)" fill="#FFFFFF">
+            <g id="Footer" transform="translate(0.000000, 5656.000000)">
+                <g id="SM" transform="translate(82.000000, 926.000000)">
+                    <g id="Youtube" transform="translate(251.000000, 0.000000)">
+                        <path d="M0,21.1271676 C0,9.45895456 9.36831871,0 20.9247268,0 C32.4811348,0 41.8494535,9.45895456 41.8494535,21.1271676 C41.8494535,32.7953807 32.4811348,42.2543353 20.9247268,42.2543353 C9.36831871,42.2543353 0,32.7953807 0,21.1271676 Z M31.8154079,16.874512 C31.8154079,16.874512 31.5974083,15.2876512 30.9294798,14.5888567 C30.0818582,13.6712841 29.1318535,13.6669661 28.6965507,13.6137109 C25.5776935,13.3805395 20.8994078,13.3805395 20.8994078,13.3805395 L20.889657,13.3805395 C20.889657,13.3805395 16.2113712,13.3805395 13.092514,13.6137109 C12.6565147,13.6669661 11.7072065,13.6712841 10.8588885,14.5888567 C10.1909599,15.2876512 9.97365678,16.874512 9.97365678,16.874512 C9.97365678,16.874512 9.75078177,18.7384438 9.75078177,20.6016559 L9.75078177,22.349002 C9.75078177,24.2129338 9.97365678,26.0761459 9.97365678,26.0761459 C9.97365678,26.0761459 10.1909599,27.6630067 10.8588885,28.3618012 C11.7072065,29.2793738 12.8208851,29.2505872 13.316782,29.3463026 C15.0997821,29.5233402 20.8945324,29.5780347 20.8945324,29.5780347 C20.8945324,29.5780347 25.5776935,29.570838 28.6965507,29.3376666 C29.1318535,29.2836918 30.0818582,29.2793738 30.9294798,28.3618012 C31.5974083,27.6630067 31.8154079,26.0761459 31.8154079,26.0761459 C31.8154079,26.0761459 32.038283,24.2129338 32.038283,22.349002 L32.038283,20.6016559 C32.038283,18.7384438 31.8154079,16.874512 31.8154079,16.874512 Z" id="Combined-Shape"></path>
+                        <polygon id="Path" points="18.5933479 24.4662558 18.5926514 17.9957497 24.6144556 21.2421575"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
+
+			</a>
+		</div>
+		<div class="col-3 col-sm-2 col-xl-12 mb-4">
+			<a class="pull-left" href="https://www.facebook.com/BannerHealth" target="_blank">
+				<!-- Null -->
+
+			</a>
+		</div>
+
+			</div>
+		</div>
+	</div>
+	<div class="row footer-utility">
+		<div class="col-12 order-last order-lg-first col-lg-3">
+			<span>
+
+
+&#169; 2023 By Banner Health</span>
+		</div>
+		
+
+
+			<div class="col-12 offset-0 offset-lg-1 col-lg-2">
+				<a href="/es/about/legal-notices/terms" target="">
+					Condiciones de uso
+				</a>
+			</div>
+			<div class="col-12 col-lg-2">
+				<a href="/es/about/legal-notices/privacy" target="">
+					Declaracion de privacidad
+				</a>
+			</div>
+			<div class="col-12 col-lg-2">
+				<a href="/es/about/legal-notices/nondiscrimination" target="">
+					no discriminaci&#243;n
+				</a>
+			</div>
+
+	</div>
+
+	<!-- Begin Place Holder for Alert Modal  -->
+		
+  <!--TODO: Get Care now new modal, is using same id as existing modal-->
+  <div uatid="FeaturedListCard" id="gcnModal" data-js="gcn-modal" class="gcn-modal-v2 modal fade font-color-skin " tabindex="-1" role="dialog" aria-labelledby="gcnModal" aria-hidden="true" data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog modal-lg" role="document">
+      <div class="modal-content extra-content px-3 pb-3 pb-md-6 px-md-6">
+        <!-- Close Button -->
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <i class="fa fa-times"></i>
+        </button>
+
+        <div class="or-circle">
+          <span>o</span>
+        </div>
+
+        <div class="modal-body p-0">
+          <div class="row">
+            <div class="col-12 col-md-8 pt-md-0 pt-4 order-md-first order-last">
+              <div class="title-color-card-skin gnc-modal-title">
+Obtenga el tipo de atenci&#243;n adecuado              </div>
+              <div class="gnc-modal-description">
+<p><span style="color: #000000;">Comencemos con sus síntomas y sigamos desde allí.</span></p>
+              </div>
+              <div class="gcn-iframe-container" data-js="gcn-iframe">
+                <iframe data-src="https://symptomchecker.bannerhealth.com/?configuration=bannerhealth" class="get-care-now-iframe mt-2 mt-sm-4" frameborder="0"></iframe>
+              </div>
+            </div>
+            <div class="col-12 col-md-4">
+              <div class="gnc-modal-subtitle pl-md-3">
+¿Sabes a d&oacute;nde vas?                <div class="section-paragraph text-left d-block d-md-none">
+                  
+<a class="modal-link" href="/es/urgent-or-emergency">Quiero recibir ayuda para decidirme</a>                </div>
+
+              </div>
+              <div class="row mt-2 mt-sm-4">
+                      <div class="col-4 col-md-12">
+                        <div class="alert-card-side-image">
+                          <a href="https://emergencycare.bannerhealth.com">
+                            <div class="row">
+                              <div class="col-12 col-md-2">
+                                <div class="icon icon--xxs">
+                                  <img src="/-/media/images/project/bh/icons/ic_emergency_care.ashx" alt="ic_emergency_care" />
+                                </div>
+                              </div>
+                              <div class="col-12 col-md-10 pl-md-4 pr-md-0">
+                                <div class="alert-card-title">
+
+Cuidados de emergencia
+                                </div>
+                                <div class="alert-card-body">
+                                  Para emergencias que amenazan la vida, encuentre la sala de emergencia más cercana
+                                </div>
+                              </div>
+                            </div>
+                          </a>
+                        </div>
+                      </div>
+                      <div class="col-4 col-md-12">
+                        <div class="alert-card-side-image">
+                          <a href="https://urgentcare.bannerhealth.com/">
+                            <div class="row">
+                              <div class="col-12 col-md-2">
+                                <div class="icon icon--xxs">
+                                  <img src="/-/media/images/project/bh/icons/ic_urgent_care.ashx" alt="ic_urgent_care" />
+                                </div>
+                              </div>
+                              <div class="col-12 col-md-10 pl-md-4 pr-md-0">
+                                <div class="alert-card-title">
+
+Atenci&#243;n de urgencias
+                                </div>
+                                <div class="alert-card-body">
+                                  <span>Para necesidades médicas que no pongan en peligro la vida</span>
+                                </div>
+                              </div>
+                            </div>
+                          </a>
+                        </div>
+                      </div>
+                      <div class="col-4 col-md-12">
+                        <div class="alert-card-side-image">
+                          <a href="/es/physician-directory">
+                            <div class="row">
+                              <div class="col-12 col-md-2">
+                                <div class="icon icon--xxs">
+                                  <img src="/-/media/images/project/bh/icons/ic_nurse_on_call.ashx" alt="ic_nurse_on_call" />
+                                </div>
+                              </div>
+                              <div class="col-12 col-md-10 pl-md-4 pr-md-0">
+                                <div class="alert-card-title">
+
+Reservar una cita
+                                </div>
+                                <div class="alert-card-body">
+                                  Encuentre un proveedor que sea adecuado para usted y programe en línea
+                                </div>
+                              </div>
+                            </div>
+                          </a>
+                        </div>
+                      </div>
+                <div class="col-4 col-md-12 d-none d-md-block">
+                  <div class="section-paragraph pl-md-5">
+                    
+<a class="modal-link" href="/es/urgent-or-emergency">Quiero recibir ayuda para decidirme</a>                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<div uatid="SearchModal" id="searchModal" class="full-width-modal modal fade" tabindex="-1" role="dialog" aria-labelledby="fullWidthModal" aria-hidden="true" data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog " role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <svg width="21" height="21" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M1.637 19.651L19.875 1.413m-.512 18.238L1.125 1.413" stroke="#FFF" stroke-width="2.8" fill="none" fill-rule="evenodd"></path>
+                    </svg>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form action="/es/search" method="get" autocomplete="off">
+                    <div class="form-row">
+                        <div class="form-group col-12 mb-4">
+                            <center>
+                                <h2>
+                                    Buscar
+                                </h2>
+                            </center>
+                        </div>
+                        <div class="form-group col-12">
+                            <span class="modal-text">
+
+                            </span>
+                        </div>
+                        <div class="form-group col-12 mb-4">
+                                <input type="text" class="form-control modal-input" name="query" placeholder="Buscar">
+                        </div>
+                        <div class="form-group col-12 mb-3">
+                            <a class="btn btn-modal btn-jumbotron" href="javascript:" data-href="/es/search" data-js="search-modal"><i class="far fa-search"></i>Buscar</a>
+                        </div>
+                        <div class="form-group col-12">
+                            <span class="modal-text">
+                            </span>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div uatid="Login Modal" id="patient-portal-modal" class="patient-portal-modal modal fade" tabindex="-1" role="dialog" aria-labelledby="patient-portal-modal" aria-hidden="true" data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">
+                        <i class="fa fa-times"></i>
+                    </span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <iframe width="100%" height="100%" frameborder="0" scrolling="yes" allowtransparency="false" src=""></iframe>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div uatid="GeolocationModal"  id="geoLocationModal" data-js="set-my-location-modal" class="full-width-modal modal fade" tabindex="-1" role="dialog" aria-labelledby="geoLocationModal" aria-hidden="true" data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog " role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <i class="far fa-times"></i>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="form-inline">
+                    <div class="form-group col-12 mb-3 pl-0">
+                        <h2 class="mr-4">
+                            Set My Location
+                        </h2>
+                        <a data-js="clear-my-location" class="text-white clear-link d-none" href="">
+                            Clear
+                        </a>
+                    </div>
+                    <div class="form-group col-12 mb-4 pl-0">
+                        <span class="modal-text">
+                            Setting your location helps us to show you nearby doctors, locations and events throughout the site.
+                        </span>
+                    </div>
+                    <div class="form-group col-md-5 mb-5 pl-0">
+                        <input type="text" value="" class="form-control modal-input w-100 location-input" data-js="input-text-google-autocomplete" placeholder="Enter city or ZIP code" />
+                    </div>
+                    <input type="button" class="btn btn-modal btn-jumbotron mb-5" data-js="set-my-location-btn" data-key="AIzaSyCdz3YdjJSYyFX0WifpC46yWisc2iuPik0" data-url="https://maps.googleapis.com/maps/api/geocode/json" value="Set My Location">
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+	<!-- End Place Holder for Alert Modal  -->
+
+</footer>
+
+
+
+  
+
+  <script id="google-maps-library" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyALCITqXu27UmmXRxdUPooTNNkNz0JRVOI&amp;libraries=places"></script>
+  <script src="/static/BH/scripts/bh.min.js"></script>
+  <script src="https://www.clockwisemd.com/hospitals/clockwise_api.js"></script>
+  <script>
+document.addEventListener('WebComponentsReady', function() {
+$.js('gcn-modal').on('show.bs.modal', function (e) {
+    $('#nebula_div_btn').hide();
+  }).on('hide.bs.modal', function (e) {
+    $('#nebula_div_btn').show();
+  });
+});
+</script>
+
+  
+  
+</body>
+</html>
